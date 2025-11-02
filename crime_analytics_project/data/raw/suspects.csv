@@ -1,0 +1,4043 @@
+case_id,name,age,status
+20251030-0003,Suspect 552,21,Suspect
+20251030-0006,Suspect 834,38,Arrested
+20251030-0006,Suspect 313,22,Wanted
+20251030-0008,Suspect 472,23,Wanted
+20251030-0008,Suspect 920,43,Arrested
+20251030-0008,Suspect 94,61,Person of Interest
+20251030-0009,Suspect 504,63,Wanted
+20251030-0009,Suspect 237,18,Suspect
+20251030-0010,Suspect 946,58,Wanted
+20251030-0013,Suspect 676,60,Wanted
+20251030-0013,Suspect 449,22,Person of Interest
+20251030-0015,Suspect 770,35,Person of Interest
+20251030-0015,Suspect 640,62,Arrested
+20251030-0016,Suspect 717,49,Person of Interest
+20251030-0017,Suspect 969,50,Arrested
+20251030-0019,Suspect 725,27,Suspect
+20251030-0022,Suspect 102,47,Arrested
+20251030-0022,Suspect 288,39,Person of Interest
+20251030-0022,Suspect 991,33,Person of Interest
+20251030-0023,Suspect 152,39,Suspect
+20251030-0024,Suspect 317,36,Wanted
+20251030-0024,Suspect 640,47,Person of Interest
+20251030-0024,Suspect 188,34,Suspect
+20251030-0030,Suspect 412,54,Wanted
+20251030-0030,Suspect 992,65,Wanted
+20251030-0030,Suspect 694,56,Suspect
+20251030-0032,Suspect 881,35,Wanted
+20251030-0032,Suspect 620,50,Suspect
+20251030-0039,Suspect 855,60,Wanted
+20251030-0039,Suspect 136,39,Arrested
+20251030-0039,Suspect 665,50,Wanted
+20251030-0041,Suspect 947,63,Arrested
+20251030-0044,Suspect 914,46,Person of Interest
+20251030-0044,Suspect 826,27,Wanted
+20251030-0048,Suspect 276,20,Person of Interest
+20251030-0049,Suspect 868,36,Person of Interest
+20251030-0049,Suspect 728,61,Person of Interest
+20251030-0052,Suspect 769,19,Person of Interest
+20251030-0054,Suspect 988,51,Person of Interest
+20251030-0054,Suspect 135,59,Person of Interest
+20251030-0055,Suspect 192,19,Suspect
+20251030-0055,Suspect 879,55,Wanted
+20251030-0055,Suspect 856,59,Suspect
+20251030-0058,Suspect 579,21,Wanted
+20251030-0059,Suspect 495,29,Suspect
+20251030-0059,Suspect 758,65,Suspect
+20251030-0062,Suspect 545,52,Suspect
+20251030-0062,Suspect 345,44,Wanted
+20251030-0063,Suspect 58,21,Arrested
+20251030-0064,Suspect 221,49,Wanted
+20251030-0064,Suspect 304,27,Person of Interest
+20251030-0065,Suspect 947,60,Arrested
+20251030-0072,Suspect 793,64,Arrested
+20251030-0072,Suspect 531,57,Suspect
+20251030-0074,Suspect 553,52,Wanted
+20251030-0074,Suspect 831,24,Person of Interest
+20251030-0077,Suspect 629,47,Person of Interest
+20251030-0077,Suspect 963,42,Wanted
+20251030-0078,Suspect 882,52,Person of Interest
+20251030-0080,Suspect 803,42,Arrested
+20251030-0080,Suspect 85,26,Suspect
+20251030-0088,Suspect 716,47,Suspect
+20251030-0088,Suspect 89,59,Suspect
+20251030-0089,Suspect 107,38,Arrested
+20251030-0089,Suspect 55,58,Person of Interest
+20251030-0090,Suspect 311,35,Person of Interest
+20251030-0090,Suspect 211,28,Person of Interest
+20251030-0093,Suspect 261,64,Wanted
+20251030-0097,Suspect 170,52,Suspect
+20251030-0097,Suspect 294,58,Arrested
+20251030-0099,Suspect 917,45,Suspect
+20251030-0099,Suspect 309,31,Person of Interest
+20251030-0099,Suspect 704,60,Wanted
+20251030-0101,Suspect 199,24,Person of Interest
+20251030-0102,Suspect 557,38,Suspect
+20251030-0102,Suspect 56,37,Arrested
+20251030-0103,Suspect 718,28,Suspect
+20251030-0106,Suspect 504,47,Wanted
+20251030-0106,Suspect 21,55,Arrested
+20251030-0109,Suspect 466,36,Arrested
+20251030-0109,Suspect 548,33,Person of Interest
+20251030-0109,Suspect 966,36,Wanted
+20251030-0110,Suspect 62,43,Wanted
+20251030-0111,Suspect 760,36,Arrested
+20251030-0111,Suspect 17,22,Arrested
+20251030-0111,Suspect 143,38,Wanted
+20251030-0122,Suspect 651,61,Arrested
+20251030-0122,Suspect 463,36,Arrested
+20251030-0122,Suspect 64,39,Wanted
+20251030-0125,Suspect 942,37,Wanted
+20251030-0125,Suspect 691,19,Arrested
+20251030-0125,Suspect 641,24,Suspect
+20251030-0127,Suspect 842,37,Suspect
+20251030-0127,Suspect 576,37,Suspect
+20251030-0128,Suspect 735,51,Arrested
+20251030-0128,Suspect 709,47,Suspect
+20251030-0128,Suspect 243,29,Suspect
+20251030-0130,Suspect 67,56,Person of Interest
+20251030-0130,Suspect 236,51,Suspect
+20251030-0130,Suspect 101,32,Suspect
+20251030-0131,Suspect 879,65,Wanted
+20251030-0131,Suspect 925,40,Arrested
+20251030-0131,Suspect 346,47,Arrested
+20251030-0137,Suspect 881,49,Arrested
+20251030-0137,Suspect 442,58,Wanted
+20251030-0138,Suspect 21,59,Suspect
+20251030-0139,Suspect 905,32,Person of Interest
+20251030-0140,Suspect 917,55,Person of Interest
+20251030-0140,Suspect 866,20,Person of Interest
+20251030-0140,Suspect 500,40,Suspect
+20251030-0144,Suspect 139,33,Wanted
+20251030-0144,Suspect 984,46,Wanted
+20251030-0145,Suspect 368,24,Wanted
+20251030-0145,Suspect 131,35,Wanted
+20251030-0149,Suspect 781,33,Person of Interest
+20251030-0149,Suspect 458,32,Suspect
+20251030-0150,Suspect 128,21,Wanted
+20251030-0151,Suspect 51,28,Person of Interest
+20251030-0154,Suspect 917,18,Person of Interest
+20251030-0154,Suspect 541,28,Arrested
+20251030-0154,Suspect 912,29,Suspect
+20251030-0155,Suspect 268,60,Wanted
+20251030-0157,Suspect 612,31,Wanted
+20251030-0157,Suspect 786,22,Wanted
+20251030-0157,Suspect 57,25,Suspect
+20251030-0164,Suspect 479,55,Suspect
+20251030-0165,Suspect 379,34,Wanted
+20251030-0165,Suspect 752,54,Wanted
+20251030-0169,Suspect 446,64,Wanted
+20251030-0172,Suspect 225,25,Arrested
+20251030-0173,Suspect 428,26,Wanted
+20251030-0173,Suspect 324,54,Arrested
+20251030-0173,Suspect 961,62,Suspect
+20251030-0174,Suspect 977,57,Person of Interest
+20251030-0174,Suspect 232,36,Person of Interest
+20251030-0174,Suspect 982,28,Arrested
+20251030-0175,Suspect 758,18,Person of Interest
+20251030-0175,Suspect 489,63,Suspect
+20251030-0175,Suspect 211,43,Arrested
+20251030-0178,Suspect 286,44,Suspect
+20251030-0178,Suspect 250,39,Arrested
+20251030-0180,Suspect 515,37,Arrested
+20251030-0180,Suspect 195,46,Person of Interest
+20251030-0180,Suspect 705,44,Wanted
+20251030-0181,Suspect 559,38,Person of Interest
+20251030-0184,Suspect 549,35,Arrested
+20251030-0185,Suspect 694,45,Arrested
+20251030-0188,Suspect 39,26,Suspect
+20251030-0188,Suspect 83,61,Wanted
+20251030-0189,Suspect 42,30,Arrested
+20251030-0189,Suspect 142,22,Suspect
+20251030-0198,Suspect 889,22,Person of Interest
+20251030-0199,Suspect 133,61,Arrested
+20251030-0199,Suspect 373,26,Wanted
+20251030-0199,Suspect 664,23,Person of Interest
+20251030-0201,Suspect 736,50,Arrested
+20251030-0201,Suspect 465,55,Arrested
+20251030-0201,Suspect 156,24,Person of Interest
+20251030-0202,Suspect 376,29,Suspect
+20251030-0202,Suspect 961,28,Arrested
+20251030-0202,Suspect 239,61,Person of Interest
+20251030-0203,Suspect 378,49,Wanted
+20251030-0203,Suspect 454,42,Wanted
+20251030-0205,Suspect 410,23,Person of Interest
+20251030-0205,Suspect 838,25,Wanted
+20251030-0205,Suspect 501,55,Person of Interest
+20251030-0206,Suspect 259,47,Wanted
+20251030-0206,Suspect 920,23,Wanted
+20251030-0206,Suspect 630,42,Arrested
+20251030-0208,Suspect 319,30,Suspect
+20251030-0208,Suspect 926,40,Wanted
+20251030-0208,Suspect 513,41,Wanted
+20251030-0211,Suspect 452,55,Arrested
+20251030-0216,Suspect 333,22,Wanted
+20251030-0218,Suspect 447,28,Wanted
+20251030-0219,Suspect 527,63,Wanted
+20251030-0221,Suspect 103,26,Person of Interest
+20251030-0226,Suspect 175,44,Suspect
+20251030-0226,Suspect 468,37,Suspect
+20251030-0229,Suspect 59,51,Wanted
+20251030-0229,Suspect 339,54,Person of Interest
+20251030-0229,Suspect 131,58,Suspect
+20251030-0231,Suspect 505,24,Person of Interest
+20251030-0231,Suspect 909,64,Wanted
+20251030-0234,Suspect 144,29,Arrested
+20251030-0234,Suspect 187,22,Suspect
+20251030-0235,Suspect 197,21,Suspect
+20251030-0235,Suspect 203,62,Arrested
+20251030-0235,Suspect 144,39,Suspect
+20251030-0236,Suspect 636,28,Person of Interest
+20251030-0236,Suspect 683,33,Wanted
+20251030-0236,Suspect 647,21,Suspect
+20251030-0238,Suspect 98,30,Arrested
+20251030-0238,Suspect 576,32,Suspect
+20251030-0244,Suspect 389,60,Person of Interest
+20251030-0244,Suspect 82,19,Suspect
+20251030-0245,Suspect 656,59,Suspect
+20251030-0246,Suspect 595,63,Suspect
+20251030-0246,Suspect 518,18,Arrested
+20251030-0246,Suspect 921,54,Arrested
+20251030-0247,Suspect 8,18,Person of Interest
+20251030-0247,Suspect 998,50,Person of Interest
+20251030-0247,Suspect 665,37,Wanted
+20251030-0249,Suspect 783,45,Suspect
+20251030-0251,Suspect 268,38,Person of Interest
+20251030-0251,Suspect 382,43,Person of Interest
+20251030-0252,Suspect 914,29,Person of Interest
+20251030-0252,Suspect 525,31,Wanted
+20251030-0252,Suspect 244,54,Wanted
+20251030-0256,Suspect 247,19,Suspect
+20251030-0257,Suspect 784,63,Person of Interest
+20251030-0257,Suspect 356,30,Wanted
+20251030-0257,Suspect 891,34,Arrested
+20251030-0258,Suspect 147,65,Arrested
+20251030-0258,Suspect 977,41,Person of Interest
+20251030-0258,Suspect 743,18,Wanted
+20251030-0260,Suspect 261,44,Suspect
+20251030-0260,Suspect 730,62,Arrested
+20251030-0261,Suspect 732,24,Suspect
+20251030-0261,Suspect 376,47,Arrested
+20251030-0261,Suspect 474,42,Person of Interest
+20251030-0263,Suspect 277,30,Arrested
+20251030-0263,Suspect 96,64,Suspect
+20251030-0268,Suspect 500,58,Suspect
+20251030-0268,Suspect 65,56,Person of Interest
+20251030-0269,Suspect 885,33,Wanted
+20251030-0270,Suspect 872,24,Wanted
+20251030-0270,Suspect 693,31,Suspect
+20251030-0270,Suspect 969,40,Arrested
+20251030-0272,Suspect 100,30,Wanted
+20251030-0272,Suspect 580,56,Suspect
+20251030-0272,Suspect 891,57,Arrested
+20251030-0274,Suspect 969,27,Wanted
+20251030-0274,Suspect 745,26,Arrested
+20251030-0276,Suspect 757,23,Arrested
+20251030-0277,Suspect 315,55,Arrested
+20251030-0277,Suspect 730,43,Arrested
+20251030-0278,Suspect 544,31,Person of Interest
+20251030-0279,Suspect 230,22,Arrested
+20251030-0279,Suspect 28,38,Suspect
+20251030-0279,Suspect 246,65,Wanted
+20251030-0288,Suspect 145,47,Person of Interest
+20251030-0288,Suspect 135,60,Arrested
+20251030-0288,Suspect 783,56,Suspect
+20251030-0294,Suspect 695,59,Arrested
+20251030-0294,Suspect 409,32,Person of Interest
+20251030-0294,Suspect 829,64,Suspect
+20251030-0295,Suspect 309,19,Person of Interest
+20251030-0295,Suspect 523,25,Suspect
+20251030-0296,Suspect 754,22,Wanted
+20251030-0296,Suspect 812,28,Person of Interest
+20251030-0297,Suspect 433,38,Person of Interest
+20251030-0297,Suspect 994,42,Arrested
+20251030-0297,Suspect 700,63,Person of Interest
+20251030-0304,Suspect 292,33,Arrested
+20251030-0304,Suspect 255,64,Suspect
+20251030-0304,Suspect 421,64,Arrested
+20251030-0305,Suspect 250,35,Wanted
+20251030-0305,Suspect 896,46,Suspect
+20251030-0308,Suspect 737,25,Arrested
+20251030-0310,Suspect 800,45,Suspect
+20251030-0310,Suspect 539,32,Wanted
+20251030-0310,Suspect 851,54,Person of Interest
+20251030-0311,Suspect 166,36,Wanted
+20251030-0311,Suspect 614,30,Person of Interest
+20251030-0313,Suspect 510,23,Wanted
+20251030-0313,Suspect 927,51,Suspect
+20251030-0313,Suspect 876,50,Wanted
+20251030-0315,Suspect 700,59,Person of Interest
+20251030-0315,Suspect 751,25,Arrested
+20251030-0315,Suspect 922,56,Person of Interest
+20251030-0317,Suspect 662,19,Wanted
+20251030-0317,Suspect 420,49,Wanted
+20251030-0317,Suspect 409,64,Person of Interest
+20251030-0318,Suspect 526,48,Arrested
+20251030-0318,Suspect 755,29,Arrested
+20251030-0320,Suspect 671,44,Suspect
+20251030-0320,Suspect 624,45,Wanted
+20251030-0320,Suspect 994,31,Wanted
+20251030-0322,Suspect 727,51,Person of Interest
+20251030-0322,Suspect 778,57,Arrested
+20251030-0325,Suspect 268,52,Suspect
+20251030-0325,Suspect 894,58,Wanted
+20251030-0329,Suspect 431,57,Arrested
+20251030-0331,Suspect 784,21,Suspect
+20251030-0335,Suspect 107,31,Wanted
+20251030-0337,Suspect 80,49,Arrested
+20251030-0337,Suspect 525,20,Arrested
+20251030-0337,Suspect 651,61,Suspect
+20251030-0338,Suspect 552,27,Person of Interest
+20251030-0338,Suspect 434,52,Person of Interest
+20251030-0338,Suspect 426,19,Person of Interest
+20251030-0340,Suspect 910,18,Person of Interest
+20251030-0340,Suspect 10,20,Wanted
+20251030-0342,Suspect 75,39,Wanted
+20251030-0343,Suspect 879,41,Arrested
+20251030-0343,Suspect 337,53,Person of Interest
+20251030-0343,Suspect 255,37,Person of Interest
+20251030-0344,Suspect 627,27,Arrested
+20251030-0344,Suspect 290,54,Suspect
+20251030-0344,Suspect 888,29,Suspect
+20251030-0347,Suspect 698,23,Wanted
+20251030-0347,Suspect 47,42,Suspect
+20251030-0347,Suspect 510,55,Arrested
+20251030-0348,Suspect 324,19,Arrested
+20251030-0348,Suspect 97,50,Suspect
+20251030-0350,Suspect 604,55,Person of Interest
+20251030-0350,Suspect 296,56,Arrested
+20251030-0350,Suspect 797,19,Suspect
+20251030-0355,Suspect 581,18,Suspect
+20251030-0355,Suspect 992,63,Suspect
+20251030-0356,Suspect 379,26,Suspect
+20251030-0356,Suspect 975,32,Wanted
+20251030-0364,Suspect 820,26,Suspect
+20251030-0364,Suspect 123,62,Wanted
+20251030-0365,Suspect 702,42,Suspect
+20251030-0365,Suspect 691,50,Wanted
+20251030-0365,Suspect 239,54,Person of Interest
+20251030-0367,Suspect 726,41,Suspect
+20251030-0367,Suspect 832,35,Suspect
+20251030-0369,Suspect 163,45,Arrested
+20251030-0369,Suspect 294,64,Arrested
+20251030-0369,Suspect 504,39,Arrested
+20251030-0370,Suspect 332,25,Suspect
+20251030-0370,Suspect 521,49,Person of Interest
+20251030-0371,Suspect 860,34,Suspect
+20251030-0371,Suspect 435,53,Person of Interest
+20251030-0372,Suspect 518,61,Wanted
+20251030-0372,Suspect 8,53,Person of Interest
+20251030-0372,Suspect 874,24,Person of Interest
+20251030-0375,Suspect 594,60,Wanted
+20251030-0375,Suspect 159,53,Arrested
+20251030-0375,Suspect 383,65,Suspect
+20251030-0376,Suspect 496,23,Arrested
+20251030-0380,Suspect 669,62,Arrested
+20251030-0381,Suspect 665,54,Person of Interest
+20251030-0383,Suspect 120,59,Wanted
+20251030-0383,Suspect 210,35,Suspect
+20251030-0383,Suspect 283,23,Arrested
+20251030-0385,Suspect 310,64,Person of Interest
+20251030-0387,Suspect 149,31,Arrested
+20251030-0387,Suspect 190,22,Suspect
+20251030-0389,Suspect 275,48,Suspect
+20251030-0389,Suspect 712,34,Wanted
+20251030-0389,Suspect 152,58,Arrested
+20251030-0393,Suspect 924,44,Wanted
+20251030-0393,Suspect 628,57,Arrested
+20251030-0395,Suspect 921,49,Wanted
+20251030-0396,Suspect 219,22,Person of Interest
+20251030-0397,Suspect 573,39,Person of Interest
+20251030-0399,Suspect 787,33,Arrested
+20251030-0401,Suspect 65,20,Person of Interest
+20251030-0403,Suspect 275,53,Wanted
+20251030-0403,Suspect 29,49,Suspect
+20251030-0406,Suspect 869,37,Person of Interest
+20251030-0406,Suspect 657,25,Arrested
+20251030-0408,Suspect 626,26,Arrested
+20251030-0408,Suspect 941,18,Suspect
+20251030-0409,Suspect 957,32,Suspect
+20251030-0409,Suspect 115,35,Person of Interest
+20251030-0409,Suspect 412,57,Arrested
+20251030-0413,Suspect 298,50,Suspect
+20251030-0413,Suspect 855,29,Wanted
+20251030-0413,Suspect 62,51,Arrested
+20251030-0422,Suspect 697,21,Arrested
+20251030-0422,Suspect 73,36,Suspect
+20251030-0422,Suspect 127,58,Wanted
+20251030-0424,Suspect 347,45,Person of Interest
+20251030-0424,Suspect 674,22,Wanted
+20251030-0425,Suspect 520,61,Arrested
+20251030-0425,Suspect 266,30,Person of Interest
+20251030-0427,Suspect 658,26,Person of Interest
+20251030-0429,Suspect 875,40,Wanted
+20251030-0429,Suspect 885,54,Arrested
+20251030-0429,Suspect 178,44,Wanted
+20251030-0430,Suspect 449,53,Suspect
+20251030-0430,Suspect 676,42,Suspect
+20251030-0430,Suspect 837,18,Suspect
+20251030-0434,Suspect 880,53,Person of Interest
+20251030-0436,Suspect 917,31,Suspect
+20251030-0436,Suspect 486,33,Person of Interest
+20251030-0443,Suspect 891,58,Wanted
+20251030-0443,Suspect 38,43,Suspect
+20251030-0443,Suspect 538,27,Arrested
+20251030-0446,Suspect 314,40,Arrested
+20251030-0446,Suspect 694,18,Suspect
+20251030-0447,Suspect 949,64,Person of Interest
+20251030-0447,Suspect 263,41,Arrested
+20251030-0448,Suspect 594,55,Wanted
+20251030-0448,Suspect 475,50,Arrested
+20251030-0449,Suspect 115,43,Suspect
+20251030-0449,Suspect 558,48,Person of Interest
+20251030-0449,Suspect 370,19,Arrested
+20251030-0457,Suspect 627,59,Suspect
+20251030-0458,Suspect 867,58,Arrested
+20251030-0458,Suspect 135,33,Arrested
+20251030-0459,Suspect 963,35,Suspect
+20251030-0460,Suspect 914,45,Person of Interest
+20251030-0462,Suspect 237,40,Wanted
+20251030-0462,Suspect 145,53,Person of Interest
+20251030-0462,Suspect 429,59,Person of Interest
+20251030-0463,Suspect 153,28,Person of Interest
+20251030-0463,Suspect 775,56,Arrested
+20251030-0463,Suspect 973,58,Suspect
+20251030-0466,Suspect 236,29,Suspect
+20251030-0466,Suspect 31,26,Arrested
+20251030-0466,Suspect 793,26,Arrested
+20251030-0468,Suspect 464,49,Arrested
+20251030-0468,Suspect 229,21,Wanted
+20251030-0469,Suspect 905,61,Suspect
+20251030-0469,Suspect 117,42,Arrested
+20251030-0469,Suspect 123,50,Arrested
+20251030-0471,Suspect 497,32,Suspect
+20251030-0471,Suspect 862,54,Wanted
+20251030-0472,Suspect 374,39,Arrested
+20251030-0473,Suspect 605,62,Person of Interest
+20251030-0473,Suspect 792,56,Suspect
+20251030-0473,Suspect 541,46,Arrested
+20251030-0475,Suspect 965,59,Suspect
+20251030-0478,Suspect 243,57,Arrested
+20251030-0479,Suspect 437,41,Person of Interest
+20251030-0483,Suspect 775,57,Person of Interest
+20251030-0483,Suspect 415,18,Wanted
+20251030-0483,Suspect 538,35,Arrested
+20251030-0485,Suspect 900,40,Person of Interest
+20251030-0487,Suspect 740,23,Arrested
+20251030-0489,Suspect 512,23,Suspect
+20251030-0489,Suspect 534,53,Person of Interest
+20251030-0489,Suspect 700,56,Person of Interest
+20251030-0490,Suspect 303,24,Arrested
+20251030-0490,Suspect 8,37,Person of Interest
+20251030-0491,Suspect 45,48,Person of Interest
+20251030-0491,Suspect 845,42,Suspect
+20251030-0491,Suspect 368,46,Person of Interest
+20251030-0497,Suspect 208,60,Arrested
+20251030-0497,Suspect 603,56,Suspect
+20251030-0497,Suspect 473,28,Person of Interest
+20251030-0498,Suspect 658,45,Suspect
+20251030-0499,Suspect 915,37,Suspect
+20251030-0502,Suspect 150,33,Arrested
+20251030-0502,Suspect 986,26,Suspect
+20251030-0502,Suspect 16,53,Wanted
+20251030-0503,Suspect 950,29,Wanted
+20251030-0503,Suspect 264,52,Suspect
+20251030-0504,Suspect 425,32,Suspect
+20251030-0504,Suspect 543,31,Suspect
+20251030-0506,Suspect 977,34,Arrested
+20251030-0506,Suspect 548,62,Wanted
+20251030-0506,Suspect 558,35,Suspect
+20251030-0507,Suspect 530,43,Suspect
+20251030-0507,Suspect 545,45,Arrested
+20251030-0507,Suspect 484,62,Arrested
+20251030-0508,Suspect 582,33,Suspect
+20251030-0508,Suspect 484,27,Arrested
+20251030-0515,Suspect 281,33,Person of Interest
+20251030-0516,Suspect 615,32,Arrested
+20251030-0516,Suspect 343,52,Wanted
+20251030-0519,Suspect 541,38,Suspect
+20251030-0519,Suspect 671,23,Person of Interest
+20251030-0519,Suspect 838,63,Wanted
+20251030-0520,Suspect 134,58,Arrested
+20251030-0521,Suspect 509,42,Arrested
+20251030-0524,Suspect 335,60,Arrested
+20251030-0526,Suspect 436,45,Person of Interest
+20251030-0526,Suspect 55,22,Suspect
+20251030-0527,Suspect 5,30,Person of Interest
+20251030-0527,Suspect 109,32,Arrested
+20251030-0528,Suspect 252,54,Wanted
+20251030-0531,Suspect 392,45,Suspect
+20251030-0531,Suspect 438,27,Suspect
+20251030-0531,Suspect 759,33,Person of Interest
+20251030-0533,Suspect 10,62,Arrested
+20251030-0533,Suspect 207,20,Wanted
+20251030-0536,Suspect 596,22,Person of Interest
+20251030-0536,Suspect 612,64,Person of Interest
+20251030-0537,Suspect 994,26,Person of Interest
+20251030-0537,Suspect 904,60,Person of Interest
+20251030-0540,Suspect 742,31,Arrested
+20251030-0540,Suspect 782,32,Wanted
+20251030-0541,Suspect 498,46,Arrested
+20251030-0541,Suspect 404,48,Person of Interest
+20251030-0541,Suspect 396,44,Arrested
+20251030-0542,Suspect 310,18,Person of Interest
+20251030-0542,Suspect 558,52,Suspect
+20251030-0543,Suspect 781,41,Suspect
+20251030-0543,Suspect 571,53,Wanted
+20251030-0543,Suspect 617,55,Arrested
+20251030-0544,Suspect 343,32,Wanted
+20251030-0548,Suspect 525,48,Arrested
+20251030-0548,Suspect 28,35,Arrested
+20251030-0548,Suspect 64,37,Person of Interest
+20251030-0549,Suspect 401,31,Suspect
+20251030-0549,Suspect 312,24,Person of Interest
+20251030-0550,Suspect 796,63,Person of Interest
+20251030-0550,Suspect 860,30,Person of Interest
+20251030-0556,Suspect 986,29,Wanted
+20251030-0557,Suspect 703,19,Wanted
+20251030-0557,Suspect 219,20,Arrested
+20251030-0562,Suspect 785,32,Person of Interest
+20251030-0571,Suspect 48,20,Suspect
+20251030-0571,Suspect 223,54,Suspect
+20251030-0572,Suspect 571,35,Suspect
+20251030-0573,Suspect 215,39,Person of Interest
+20251030-0573,Suspect 623,33,Wanted
+20251030-0573,Suspect 345,55,Arrested
+20251030-0574,Suspect 70,45,Suspect
+20251030-0574,Suspect 72,59,Wanted
+20251030-0574,Suspect 964,46,Person of Interest
+20251030-0575,Suspect 212,23,Person of Interest
+20251030-0575,Suspect 594,54,Wanted
+20251030-0576,Suspect 93,22,Suspect
+20251030-0576,Suspect 697,31,Person of Interest
+20251030-0588,Suspect 444,28,Person of Interest
+20251030-0588,Suspect 223,41,Wanted
+20251030-0592,Suspect 24,57,Wanted
+20251030-0592,Suspect 280,58,Person of Interest
+20251030-0592,Suspect 467,38,Arrested
+20251030-0600,Suspect 970,43,Arrested
+20251030-0600,Suspect 850,31,Wanted
+20251030-0603,Suspect 859,24,Wanted
+20251030-0604,Suspect 862,18,Wanted
+20251030-0604,Suspect 509,41,Suspect
+20251030-0605,Suspect 593,39,Person of Interest
+20251030-0605,Suspect 334,50,Suspect
+20251030-0609,Suspect 733,58,Arrested
+20251030-0609,Suspect 707,46,Arrested
+20251030-0612,Suspect 224,34,Arrested
+20251030-0612,Suspect 528,61,Arrested
+20251030-0612,Suspect 855,21,Suspect
+20251030-0614,Suspect 80,55,Suspect
+20251030-0614,Suspect 775,29,Person of Interest
+20251030-0617,Suspect 682,24,Wanted
+20251030-0617,Suspect 88,53,Wanted
+20251030-0618,Suspect 78,22,Arrested
+20251030-0618,Suspect 551,60,Wanted
+20251030-0620,Suspect 395,24,Arrested
+20251030-0620,Suspect 110,57,Arrested
+20251030-0620,Suspect 933,27,Suspect
+20251030-0621,Suspect 963,36,Wanted
+20251030-0621,Suspect 204,57,Wanted
+20251030-0630,Suspect 702,54,Wanted
+20251030-0630,Suspect 121,48,Arrested
+20251030-0630,Suspect 29,49,Arrested
+20251030-0632,Suspect 70,50,Wanted
+20251030-0632,Suspect 335,27,Arrested
+20251030-0634,Suspect 565,54,Person of Interest
+20251030-0634,Suspect 26,56,Suspect
+20251030-0635,Suspect 353,49,Suspect
+20251030-0635,Suspect 444,61,Person of Interest
+20251030-0635,Suspect 242,46,Arrested
+20251030-0637,Suspect 904,65,Suspect
+20251030-0637,Suspect 923,53,Person of Interest
+20251030-0640,Suspect 154,38,Arrested
+20251030-0640,Suspect 482,50,Person of Interest
+20251030-0640,Suspect 428,25,Person of Interest
+20251030-0647,Suspect 228,29,Person of Interest
+20251030-0647,Suspect 820,41,Person of Interest
+20251030-0653,Suspect 945,62,Arrested
+20251030-0653,Suspect 448,57,Suspect
+20251030-0653,Suspect 411,58,Wanted
+20251030-0655,Suspect 558,39,Suspect
+20251030-0658,Suspect 571,46,Arrested
+20251030-0658,Suspect 821,22,Wanted
+20251030-0658,Suspect 963,25,Suspect
+20251030-0661,Suspect 765,61,Suspect
+20251030-0661,Suspect 260,27,Wanted
+20251030-0661,Suspect 507,19,Suspect
+20251030-0662,Suspect 237,48,Person of Interest
+20251030-0662,Suspect 319,56,Wanted
+20251030-0662,Suspect 491,56,Arrested
+20251030-0670,Suspect 469,48,Arrested
+20251030-0670,Suspect 161,18,Person of Interest
+20251030-0671,Suspect 295,48,Wanted
+20251030-0671,Suspect 620,19,Wanted
+20251030-0671,Suspect 209,42,Person of Interest
+20251030-0672,Suspect 445,56,Arrested
+20251030-0672,Suspect 276,44,Person of Interest
+20251030-0672,Suspect 77,62,Suspect
+20251030-0673,Suspect 575,30,Person of Interest
+20251030-0673,Suspect 789,29,Arrested
+20251030-0673,Suspect 58,23,Suspect
+20251030-0674,Suspect 940,35,Suspect
+20251030-0677,Suspect 817,25,Arrested
+20251030-0677,Suspect 383,56,Suspect
+20251030-0679,Suspect 277,39,Arrested
+20251030-0679,Suspect 244,48,Wanted
+20251030-0679,Suspect 344,56,Wanted
+20251030-0683,Suspect 350,31,Wanted
+20251030-0683,Suspect 273,54,Suspect
+20251030-0683,Suspect 613,25,Person of Interest
+20251030-0685,Suspect 360,50,Suspect
+20251030-0685,Suspect 670,42,Suspect
+20251030-0688,Suspect 881,32,Person of Interest
+20251030-0691,Suspect 607,26,Arrested
+20251030-0691,Suspect 614,48,Person of Interest
+20251030-0691,Suspect 539,63,Suspect
+20251030-0692,Suspect 387,62,Person of Interest
+20251030-0692,Suspect 822,30,Wanted
+20251030-0693,Suspect 329,63,Person of Interest
+20251030-0693,Suspect 836,23,Person of Interest
+20251030-0698,Suspect 412,42,Wanted
+20251030-0699,Suspect 573,23,Wanted
+20251030-0699,Suspect 273,21,Person of Interest
+20251030-0704,Suspect 12,49,Suspect
+20251030-0704,Suspect 72,62,Wanted
+20251030-0709,Suspect 638,30,Wanted
+20251030-0709,Suspect 730,26,Suspect
+20251030-0709,Suspect 764,32,Wanted
+20251030-0710,Suspect 115,55,Arrested
+20251030-0711,Suspect 356,35,Wanted
+20251030-0711,Suspect 733,59,Person of Interest
+20251030-0712,Suspect 817,54,Wanted
+20251030-0712,Suspect 189,49,Suspect
+20251030-0713,Suspect 340,55,Person of Interest
+20251030-0715,Suspect 817,51,Person of Interest
+20251030-0718,Suspect 219,59,Suspect
+20251030-0721,Suspect 910,24,Arrested
+20251030-0724,Suspect 934,42,Wanted
+20251030-0725,Suspect 207,20,Person of Interest
+20251030-0725,Suspect 296,38,Arrested
+20251030-0728,Suspect 235,55,Person of Interest
+20251030-0729,Suspect 88,54,Suspect
+20251030-0734,Suspect 568,27,Wanted
+20251030-0736,Suspect 590,30,Suspect
+20251030-0736,Suspect 249,26,Arrested
+20251030-0738,Suspect 790,27,Wanted
+20251030-0740,Suspect 477,38,Wanted
+20251030-0744,Suspect 613,44,Wanted
+20251030-0744,Suspect 768,29,Person of Interest
+20251030-0748,Suspect 390,57,Arrested
+20251030-0748,Suspect 410,46,Wanted
+20251030-0750,Suspect 254,35,Suspect
+20251030-0751,Suspect 890,46,Suspect
+20251030-0751,Suspect 934,21,Suspect
+20251030-0751,Suspect 731,19,Wanted
+20251030-0754,Suspect 486,58,Person of Interest
+20251030-0754,Suspect 419,25,Arrested
+20251030-0754,Suspect 80,58,Wanted
+20251030-0756,Suspect 279,37,Person of Interest
+20251030-0759,Suspect 652,53,Wanted
+20251030-0760,Suspect 411,49,Suspect
+20251030-0764,Suspect 725,59,Person of Interest
+20251030-0764,Suspect 59,40,Arrested
+20251030-0765,Suspect 170,62,Arrested
+20251030-0765,Suspect 99,56,Wanted
+20251030-0766,Suspect 813,32,Arrested
+20251030-0766,Suspect 459,34,Suspect
+20251030-0768,Suspect 649,57,Suspect
+20251030-0768,Suspect 857,34,Person of Interest
+20251030-0770,Suspect 60,28,Suspect
+20251030-0774,Suspect 237,27,Arrested
+20251030-0774,Suspect 689,35,Wanted
+20251030-0774,Suspect 733,20,Arrested
+20251030-0777,Suspect 600,39,Wanted
+20251030-0777,Suspect 883,63,Suspect
+20251030-0777,Suspect 586,44,Arrested
+20251030-0778,Suspect 597,44,Person of Interest
+20251030-0778,Suspect 930,25,Wanted
+20251030-0778,Suspect 324,43,Suspect
+20251030-0781,Suspect 544,46,Suspect
+20251030-0781,Suspect 363,43,Wanted
+20251030-0781,Suspect 571,60,Wanted
+20251030-0784,Suspect 969,26,Person of Interest
+20251030-0784,Suspect 162,22,Suspect
+20251030-0784,Suspect 378,43,Person of Interest
+20251030-0786,Suspect 618,19,Suspect
+20251030-0787,Suspect 656,56,Arrested
+20251030-0790,Suspect 964,46,Suspect
+20251030-0790,Suspect 467,51,Wanted
+20251030-0791,Suspect 4,58,Arrested
+20251030-0791,Suspect 282,39,Person of Interest
+20251030-0795,Suspect 505,62,Person of Interest
+20251030-0795,Suspect 782,33,Wanted
+20251030-0795,Suspect 63,65,Arrested
+20251030-0796,Suspect 406,54,Wanted
+20251030-0796,Suspect 59,39,Person of Interest
+20251030-0796,Suspect 839,29,Wanted
+20251030-0798,Suspect 965,40,Suspect
+20251030-0798,Suspect 825,62,Arrested
+20251030-0801,Suspect 119,50,Person of Interest
+20251030-0803,Suspect 131,30,Person of Interest
+20251030-0805,Suspect 542,20,Arrested
+20251030-0805,Suspect 157,22,Wanted
+20251030-0805,Suspect 337,63,Arrested
+20251030-0806,Suspect 21,59,Person of Interest
+20251030-0806,Suspect 416,53,Suspect
+20251030-0806,Suspect 478,37,Wanted
+20251030-0808,Suspect 905,33,Wanted
+20251030-0808,Suspect 34,53,Wanted
+20251030-0808,Suspect 763,30,Wanted
+20251030-0811,Suspect 542,63,Wanted
+20251030-0811,Suspect 386,20,Person of Interest
+20251030-0812,Suspect 365,60,Person of Interest
+20251030-0813,Suspect 637,56,Arrested
+20251030-0814,Suspect 668,27,Suspect
+20251030-0814,Suspect 87,21,Arrested
+20251030-0815,Suspect 252,63,Wanted
+20251030-0820,Suspect 719,31,Person of Interest
+20251030-0823,Suspect 726,28,Arrested
+20251030-0823,Suspect 84,60,Arrested
+20251030-0824,Suspect 378,34,Wanted
+20251030-0825,Suspect 168,58,Wanted
+20251030-0825,Suspect 957,28,Wanted
+20251030-0827,Suspect 896,22,Person of Interest
+20251030-0827,Suspect 579,23,Suspect
+20251030-0827,Suspect 406,26,Arrested
+20251030-0828,Suspect 774,19,Arrested
+20251030-0828,Suspect 848,57,Person of Interest
+20251030-0831,Suspect 485,29,Suspect
+20251030-0831,Suspect 522,43,Wanted
+20251030-0833,Suspect 535,18,Person of Interest
+20251030-0833,Suspect 594,25,Wanted
+20251030-0833,Suspect 229,29,Wanted
+20251030-0834,Suspect 562,50,Arrested
+20251030-0842,Suspect 527,62,Suspect
+20251030-0843,Suspect 164,59,Wanted
+20251030-0843,Suspect 453,58,Suspect
+20251030-0846,Suspect 668,62,Wanted
+20251030-0846,Suspect 254,60,Wanted
+20251030-0846,Suspect 9,18,Suspect
+20251030-0850,Suspect 340,39,Suspect
+20251030-0852,Suspect 93,43,Wanted
+20251030-0852,Suspect 782,31,Arrested
+20251030-0852,Suspect 307,43,Suspect
+20251030-0854,Suspect 104,41,Wanted
+20251030-0854,Suspect 926,42,Suspect
+20251030-0854,Suspect 35,44,Suspect
+20251030-0855,Suspect 246,44,Person of Interest
+20251030-0855,Suspect 157,49,Person of Interest
+20251030-0855,Suspect 586,49,Arrested
+20251030-0858,Suspect 806,25,Suspect
+20251030-0858,Suspect 195,60,Wanted
+20251030-0858,Suspect 933,36,Person of Interest
+20251030-0861,Suspect 299,24,Person of Interest
+20251030-0861,Suspect 700,39,Arrested
+20251030-0864,Suspect 885,61,Suspect
+20251030-0864,Suspect 157,28,Suspect
+20251030-0864,Suspect 589,31,Suspect
+20251030-0865,Suspect 740,59,Suspect
+20251030-0869,Suspect 814,44,Suspect
+20251030-0869,Suspect 930,57,Person of Interest
+20251030-0869,Suspect 943,56,Person of Interest
+20251030-0870,Suspect 904,25,Person of Interest
+20251030-0873,Suspect 799,58,Suspect
+20251030-0873,Suspect 851,35,Suspect
+20251030-0875,Suspect 144,38,Person of Interest
+20251030-0875,Suspect 554,58,Person of Interest
+20251030-0876,Suspect 989,58,Person of Interest
+20251030-0878,Suspect 522,40,Suspect
+20251030-0880,Suspect 806,52,Wanted
+20251030-0880,Suspect 66,34,Wanted
+20251030-0881,Suspect 776,31,Suspect
+20251030-0881,Suspect 765,48,Suspect
+20251030-0881,Suspect 36,57,Suspect
+20251030-0883,Suspect 247,37,Person of Interest
+20251030-0883,Suspect 370,54,Suspect
+20251030-0883,Suspect 540,45,Arrested
+20251030-0884,Suspect 665,65,Person of Interest
+20251030-0884,Suspect 89,61,Suspect
+20251030-0886,Suspect 967,60,Wanted
+20251030-0888,Suspect 817,64,Arrested
+20251030-0888,Suspect 165,29,Wanted
+20251030-0888,Suspect 673,31,Arrested
+20251030-0890,Suspect 199,41,Suspect
+20251030-0890,Suspect 156,56,Arrested
+20251030-0890,Suspect 756,63,Wanted
+20251030-0894,Suspect 345,62,Person of Interest
+20251030-0894,Suspect 922,36,Person of Interest
+20251030-0896,Suspect 484,36,Wanted
+20251030-0896,Suspect 470,35,Arrested
+20251030-0896,Suspect 614,20,Suspect
+20251030-0897,Suspect 453,29,Wanted
+20251030-0897,Suspect 724,64,Arrested
+20251030-0898,Suspect 41,33,Suspect
+20251030-0898,Suspect 828,33,Arrested
+20251030-0900,Suspect 900,20,Arrested
+20251030-0901,Suspect 723,43,Person of Interest
+20251030-0901,Suspect 424,19,Suspect
+20251030-0901,Suspect 961,21,Person of Interest
+20251030-0906,Suspect 456,46,Person of Interest
+20251030-0909,Suspect 842,54,Arrested
+20251030-0921,Suspect 949,34,Suspect
+20251030-0921,Suspect 375,64,Person of Interest
+20251030-0921,Suspect 795,54,Person of Interest
+20251030-0924,Suspect 882,64,Person of Interest
+20251030-0924,Suspect 318,43,Suspect
+20251030-0924,Suspect 1,35,Suspect
+20251030-0928,Suspect 774,20,Wanted
+20251030-0928,Suspect 545,44,Person of Interest
+20251030-0930,Suspect 701,65,Suspect
+20251030-0930,Suspect 721,51,Person of Interest
+20251030-0930,Suspect 90,32,Arrested
+20251030-0932,Suspect 414,19,Person of Interest
+20251030-0932,Suspect 652,18,Suspect
+20251030-0932,Suspect 816,19,Suspect
+20251030-0934,Suspect 429,64,Person of Interest
+20251030-0935,Suspect 50,46,Wanted
+20251030-0935,Suspect 950,32,Person of Interest
+20251030-0937,Suspect 856,55,Suspect
+20251030-0941,Suspect 395,25,Arrested
+20251030-0943,Suspect 428,54,Person of Interest
+20251030-0948,Suspect 93,23,Person of Interest
+20251030-0949,Suspect 283,46,Suspect
+20251030-0949,Suspect 337,50,Suspect
+20251030-0950,Suspect 282,63,Arrested
+20251030-0952,Suspect 784,53,Arrested
+20251030-0956,Suspect 813,44,Suspect
+20251030-0956,Suspect 317,27,Arrested
+20251030-0956,Suspect 297,57,Wanted
+20251030-0960,Suspect 402,26,Arrested
+20251030-0962,Suspect 23,19,Suspect
+20251030-0962,Suspect 527,27,Arrested
+20251030-0963,Suspect 378,60,Wanted
+20251030-0964,Suspect 279,41,Suspect
+20251030-0964,Suspect 423,44,Arrested
+20251030-0966,Suspect 942,21,Wanted
+20251030-0966,Suspect 786,27,Suspect
+20251030-0966,Suspect 871,33,Wanted
+20251030-0967,Suspect 218,18,Wanted
+20251030-0968,Suspect 45,51,Suspect
+20251030-0968,Suspect 626,47,Wanted
+20251030-0971,Suspect 16,31,Person of Interest
+20251030-0972,Suspect 276,53,Arrested
+20251030-0972,Suspect 996,23,Wanted
+20251030-0976,Suspect 91,25,Suspect
+20251030-0978,Suspect 164,47,Suspect
+20251030-0978,Suspect 239,31,Person of Interest
+20251030-0980,Suspect 990,54,Suspect
+20251030-0980,Suspect 760,57,Wanted
+20251030-0981,Suspect 433,56,Wanted
+20251030-0981,Suspect 736,64,Person of Interest
+20251030-0981,Suspect 241,18,Wanted
+20251030-0982,Suspect 372,55,Suspect
+20251030-0982,Suspect 105,18,Arrested
+20251030-0982,Suspect 624,39,Person of Interest
+20251030-0983,Suspect 5,19,Arrested
+20251030-0984,Suspect 192,49,Arrested
+20251030-0984,Suspect 518,62,Arrested
+20251030-0987,Suspect 293,25,Suspect
+20251030-0987,Suspect 352,20,Wanted
+20251030-0990,Suspect 789,51,Arrested
+20251030-0990,Suspect 359,19,Arrested
+20251030-0993,Suspect 80,45,Arrested
+20251030-0993,Suspect 585,46,Person of Interest
+20251030-0993,Suspect 804,58,Suspect
+20251030-0995,Suspect 750,28,Wanted
+20251030-0995,Suspect 446,41,Suspect
+20251030-0995,Suspect 724,48,Wanted
+20251030-0997,Suspect 591,33,Wanted
+20251030-0997,Suspect 876,37,Wanted
+20251030-0998,Suspect 409,39,Person of Interest
+20251030-0998,Suspect 497,47,Arrested
+20251030-0998,Suspect 919,33,Suspect
+20251030-1004,Suspect 354,25,Wanted
+20251030-1005,Suspect 262,34,Wanted
+20251030-1005,Suspect 430,49,Wanted
+20251030-1009,Suspect 475,55,Wanted
+20251030-1009,Suspect 957,56,Arrested
+20251030-1009,Suspect 511,27,Wanted
+20251030-1011,Suspect 666,19,Arrested
+20251030-1012,Suspect 217,40,Arrested
+20251030-1013,Suspect 342,44,Wanted
+20251030-1013,Suspect 83,54,Suspect
+20251030-1017,Suspect 142,37,Person of Interest
+20251030-1017,Suspect 156,34,Person of Interest
+20251030-1020,Suspect 815,28,Person of Interest
+20251030-1023,Suspect 536,25,Suspect
+20251030-1025,Suspect 677,29,Person of Interest
+20251030-1025,Suspect 654,33,Arrested
+20251030-1027,Suspect 767,23,Arrested
+20251030-1030,Suspect 859,26,Suspect
+20251030-1030,Suspect 59,46,Suspect
+20251030-1032,Suspect 807,27,Arrested
+20251030-1032,Suspect 495,32,Suspect
+20251030-1033,Suspect 718,43,Suspect
+20251030-1033,Suspect 619,30,Suspect
+20251030-1033,Suspect 784,47,Wanted
+20251030-1037,Suspect 608,42,Wanted
+20251030-1038,Suspect 119,59,Person of Interest
+20251030-1038,Suspect 399,20,Wanted
+20251030-1038,Suspect 169,53,Suspect
+20251030-1047,Suspect 257,27,Wanted
+20251030-1047,Suspect 384,64,Arrested
+20251030-1047,Suspect 817,22,Person of Interest
+20251030-1048,Suspect 759,42,Wanted
+20251030-1052,Suspect 696,32,Wanted
+20251030-1052,Suspect 323,28,Arrested
+20251030-1053,Suspect 134,51,Arrested
+20251030-1053,Suspect 457,22,Arrested
+20251030-1054,Suspect 98,24,Person of Interest
+20251030-1054,Suspect 914,46,Suspect
+20251030-1054,Suspect 78,43,Suspect
+20251030-1055,Suspect 587,23,Suspect
+20251030-1055,Suspect 243,64,Arrested
+20251030-1055,Suspect 795,32,Person of Interest
+20251030-1057,Suspect 849,33,Person of Interest
+20251030-1057,Suspect 747,38,Suspect
+20251030-1057,Suspect 136,50,Wanted
+20251030-1059,Suspect 622,43,Suspect
+20251030-1059,Suspect 437,48,Person of Interest
+20251030-1060,Suspect 651,62,Person of Interest
+20251030-1061,Suspect 273,43,Wanted
+20251030-1065,Suspect 549,31,Arrested
+20251030-1065,Suspect 448,62,Wanted
+20251030-1065,Suspect 837,32,Arrested
+20251030-1068,Suspect 72,65,Suspect
+20251030-1068,Suspect 737,54,Suspect
+20251030-1068,Suspect 332,61,Arrested
+20251030-1070,Suspect 769,29,Wanted
+20251030-1072,Suspect 969,40,Arrested
+20251030-1072,Suspect 696,36,Wanted
+20251030-1073,Suspect 429,20,Arrested
+20251030-1073,Suspect 920,28,Arrested
+20251030-1073,Suspect 368,41,Suspect
+20251030-1074,Suspect 547,28,Suspect
+20251030-1074,Suspect 714,36,Suspect
+20251030-1074,Suspect 381,23,Wanted
+20251030-1075,Suspect 72,44,Arrested
+20251030-1075,Suspect 874,56,Person of Interest
+20251030-1080,Suspect 714,54,Person of Interest
+20251030-1080,Suspect 987,29,Arrested
+20251030-1080,Suspect 252,39,Arrested
+20251030-1085,Suspect 99,25,Arrested
+20251030-1085,Suspect 817,46,Suspect
+20251030-1085,Suspect 561,33,Suspect
+20251030-1088,Suspect 937,59,Arrested
+20251030-1088,Suspect 239,33,Wanted
+20251030-1088,Suspect 301,34,Person of Interest
+20251030-1093,Suspect 984,48,Suspect
+20251030-1096,Suspect 113,59,Person of Interest
+20251030-1103,Suspect 150,44,Person of Interest
+20251030-1103,Suspect 681,19,Wanted
+20251030-1105,Suspect 968,50,Person of Interest
+20251030-1107,Suspect 763,62,Person of Interest
+20251030-1107,Suspect 786,59,Wanted
+20251030-1107,Suspect 802,36,Arrested
+20251030-1113,Suspect 754,65,Arrested
+20251030-1115,Suspect 655,24,Arrested
+20251030-1115,Suspect 923,44,Wanted
+20251030-1117,Suspect 291,21,Arrested
+20251030-1117,Suspect 955,31,Person of Interest
+20251030-1117,Suspect 861,49,Suspect
+20251030-1120,Suspect 655,55,Person of Interest
+20251030-1120,Suspect 173,55,Person of Interest
+20251030-1120,Suspect 587,38,Arrested
+20251030-1121,Suspect 789,26,Arrested
+20251030-1121,Suspect 354,58,Wanted
+20251030-1121,Suspect 579,64,Wanted
+20251030-1124,Suspect 217,27,Arrested
+20251030-1124,Suspect 899,44,Person of Interest
+20251030-1125,Suspect 874,57,Suspect
+20251030-1126,Suspect 132,40,Wanted
+20251030-1126,Suspect 330,41,Person of Interest
+20251030-1126,Suspect 434,52,Suspect
+20251030-1129,Suspect 543,23,Wanted
+20251030-1129,Suspect 875,64,Wanted
+20251030-1132,Suspect 284,49,Wanted
+20251030-1134,Suspect 378,22,Suspect
+20251030-1135,Suspect 892,50,Wanted
+20251030-1135,Suspect 561,21,Suspect
+20251030-1135,Suspect 83,44,Suspect
+20251030-1137,Suspect 988,52,Suspect
+20251030-1137,Suspect 675,58,Suspect
+20251030-1137,Suspect 755,25,Person of Interest
+20251030-1139,Suspect 837,24,Wanted
+20251030-1139,Suspect 604,20,Wanted
+20251030-1139,Suspect 473,34,Suspect
+20251030-1146,Suspect 795,57,Person of Interest
+20251030-1146,Suspect 344,46,Arrested
+20251030-1146,Suspect 757,51,Wanted
+20251030-1148,Suspect 822,65,Arrested
+20251030-1156,Suspect 183,18,Arrested
+20251030-1156,Suspect 951,60,Wanted
+20251030-1156,Suspect 98,23,Person of Interest
+20251030-1158,Suspect 330,29,Wanted
+20251030-1158,Suspect 894,27,Person of Interest
+20251030-1158,Suspect 158,23,Arrested
+20251030-1162,Suspect 274,25,Person of Interest
+20251030-1162,Suspect 788,33,Wanted
+20251030-1164,Suspect 721,47,Arrested
+20251030-1169,Suspect 97,44,Person of Interest
+20251030-1169,Suspect 173,39,Wanted
+20251030-1184,Suspect 996,47,Wanted
+20251030-1184,Suspect 594,61,Suspect
+20251030-1186,Suspect 679,55,Suspect
+20251030-1186,Suspect 583,45,Arrested
+20251030-1186,Suspect 236,59,Arrested
+20251030-1187,Suspect 182,42,Arrested
+20251030-1187,Suspect 606,46,Suspect
+20251030-1187,Suspect 684,57,Person of Interest
+20251030-1190,Suspect 685,21,Person of Interest
+20251030-1190,Suspect 497,20,Person of Interest
+20251030-1191,Suspect 500,41,Wanted
+20251030-1191,Suspect 909,36,Wanted
+20251030-1191,Suspect 191,52,Arrested
+20251030-1195,Suspect 473,46,Suspect
+20251030-1195,Suspect 635,40,Wanted
+20251030-1195,Suspect 178,42,Person of Interest
+20251030-1196,Suspect 130,34,Wanted
+20251030-1196,Suspect 329,31,Wanted
+20251030-1199,Suspect 827,54,Person of Interest
+20251030-1201,Suspect 55,55,Person of Interest
+20251030-1201,Suspect 243,47,Wanted
+20251030-1202,Suspect 329,30,Wanted
+20251030-1203,Suspect 295,52,Wanted
+20251030-1203,Suspect 16,49,Wanted
+20251030-1204,Suspect 332,19,Wanted
+20251030-1204,Suspect 972,37,Arrested
+20251030-1205,Suspect 272,36,Person of Interest
+20251030-1205,Suspect 411,23,Person of Interest
+20251030-1205,Suspect 158,55,Arrested
+20251030-1206,Suspect 226,52,Person of Interest
+20251030-1206,Suspect 78,33,Person of Interest
+20251030-1208,Suspect 377,30,Suspect
+20251030-1208,Suspect 56,53,Arrested
+20251030-1209,Suspect 207,22,Wanted
+20251030-1209,Suspect 367,65,Person of Interest
+20251030-1212,Suspect 729,64,Wanted
+20251030-1214,Suspect 643,47,Arrested
+20251030-1216,Suspect 245,53,Person of Interest
+20251030-1218,Suspect 336,30,Person of Interest
+20251030-1219,Suspect 52,29,Suspect
+20251030-1229,Suspect 895,28,Person of Interest
+20251030-1230,Suspect 581,50,Arrested
+20251030-1230,Suspect 788,59,Wanted
+20251030-1230,Suspect 295,36,Arrested
+20251030-1233,Suspect 438,24,Arrested
+20251030-1234,Suspect 213,62,Suspect
+20251030-1237,Suspect 19,48,Person of Interest
+20251030-1237,Suspect 829,46,Person of Interest
+20251030-1238,Suspect 889,28,Suspect
+20251030-1238,Suspect 238,43,Wanted
+20251030-1240,Suspect 729,60,Wanted
+20251030-1241,Suspect 661,55,Wanted
+20251030-1245,Suspect 919,37,Person of Interest
+20251030-1245,Suspect 3,32,Person of Interest
+20251030-1249,Suspect 963,26,Arrested
+20251030-1252,Suspect 342,57,Suspect
+20251030-1252,Suspect 520,33,Suspect
+20251030-1255,Suspect 842,41,Person of Interest
+20251030-1255,Suspect 882,49,Suspect
+20251030-1257,Suspect 35,37,Wanted
+20251030-1257,Suspect 411,56,Suspect
+20251030-1261,Suspect 612,21,Wanted
+20251030-1261,Suspect 929,45,Wanted
+20251030-1263,Suspect 303,33,Suspect
+20251030-1267,Suspect 906,27,Wanted
+20251030-1267,Suspect 324,50,Wanted
+20251030-1267,Suspect 579,59,Arrested
+20251030-1269,Suspect 585,63,Arrested
+20251030-1269,Suspect 489,25,Person of Interest
+20251030-1269,Suspect 552,40,Arrested
+20251030-1271,Suspect 588,25,Wanted
+20251030-1271,Suspect 531,57,Suspect
+20251030-1271,Suspect 795,37,Arrested
+20251030-1278,Suspect 793,34,Arrested
+20251030-1278,Suspect 928,53,Wanted
+20251030-1283,Suspect 179,58,Person of Interest
+20251030-1283,Suspect 455,30,Person of Interest
+20251030-1283,Suspect 378,31,Wanted
+20251030-1285,Suspect 519,43,Arrested
+20251030-1285,Suspect 759,55,Person of Interest
+20251030-1286,Suspect 532,64,Wanted
+20251030-1291,Suspect 10,39,Person of Interest
+20251030-1291,Suspect 213,56,Arrested
+20251030-1291,Suspect 929,28,Suspect
+20251030-1293,Suspect 472,24,Wanted
+20251030-1293,Suspect 190,32,Suspect
+20251030-1295,Suspect 891,21,Suspect
+20251030-1299,Suspect 803,59,Person of Interest
+20251030-1299,Suspect 43,51,Arrested
+20251030-1300,Suspect 734,60,Wanted
+20251030-1302,Suspect 3,48,Suspect
+20251030-1302,Suspect 854,18,Arrested
+20251030-1302,Suspect 51,58,Suspect
+20251030-1303,Suspect 787,45,Wanted
+20251030-1303,Suspect 597,52,Suspect
+20251030-1304,Suspect 52,47,Arrested
+20251030-1304,Suspect 508,31,Wanted
+20251030-1304,Suspect 504,40,Suspect
+20251030-1306,Suspect 925,61,Suspect
+20251030-1306,Suspect 198,23,Arrested
+20251030-1306,Suspect 921,59,Arrested
+20251030-1307,Suspect 878,40,Wanted
+20251030-1307,Suspect 492,38,Wanted
+20251030-1308,Suspect 212,22,Wanted
+20251030-1310,Suspect 864,41,Wanted
+20251030-1313,Suspect 265,19,Arrested
+20251030-1314,Suspect 605,55,Person of Interest
+20251030-1319,Suspect 327,25,Wanted
+20251030-1322,Suspect 69,35,Arrested
+20251030-1322,Suspect 492,60,Arrested
+20251030-1325,Suspect 933,24,Arrested
+20251030-1325,Suspect 541,61,Wanted
+20251030-1327,Suspect 611,28,Person of Interest
+20251030-1327,Suspect 917,52,Suspect
+20251030-1327,Suspect 572,46,Wanted
+20251030-1328,Suspect 542,28,Suspect
+20251030-1328,Suspect 338,60,Person of Interest
+20251030-1328,Suspect 799,35,Arrested
+20251030-1329,Suspect 392,47,Suspect
+20251030-1329,Suspect 164,28,Wanted
+20251030-1330,Suspect 730,22,Suspect
+20251030-1330,Suspect 721,29,Person of Interest
+20251030-1330,Suspect 230,36,Person of Interest
+20251030-1331,Suspect 114,34,Wanted
+20251030-1333,Suspect 466,40,Wanted
+20251030-1334,Suspect 210,28,Wanted
+20251030-1334,Suspect 376,20,Wanted
+20251030-1336,Suspect 138,43,Person of Interest
+20251030-1338,Suspect 694,52,Suspect
+20251030-1343,Suspect 732,33,Suspect
+20251030-1346,Suspect 885,25,Suspect
+20251030-1346,Suspect 810,25,Person of Interest
+20251030-1347,Suspect 59,62,Wanted
+20251030-1350,Suspect 99,39,Wanted
+20251030-1353,Suspect 148,23,Suspect
+20251030-1355,Suspect 530,42,Wanted
+20251030-1356,Suspect 709,65,Arrested
+20251030-1356,Suspect 507,46,Suspect
+20251030-1356,Suspect 994,23,Wanted
+20251030-1357,Suspect 848,36,Person of Interest
+20251030-1357,Suspect 736,38,Person of Interest
+20251030-1357,Suspect 697,27,Arrested
+20251030-1361,Suspect 248,43,Person of Interest
+20251030-1361,Suspect 980,48,Suspect
+20251030-1364,Suspect 791,36,Person of Interest
+20251030-1364,Suspect 609,56,Suspect
+20251030-1366,Suspect 296,38,Arrested
+20251030-1368,Suspect 572,26,Wanted
+20251030-1368,Suspect 292,25,Person of Interest
+20251030-1370,Suspect 192,57,Arrested
+20251030-1372,Suspect 792,19,Suspect
+20251030-1372,Suspect 795,53,Suspect
+20251030-1372,Suspect 311,26,Suspect
+20251030-1381,Suspect 273,58,Arrested
+20251030-1381,Suspect 68,38,Wanted
+20251030-1383,Suspect 175,53,Suspect
+20251030-1384,Suspect 969,50,Person of Interest
+20251030-1392,Suspect 817,59,Arrested
+20251030-1393,Suspect 45,47,Suspect
+20251030-1393,Suspect 932,31,Arrested
+20251030-1393,Suspect 246,57,Wanted
+20251030-1394,Suspect 150,45,Arrested
+20251030-1394,Suspect 199,41,Wanted
+20251030-1395,Suspect 581,64,Suspect
+20251030-1395,Suspect 863,42,Suspect
+20251030-1395,Suspect 21,43,Suspect
+20251030-1396,Suspect 646,35,Suspect
+20251030-1396,Suspect 353,65,Person of Interest
+20251030-1397,Suspect 420,18,Wanted
+20251030-1400,Suspect 500,26,Arrested
+20251030-1400,Suspect 620,29,Suspect
+20251030-1400,Suspect 89,31,Suspect
+20251030-1402,Suspect 837,20,Suspect
+20251030-1404,Suspect 865,38,Wanted
+20251030-1404,Suspect 449,22,Wanted
+20251030-1405,Suspect 88,57,Person of Interest
+20251030-1406,Suspect 627,24,Arrested
+20251030-1409,Suspect 16,26,Wanted
+20251030-1409,Suspect 302,64,Person of Interest
+20251030-1409,Suspect 382,21,Arrested
+20251030-1413,Suspect 810,45,Suspect
+20251030-1414,Suspect 61,50,Arrested
+20251030-1414,Suspect 842,33,Arrested
+20251030-1415,Suspect 305,28,Suspect
+20251030-1415,Suspect 847,48,Wanted
+20251030-1416,Suspect 594,54,Arrested
+20251030-1417,Suspect 44,51,Arrested
+20251030-1422,Suspect 538,49,Arrested
+20251030-1424,Suspect 688,34,Arrested
+20251030-1424,Suspect 984,33,Suspect
+20251030-1433,Suspect 795,33,Suspect
+20251030-1433,Suspect 51,24,Wanted
+20251030-1433,Suspect 878,32,Wanted
+20251030-1434,Suspect 254,27,Wanted
+20251030-1434,Suspect 255,64,Arrested
+20251030-1436,Suspect 696,54,Person of Interest
+20251030-1437,Suspect 709,43,Arrested
+20251030-1437,Suspect 665,19,Person of Interest
+20251030-1437,Suspect 553,55,Wanted
+20251030-1438,Suspect 35,51,Person of Interest
+20251030-1439,Suspect 357,55,Suspect
+20251030-1439,Suspect 631,49,Suspect
+20251030-1440,Suspect 890,56,Suspect
+20251030-1440,Suspect 191,64,Suspect
+20251030-1443,Suspect 918,35,Suspect
+20251030-1443,Suspect 297,38,Arrested
+20251030-1444,Suspect 52,46,Arrested
+20251030-1444,Suspect 455,33,Suspect
+20251030-1446,Suspect 859,38,Arrested
+20251030-1447,Suspect 370,22,Person of Interest
+20251030-1448,Suspect 869,30,Person of Interest
+20251030-1448,Suspect 623,63,Person of Interest
+20251030-1450,Suspect 453,64,Wanted
+20251030-1450,Suspect 531,45,Wanted
+20251030-1450,Suspect 790,28,Arrested
+20251030-1453,Suspect 565,35,Wanted
+20251030-1453,Suspect 255,57,Suspect
+20251030-1453,Suspect 195,19,Wanted
+20251030-1454,Suspect 790,60,Arrested
+20251030-1454,Suspect 245,43,Suspect
+20251030-1454,Suspect 7,46,Suspect
+20251030-1458,Suspect 593,61,Wanted
+20251030-1462,Suspect 571,24,Wanted
+20251030-1462,Suspect 857,64,Arrested
+20251030-1463,Suspect 753,34,Suspect
+20251030-1463,Suspect 915,46,Suspect
+20251030-1463,Suspect 782,35,Suspect
+20251030-1464,Suspect 227,52,Wanted
+20251030-1465,Suspect 772,38,Arrested
+20251030-1465,Suspect 240,18,Person of Interest
+20251030-1465,Suspect 962,19,Suspect
+20251030-1468,Suspect 396,56,Arrested
+20251030-1468,Suspect 668,30,Wanted
+20251030-1472,Suspect 210,22,Person of Interest
+20251030-1476,Suspect 764,29,Person of Interest
+20251030-1476,Suspect 36,46,Suspect
+20251030-1476,Suspect 282,21,Arrested
+20251030-1477,Suspect 196,46,Wanted
+20251030-1477,Suspect 759,60,Wanted
+20251030-1477,Suspect 887,32,Person of Interest
+20251030-1487,Suspect 310,60,Person of Interest
+20251030-1487,Suspect 649,63,Wanted
+20251030-1487,Suspect 520,52,Arrested
+20251030-1488,Suspect 224,25,Person of Interest
+20251030-1488,Suspect 865,18,Arrested
+20251030-1488,Suspect 134,44,Person of Interest
+20251030-1489,Suspect 706,47,Suspect
+20251030-1489,Suspect 946,41,Wanted
+20251030-1493,Suspect 540,33,Arrested
+20251030-1493,Suspect 539,25,Wanted
+20251030-1497,Suspect 533,40,Arrested
+20251030-1504,Suspect 431,47,Suspect
+20251030-1504,Suspect 527,41,Person of Interest
+20251030-1506,Suspect 846,65,Arrested
+20251030-1506,Suspect 38,20,Wanted
+20251030-1508,Suspect 358,46,Wanted
+20251030-1508,Suspect 441,45,Wanted
+20251030-1510,Suspect 112,60,Wanted
+20251030-1510,Suspect 16,38,Person of Interest
+20251030-1510,Suspect 431,31,Arrested
+20251030-1518,Suspect 259,23,Person of Interest
+20251030-1518,Suspect 471,23,Person of Interest
+20251030-1526,Suspect 102,61,Person of Interest
+20251030-1531,Suspect 347,47,Suspect
+20251030-1532,Suspect 491,59,Suspect
+20251030-1541,Suspect 921,25,Arrested
+20251030-1542,Suspect 291,59,Wanted
+20251030-1543,Suspect 230,22,Wanted
+20251030-1543,Suspect 647,48,Suspect
+20251030-1547,Suspect 742,36,Arrested
+20251030-1547,Suspect 448,50,Suspect
+20251030-1547,Suspect 871,36,Person of Interest
+20251030-1548,Suspect 50,43,Arrested
+20251030-1548,Suspect 29,25,Arrested
+20251030-1548,Suspect 566,65,Arrested
+20251030-1549,Suspect 354,64,Wanted
+20251030-1551,Suspect 788,45,Arrested
+20251030-1551,Suspect 344,62,Wanted
+20251030-1551,Suspect 475,27,Arrested
+20251030-1557,Suspect 29,34,Arrested
+20251030-1561,Suspect 80,37,Person of Interest
+20251030-1562,Suspect 808,26,Arrested
+20251030-1562,Suspect 157,46,Arrested
+20251030-1563,Suspect 240,25,Suspect
+20251030-1563,Suspect 408,49,Suspect
+20251030-1563,Suspect 502,40,Wanted
+20251030-1566,Suspect 677,20,Suspect
+20251030-1566,Suspect 895,60,Arrested
+20251030-1567,Suspect 62,36,Suspect
+20251030-1569,Suspect 958,38,Wanted
+20251030-1569,Suspect 21,50,Suspect
+20251030-1569,Suspect 483,47,Person of Interest
+20251030-1580,Suspect 157,57,Suspect
+20251030-1580,Suspect 864,41,Arrested
+20251030-1580,Suspect 180,51,Wanted
+20251030-1581,Suspect 228,20,Suspect
+20251030-1586,Suspect 11,57,Suspect
+20251030-1586,Suspect 645,22,Wanted
+20251030-1586,Suspect 600,53,Person of Interest
+20251030-1589,Suspect 644,20,Arrested
+20251030-1589,Suspect 74,53,Suspect
+20251030-1589,Suspect 814,34,Suspect
+20251030-1590,Suspect 699,46,Arrested
+20251030-1590,Suspect 143,23,Person of Interest
+20251030-1590,Suspect 624,50,Arrested
+20251030-1592,Suspect 730,38,Wanted
+20251030-1592,Suspect 707,27,Arrested
+20251030-1592,Suspect 751,44,Suspect
+20251030-1594,Suspect 3,29,Person of Interest
+20251030-1594,Suspect 931,18,Wanted
+20251030-1594,Suspect 431,18,Arrested
+20251030-1596,Suspect 915,57,Person of Interest
+20251030-1596,Suspect 478,42,Wanted
+20251030-1596,Suspect 494,45,Person of Interest
+20251030-1599,Suspect 546,25,Person of Interest
+20251030-1599,Suspect 559,25,Arrested
+20251030-1599,Suspect 712,43,Arrested
+20251030-1601,Suspect 521,53,Wanted
+20251030-1601,Suspect 946,33,Person of Interest
+20251030-1601,Suspect 317,39,Wanted
+20251030-1605,Suspect 583,27,Arrested
+20251030-1606,Suspect 800,48,Suspect
+20251030-1606,Suspect 719,63,Wanted
+20251030-1606,Suspect 440,55,Arrested
+20251030-1607,Suspect 953,56,Wanted
+20251030-1607,Suspect 995,22,Person of Interest
+20251030-1607,Suspect 600,55,Arrested
+20251030-1609,Suspect 991,46,Suspect
+20251030-1610,Suspect 954,37,Wanted
+20251030-1610,Suspect 658,24,Wanted
+20251030-1611,Suspect 949,55,Suspect
+20251030-1611,Suspect 858,44,Person of Interest
+20251030-1612,Suspect 537,36,Wanted
+20251030-1613,Suspect 294,33,Person of Interest
+20251030-1613,Suspect 442,51,Person of Interest
+20251030-1613,Suspect 265,64,Person of Interest
+20251030-1616,Suspect 249,39,Suspect
+20251030-1616,Suspect 832,60,Arrested
+20251030-1616,Suspect 212,21,Suspect
+20251030-1621,Suspect 674,31,Person of Interest
+20251030-1621,Suspect 534,60,Arrested
+20251030-1622,Suspect 504,18,Wanted
+20251030-1622,Suspect 832,52,Arrested
+20251030-1622,Suspect 519,33,Arrested
+20251030-1624,Suspect 418,64,Person of Interest
+20251030-1624,Suspect 123,49,Arrested
+20251030-1624,Suspect 616,33,Person of Interest
+20251030-1625,Suspect 566,40,Person of Interest
+20251030-1625,Suspect 814,32,Person of Interest
+20251030-1625,Suspect 541,25,Suspect
+20251030-1629,Suspect 785,54,Arrested
+20251030-1629,Suspect 513,50,Arrested
+20251030-1629,Suspect 688,28,Suspect
+20251030-1631,Suspect 868,31,Person of Interest
+20251030-1631,Suspect 931,28,Person of Interest
+20251030-1631,Suspect 532,19,Person of Interest
+20251030-1632,Suspect 128,28,Arrested
+20251030-1632,Suspect 212,52,Arrested
+20251030-1632,Suspect 615,45,Wanted
+20251030-1638,Suspect 562,45,Arrested
+20251030-1638,Suspect 881,32,Person of Interest
+20251030-1638,Suspect 176,33,Suspect
+20251030-1643,Suspect 101,37,Person of Interest
+20251030-1643,Suspect 946,30,Person of Interest
+20251030-1643,Suspect 768,46,Person of Interest
+20251030-1645,Suspect 820,40,Suspect
+20251030-1645,Suspect 911,43,Wanted
+20251030-1645,Suspect 177,45,Wanted
+20251030-1649,Suspect 319,63,Suspect
+20251030-1649,Suspect 652,31,Person of Interest
+20251030-1649,Suspect 975,51,Suspect
+20251030-1654,Suspect 290,43,Wanted
+20251030-1654,Suspect 532,28,Suspect
+20251030-1655,Suspect 788,43,Wanted
+20251030-1655,Suspect 45,19,Arrested
+20251030-1655,Suspect 220,32,Wanted
+20251030-1657,Suspect 475,54,Arrested
+20251030-1659,Suspect 265,47,Wanted
+20251030-1659,Suspect 440,55,Wanted
+20251030-1660,Suspect 125,33,Person of Interest
+20251030-1660,Suspect 986,42,Arrested
+20251030-1660,Suspect 977,20,Suspect
+20251030-1662,Suspect 339,27,Wanted
+20251030-1662,Suspect 889,50,Person of Interest
+20251030-1662,Suspect 348,45,Wanted
+20251030-1665,Suspect 192,34,Wanted
+20251030-1672,Suspect 868,31,Wanted
+20251030-1672,Suspect 872,29,Wanted
+20251030-1672,Suspect 326,58,Wanted
+20251030-1673,Suspect 730,36,Person of Interest
+20251030-1673,Suspect 429,41,Arrested
+20251030-1674,Suspect 966,54,Wanted
+20251030-1675,Suspect 168,60,Wanted
+20251030-1675,Suspect 459,38,Suspect
+20251030-1675,Suspect 436,61,Person of Interest
+20251030-1676,Suspect 512,50,Suspect
+20251030-1678,Suspect 19,29,Arrested
+20251030-1678,Suspect 990,43,Suspect
+20251030-1681,Suspect 437,63,Person of Interest
+20251030-1681,Suspect 643,38,Wanted
+20251030-1684,Suspect 442,29,Wanted
+20251030-1687,Suspect 481,61,Suspect
+20251030-1687,Suspect 185,21,Wanted
+20251030-1687,Suspect 766,51,Arrested
+20251030-1689,Suspect 209,57,Person of Interest
+20251030-1689,Suspect 262,63,Person of Interest
+20251030-1696,Suspect 144,47,Person of Interest
+20251030-1696,Suspect 189,20,Suspect
+20251030-1698,Suspect 180,52,Person of Interest
+20251030-1698,Suspect 163,50,Arrested
+20251030-1699,Suspect 734,49,Arrested
+20251030-1700,Suspect 964,36,Suspect
+20251030-1702,Suspect 407,49,Arrested
+20251030-1702,Suspect 626,63,Arrested
+20251030-1706,Suspect 172,31,Arrested
+20251030-1706,Suspect 992,32,Suspect
+20251030-1707,Suspect 703,25,Wanted
+20251030-1707,Suspect 762,30,Wanted
+20251030-1708,Suspect 93,26,Arrested
+20251030-1708,Suspect 435,56,Arrested
+20251030-1708,Suspect 902,55,Suspect
+20251030-1711,Suspect 454,37,Arrested
+20251030-1711,Suspect 8,40,Arrested
+20251030-1713,Suspect 112,64,Wanted
+20251030-1714,Suspect 768,63,Person of Interest
+20251030-1714,Suspect 309,24,Wanted
+20251030-1718,Suspect 633,26,Person of Interest
+20251030-1719,Suspect 114,24,Suspect
+20251030-1719,Suspect 394,25,Wanted
+20251030-1719,Suspect 278,25,Person of Interest
+20251030-1724,Suspect 297,46,Arrested
+20251030-1724,Suspect 22,19,Person of Interest
+20251030-1728,Suspect 987,24,Wanted
+20251030-1728,Suspect 774,33,Wanted
+20251030-1729,Suspect 534,43,Person of Interest
+20251030-1729,Suspect 291,22,Person of Interest
+20251030-1729,Suspect 962,32,Arrested
+20251030-1730,Suspect 478,27,Arrested
+20251030-1730,Suspect 26,31,Person of Interest
+20251030-1730,Suspect 541,56,Wanted
+20251030-1731,Suspect 359,38,Person of Interest
+20251030-1733,Suspect 413,26,Wanted
+20251030-1733,Suspect 334,60,Wanted
+20251030-1733,Suspect 164,50,Arrested
+20251030-1735,Suspect 508,36,Person of Interest
+20251030-1735,Suspect 897,33,Wanted
+20251030-1735,Suspect 114,30,Suspect
+20251030-1736,Suspect 75,26,Wanted
+20251030-1740,Suspect 511,43,Person of Interest
+20251030-1740,Suspect 111,35,Wanted
+20251030-1740,Suspect 964,48,Wanted
+20251030-1742,Suspect 656,44,Wanted
+20251030-1742,Suspect 960,50,Wanted
+20251030-1744,Suspect 488,26,Suspect
+20251030-1745,Suspect 415,26,Person of Interest
+20251030-1751,Suspect 423,30,Person of Interest
+20251030-1753,Suspect 674,21,Person of Interest
+20251030-1753,Suspect 487,19,Arrested
+20251030-1753,Suspect 797,45,Arrested
+20251030-1755,Suspect 772,54,Wanted
+20251030-1755,Suspect 88,22,Suspect
+20251030-1757,Suspect 612,45,Wanted
+20251030-1759,Suspect 290,58,Suspect
+20251030-1759,Suspect 289,52,Suspect
+20251030-1759,Suspect 793,35,Arrested
+20251030-1763,Suspect 26,21,Person of Interest
+20251030-1763,Suspect 469,28,Arrested
+20251030-1763,Suspect 108,59,Suspect
+20251030-1766,Suspect 436,33,Arrested
+20251030-1766,Suspect 347,30,Arrested
+20251030-1766,Suspect 517,59,Wanted
+20251030-1767,Suspect 152,54,Wanted
+20251030-1768,Suspect 757,42,Arrested
+20251030-1768,Suspect 101,37,Arrested
+20251030-1768,Suspect 362,52,Wanted
+20251030-1773,Suspect 903,23,Wanted
+20251030-1773,Suspect 772,65,Suspect
+20251030-1773,Suspect 587,22,Wanted
+20251030-1774,Suspect 315,52,Suspect
+20251030-1774,Suspect 150,63,Person of Interest
+20251030-1774,Suspect 187,32,Arrested
+20251030-1777,Suspect 639,38,Arrested
+20251030-1777,Suspect 487,30,Suspect
+20251030-1779,Suspect 316,47,Arrested
+20251030-1782,Suspect 742,19,Person of Interest
+20251030-1783,Suspect 441,47,Arrested
+20251030-1783,Suspect 106,45,Suspect
+20251030-1783,Suspect 638,37,Wanted
+20251030-1784,Suspect 140,46,Arrested
+20251030-1784,Suspect 369,24,Arrested
+20251030-1784,Suspect 304,61,Suspect
+20251030-1786,Suspect 922,21,Suspect
+20251030-1789,Suspect 228,34,Wanted
+20251030-1789,Suspect 2,20,Arrested
+20251030-1792,Suspect 333,29,Arrested
+20251030-1792,Suspect 65,23,Arrested
+20251030-1794,Suspect 697,21,Person of Interest
+20251030-1794,Suspect 545,45,Suspect
+20251030-1797,Suspect 565,25,Person of Interest
+20251030-1799,Suspect 692,45,Suspect
+20251030-1799,Suspect 846,43,Wanted
+20251030-1810,Suspect 309,35,Arrested
+20251030-1811,Suspect 298,28,Arrested
+20251030-1811,Suspect 821,63,Suspect
+20251030-1813,Suspect 460,36,Suspect
+20251030-1813,Suspect 219,49,Arrested
+20251030-1815,Suspect 623,19,Arrested
+20251030-1815,Suspect 534,34,Person of Interest
+20251030-1815,Suspect 646,63,Person of Interest
+20251030-1818,Suspect 602,59,Arrested
+20251030-1819,Suspect 32,54,Arrested
+20251030-1819,Suspect 995,45,Suspect
+20251030-1822,Suspect 321,37,Arrested
+20251030-1822,Suspect 547,54,Wanted
+20251030-1822,Suspect 927,18,Person of Interest
+20251030-1823,Suspect 549,63,Suspect
+20251030-1823,Suspect 166,62,Wanted
+20251030-1823,Suspect 436,52,Person of Interest
+20251030-1824,Suspect 243,21,Arrested
+20251030-1824,Suspect 364,44,Arrested
+20251030-1825,Suspect 237,39,Person of Interest
+20251030-1825,Suspect 29,61,Person of Interest
+20251030-1827,Suspect 689,63,Person of Interest
+20251030-1827,Suspect 579,18,Person of Interest
+20251030-1827,Suspect 2,39,Person of Interest
+20251030-1828,Suspect 900,50,Arrested
+20251030-1832,Suspect 721,32,Wanted
+20251030-1832,Suspect 420,37,Suspect
+20251030-1833,Suspect 12,41,Person of Interest
+20251030-1833,Suspect 139,25,Wanted
+20251030-1837,Suspect 756,22,Wanted
+20251030-1840,Suspect 68,31,Arrested
+20251030-1840,Suspect 188,50,Arrested
+20251030-1840,Suspect 638,18,Arrested
+20251030-1844,Suspect 828,65,Person of Interest
+20251030-1844,Suspect 250,35,Wanted
+20251030-1846,Suspect 949,28,Arrested
+20251030-1846,Suspect 282,44,Wanted
+20251030-1849,Suspect 8,40,Wanted
+20251030-1850,Suspect 226,53,Person of Interest
+20251030-1850,Suspect 680,58,Suspect
+20251030-1851,Suspect 61,29,Suspect
+20251030-1851,Suspect 489,61,Arrested
+20251030-1851,Suspect 560,29,Person of Interest
+20251030-1857,Suspect 427,59,Person of Interest
+20251030-1857,Suspect 182,42,Suspect
+20251030-1857,Suspect 980,22,Arrested
+20251030-1858,Suspect 566,51,Person of Interest
+20251030-1858,Suspect 199,56,Person of Interest
+20251030-1862,Suspect 542,36,Suspect
+20251030-1862,Suspect 901,65,Wanted
+20251030-1862,Suspect 916,61,Suspect
+20251030-1865,Suspect 337,29,Person of Interest
+20251030-1867,Suspect 957,43,Suspect
+20251030-1872,Suspect 187,63,Person of Interest
+20251030-1872,Suspect 18,58,Person of Interest
+20251030-1872,Suspect 50,47,Suspect
+20251030-1874,Suspect 98,64,Person of Interest
+20251030-1874,Suspect 194,37,Suspect
+20251030-1874,Suspect 110,36,Arrested
+20251030-1875,Suspect 549,62,Person of Interest
+20251030-1879,Suspect 895,34,Person of Interest
+20251030-1879,Suspect 368,48,Suspect
+20251030-1881,Suspect 685,30,Person of Interest
+20251030-1883,Suspect 136,26,Arrested
+20251030-1883,Suspect 115,24,Person of Interest
+20251030-1884,Suspect 619,62,Suspect
+20251030-1884,Suspect 531,28,Person of Interest
+20251030-1884,Suspect 962,44,Person of Interest
+20251030-1887,Suspect 321,61,Wanted
+20251030-1887,Suspect 905,27,Wanted
+20251030-1887,Suspect 127,42,Wanted
+20251030-1888,Suspect 493,35,Wanted
+20251030-1890,Suspect 960,28,Suspect
+20251030-1890,Suspect 437,29,Wanted
+20251030-1896,Suspect 797,40,Arrested
+20251030-1896,Suspect 584,52,Wanted
+20251030-1909,Suspect 555,63,Suspect
+20251030-1918,Suspect 863,61,Arrested
+20251030-1918,Suspect 635,33,Suspect
+20251030-1918,Suspect 659,30,Person of Interest
+20251030-1920,Suspect 670,32,Wanted
+20251030-1921,Suspect 344,64,Wanted
+20251030-1931,Suspect 5,47,Wanted
+20251030-1935,Suspect 126,23,Person of Interest
+20251030-1937,Suspect 819,48,Suspect
+20251030-1938,Suspect 630,50,Person of Interest
+20251030-1938,Suspect 701,28,Wanted
+20251030-1939,Suspect 135,32,Wanted
+20251030-1939,Suspect 973,65,Suspect
+20251030-1940,Suspect 491,65,Person of Interest
+20251030-1940,Suspect 994,37,Wanted
+20251030-1940,Suspect 934,39,Arrested
+20251030-1941,Suspect 292,57,Person of Interest
+20251030-1941,Suspect 2,51,Arrested
+20251030-1944,Suspect 324,49,Suspect
+20251030-1944,Suspect 16,23,Suspect
+20251030-1952,Suspect 837,49,Person of Interest
+20251030-1952,Suspect 747,54,Suspect
+20251030-1953,Suspect 565,36,Arrested
+20251030-1953,Suspect 883,27,Wanted
+20251030-1956,Suspect 689,54,Wanted
+20251030-1956,Suspect 308,54,Person of Interest
+20251030-1956,Suspect 965,18,Wanted
+20251030-1958,Suspect 329,59,Person of Interest
+20251030-1958,Suspect 157,50,Arrested
+20251030-1961,Suspect 640,43,Arrested
+20251030-1961,Suspect 328,49,Suspect
+20251030-1962,Suspect 521,38,Arrested
+20251030-1962,Suspect 462,49,Suspect
+20251030-1962,Suspect 329,53,Suspect
+20251030-1964,Suspect 191,55,Suspect
+20251030-1964,Suspect 772,35,Suspect
+20251030-1966,Suspect 343,31,Person of Interest
+20251030-1968,Suspect 65,40,Person of Interest
+20251030-1968,Suspect 940,55,Arrested
+20251030-1968,Suspect 552,39,Suspect
+20251030-1970,Suspect 554,25,Wanted
+20251030-1970,Suspect 58,35,Wanted
+20251030-1971,Suspect 796,19,Arrested
+20251030-1974,Suspect 990,34,Suspect
+20251030-1977,Suspect 756,29,Arrested
+20251030-1979,Suspect 29,22,Wanted
+20251030-1979,Suspect 265,22,Wanted
+20251030-1980,Suspect 697,24,Person of Interest
+20251030-1982,Suspect 684,60,Wanted
+20251030-1983,Suspect 555,41,Suspect
+20251030-1984,Suspect 455,39,Suspect
+20251030-1988,Suspect 155,57,Wanted
+20251030-1988,Suspect 687,38,Arrested
+20251030-1992,Suspect 821,44,Suspect
+20251030-1993,Suspect 502,29,Arrested
+20251030-1995,Suspect 408,45,Arrested
+20251030-1995,Suspect 804,52,Suspect
+20251030-1997,Suspect 772,24,Wanted
+20251030-1999,Suspect 193,31,Person of Interest
+20251030-1999,Suspect 203,56,Arrested
+20251030-2000,Suspect 476,43,Person of Interest
+20251030-2000,Suspect 197,47,Wanted
+20251030-2000,Suspect 742,58,Wanted
+20251030-2001,Suspect 701,64,Wanted
+20251030-2003,Suspect 930,63,Person of Interest
+20251030-2003,Suspect 573,45,Arrested
+20251030-2006,Suspect 187,32,Person of Interest
+20251030-2006,Suspect 438,19,Suspect
+20251030-2006,Suspect 526,37,Person of Interest
+20251030-2011,Suspect 850,41,Arrested
+20251030-2011,Suspect 468,45,Person of Interest
+20251030-2013,Suspect 587,60,Arrested
+20251030-2013,Suspect 688,63,Suspect
+20251030-2013,Suspect 52,34,Person of Interest
+20251030-2014,Suspect 977,31,Suspect
+20251030-2018,Suspect 452,50,Suspect
+20251030-2018,Suspect 582,30,Arrested
+20251030-2019,Suspect 408,36,Person of Interest
+20251030-2022,Suspect 939,37,Suspect
+20251030-2027,Suspect 581,22,Arrested
+20251030-2027,Suspect 964,43,Person of Interest
+20251030-2029,Suspect 402,27,Wanted
+20251030-2030,Suspect 703,29,Suspect
+20251030-2030,Suspect 609,24,Suspect
+20251030-2031,Suspect 484,37,Wanted
+20251030-2033,Suspect 273,64,Arrested
+20251030-2033,Suspect 195,36,Suspect
+20251030-2033,Suspect 710,55,Wanted
+20251030-2034,Suspect 951,26,Wanted
+20251030-2034,Suspect 63,53,Person of Interest
+20251030-2034,Suspect 40,60,Person of Interest
+20251030-2036,Suspect 752,44,Suspect
+20251030-2045,Suspect 205,54,Suspect
+20251030-2045,Suspect 195,43,Wanted
+20251030-2045,Suspect 789,32,Arrested
+20251030-2046,Suspect 555,27,Person of Interest
+20251030-2046,Suspect 851,48,Person of Interest
+20251030-2047,Suspect 212,48,Wanted
+20251030-2047,Suspect 438,23,Person of Interest
+20251030-2049,Suspect 558,31,Suspect
+20251030-2049,Suspect 272,22,Suspect
+20251030-2055,Suspect 502,29,Person of Interest
+20251030-2055,Suspect 844,49,Person of Interest
+20251030-2055,Suspect 437,33,Arrested
+20251030-2056,Suspect 414,31,Wanted
+20251030-2059,Suspect 835,21,Wanted
+20251030-2060,Suspect 648,21,Wanted
+20251030-2066,Suspect 361,24,Wanted
+20251030-2069,Suspect 322,40,Person of Interest
+20251030-2069,Suspect 97,62,Suspect
+20251030-2070,Suspect 377,51,Suspect
+20251030-2070,Suspect 719,61,Person of Interest
+20251030-2074,Suspect 505,32,Arrested
+20251030-2074,Suspect 401,55,Wanted
+20251030-2078,Suspect 749,28,Wanted
+20251030-2079,Suspect 596,60,Suspect
+20251030-2079,Suspect 853,44,Wanted
+20251030-2079,Suspect 13,35,Suspect
+20251030-2080,Suspect 641,22,Person of Interest
+20251030-2080,Suspect 968,59,Person of Interest
+20251030-2081,Suspect 429,46,Person of Interest
+20251030-2081,Suspect 868,47,Person of Interest
+20251030-2081,Suspect 286,30,Arrested
+20251030-2082,Suspect 39,61,Suspect
+20251030-2084,Suspect 533,49,Suspect
+20251030-2084,Suspect 768,59,Arrested
+20251030-2085,Suspect 934,48,Arrested
+20251030-2085,Suspect 271,26,Arrested
+20251030-2087,Suspect 300,63,Arrested
+20251030-2088,Suspect 343,65,Person of Interest
+20251030-2089,Suspect 281,35,Wanted
+20251030-2096,Suspect 681,18,Suspect
+20251030-2096,Suspect 357,35,Suspect
+20251030-2096,Suspect 883,43,Suspect
+20251030-2098,Suspect 798,25,Wanted
+20251030-2098,Suspect 472,22,Suspect
+20251030-2098,Suspect 215,46,Suspect
+20251030-2101,Suspect 834,33,Arrested
+20251030-2104,Suspect 107,44,Wanted
+20251030-2104,Suspect 680,50,Wanted
+20251030-2104,Suspect 265,42,Wanted
+20251030-2109,Suspect 146,60,Suspect
+20251030-2112,Suspect 498,32,Wanted
+20251030-2112,Suspect 546,20,Wanted
+20251030-2115,Suspect 360,31,Person of Interest
+20251030-2115,Suspect 766,65,Suspect
+20251030-2116,Suspect 801,32,Person of Interest
+20251030-2116,Suspect 134,65,Suspect
+20251030-2117,Suspect 17,58,Arrested
+20251030-2117,Suspect 699,46,Arrested
+20251030-2121,Suspect 466,33,Arrested
+20251030-2121,Suspect 704,26,Person of Interest
+20251030-2121,Suspect 888,31,Suspect
+20251030-2123,Suspect 437,22,Arrested
+20251030-2126,Suspect 875,36,Arrested
+20251030-2126,Suspect 494,62,Arrested
+20251030-2126,Suspect 810,23,Wanted
+20251030-2127,Suspect 413,64,Suspect
+20251030-2127,Suspect 340,38,Wanted
+20251030-2127,Suspect 138,36,Suspect
+20251030-2128,Suspect 199,48,Person of Interest
+20251030-2128,Suspect 611,62,Arrested
+20251030-2130,Suspect 27,30,Person of Interest
+20251030-2130,Suspect 913,63,Suspect
+20251030-2130,Suspect 272,29,Wanted
+20251030-2131,Suspect 338,54,Suspect
+20251030-2131,Suspect 174,55,Person of Interest
+20251030-2131,Suspect 609,40,Wanted
+20251030-2132,Suspect 569,22,Wanted
+20251030-2132,Suspect 570,30,Person of Interest
+20251030-2134,Suspect 875,62,Wanted
+20251030-2134,Suspect 667,56,Suspect
+20251030-2135,Suspect 895,18,Person of Interest
+20251030-2135,Suspect 383,28,Arrested
+20251030-2135,Suspect 292,35,Arrested
+20251030-2141,Suspect 377,59,Arrested
+20251030-2141,Suspect 104,40,Arrested
+20251030-2141,Suspect 513,52,Person of Interest
+20251030-2142,Suspect 735,56,Arrested
+20251030-2142,Suspect 328,44,Wanted
+20251030-2143,Suspect 921,60,Arrested
+20251030-2143,Suspect 334,50,Arrested
+20251030-2144,Suspect 614,64,Wanted
+20251030-2144,Suspect 182,52,Person of Interest
+20251030-2144,Suspect 696,57,Suspect
+20251030-2145,Suspect 432,21,Person of Interest
+20251030-2145,Suspect 635,50,Wanted
+20251030-2147,Suspect 555,52,Wanted
+20251030-2149,Suspect 551,49,Wanted
+20251030-2149,Suspect 359,26,Wanted
+20251030-2149,Suspect 973,56,Suspect
+20251030-2155,Suspect 551,50,Person of Interest
+20251030-2155,Suspect 773,36,Person of Interest
+20251030-2155,Suspect 973,55,Arrested
+20251030-2157,Suspect 638,64,Arrested
+20251030-2157,Suspect 877,41,Suspect
+20251030-2158,Suspect 713,56,Suspect
+20251030-2158,Suspect 542,62,Arrested
+20251030-2158,Suspect 803,51,Suspect
+20251030-2164,Suspect 714,43,Person of Interest
+20251030-2164,Suspect 814,26,Wanted
+20251030-2164,Suspect 729,42,Arrested
+20251030-2176,Suspect 660,43,Wanted
+20251030-2176,Suspect 802,36,Suspect
+20251030-2178,Suspect 555,28,Wanted
+20251030-2186,Suspect 277,58,Wanted
+20251030-2186,Suspect 706,29,Suspect
+20251030-2186,Suspect 562,37,Person of Interest
+20251030-2187,Suspect 460,47,Suspect
+20251030-2187,Suspect 94,32,Person of Interest
+20251030-2191,Suspect 536,18,Wanted
+20251030-2191,Suspect 788,30,Person of Interest
+20251030-2191,Suspect 977,57,Suspect
+20251030-2193,Suspect 398,57,Suspect
+20251030-2193,Suspect 445,30,Arrested
+20251030-2193,Suspect 706,57,Arrested
+20251030-2196,Suspect 217,21,Wanted
+20251030-2196,Suspect 478,49,Wanted
+20251030-2196,Suspect 20,31,Suspect
+20251030-2197,Suspect 557,52,Person of Interest
+20251030-2199,Suspect 629,30,Person of Interest
+20251030-2203,Suspect 733,62,Person of Interest
+20251030-2204,Suspect 915,19,Person of Interest
+20251030-2206,Suspect 865,23,Suspect
+20251030-2207,Suspect 725,40,Arrested
+20251030-2207,Suspect 818,41,Person of Interest
+20251030-2208,Suspect 608,39,Suspect
+20251030-2208,Suspect 770,25,Wanted
+20251030-2208,Suspect 314,25,Wanted
+20251030-2210,Suspect 368,50,Wanted
+20251030-2210,Suspect 759,34,Person of Interest
+20251030-2212,Suspect 157,48,Arrested
+20251030-2212,Suspect 688,42,Wanted
+20251030-2212,Suspect 362,31,Wanted
+20251030-2214,Suspect 191,27,Person of Interest
+20251030-2218,Suspect 243,33,Wanted
+20251030-2224,Suspect 387,44,Person of Interest
+20251030-2224,Suspect 485,45,Suspect
+20251030-2224,Suspect 233,56,Suspect
+20251030-2226,Suspect 464,42,Suspect
+20251030-2229,Suspect 747,28,Suspect
+20251030-2229,Suspect 886,53,Arrested
+20251030-2230,Suspect 411,48,Person of Interest
+20251030-2230,Suspect 173,65,Arrested
+20251030-2234,Suspect 78,18,Suspect
+20251030-2238,Suspect 397,33,Arrested
+20251030-2238,Suspect 879,34,Person of Interest
+20251030-2238,Suspect 446,18,Wanted
+20251030-2244,Suspect 634,45,Person of Interest
+20251030-2245,Suspect 862,58,Suspect
+20251030-2245,Suspect 586,52,Suspect
+20251030-2245,Suspect 191,23,Arrested
+20251030-2248,Suspect 285,32,Suspect
+20251030-2248,Suspect 914,64,Arrested
+20251030-2250,Suspect 809,43,Arrested
+20251030-2252,Suspect 700,37,Wanted
+20251030-2252,Suspect 957,48,Arrested
+20251030-2252,Suspect 864,56,Wanted
+20251030-2253,Suspect 637,64,Person of Interest
+20251030-2253,Suspect 398,50,Suspect
+20251030-2253,Suspect 692,49,Person of Interest
+20251030-2255,Suspect 647,26,Wanted
+20251030-2255,Suspect 111,34,Person of Interest
+20251030-2255,Suspect 583,41,Suspect
+20251030-2257,Suspect 784,65,Suspect
+20251030-2261,Suspect 510,57,Suspect
+20251030-2261,Suspect 845,33,Arrested
+20251030-2261,Suspect 982,21,Suspect
+20251030-2262,Suspect 489,52,Suspect
+20251030-2262,Suspect 258,64,Person of Interest
+20251030-2262,Suspect 307,57,Person of Interest
+20251030-2263,Suspect 950,39,Arrested
+20251030-2265,Suspect 191,42,Person of Interest
+20251030-2267,Suspect 793,58,Suspect
+20251030-2267,Suspect 847,18,Suspect
+20251030-2267,Suspect 784,50,Suspect
+20251030-2269,Suspect 378,46,Person of Interest
+20251030-2269,Suspect 358,35,Wanted
+20251030-2269,Suspect 623,33,Wanted
+20251030-2270,Suspect 624,64,Wanted
+20251030-2270,Suspect 224,23,Wanted
+20251030-2272,Suspect 782,18,Person of Interest
+20251030-2272,Suspect 497,38,Person of Interest
+20251030-2274,Suspect 934,39,Arrested
+20251030-2274,Suspect 619,35,Arrested
+20251030-2274,Suspect 841,36,Person of Interest
+20251030-2276,Suspect 319,32,Arrested
+20251030-2276,Suspect 391,59,Suspect
+20251030-2276,Suspect 480,45,Arrested
+20251030-2278,Suspect 110,31,Person of Interest
+20251030-2281,Suspect 231,63,Arrested
+20251030-2281,Suspect 925,45,Arrested
+20251030-2283,Suspect 647,62,Arrested
+20251030-2283,Suspect 88,49,Wanted
+20251030-2283,Suspect 961,38,Arrested
+20251030-2284,Suspect 407,50,Wanted
+20251030-2284,Suspect 592,28,Person of Interest
+20251030-2287,Suspect 767,51,Arrested
+20251030-2287,Suspect 45,49,Suspect
+20251030-2288,Suspect 863,35,Person of Interest
+20251030-2288,Suspect 110,48,Arrested
+20251030-2288,Suspect 989,46,Suspect
+20251030-2291,Suspect 264,36,Suspect
+20251030-2291,Suspect 418,58,Suspect
+20251030-2291,Suspect 767,58,Arrested
+20251030-2292,Suspect 504,30,Person of Interest
+20251030-2292,Suspect 191,34,Wanted
+20251030-2292,Suspect 701,58,Suspect
+20251030-2293,Suspect 358,59,Wanted
+20251030-2296,Suspect 833,40,Arrested
+20251030-2298,Suspect 458,47,Arrested
+20251030-2298,Suspect 59,46,Wanted
+20251030-2298,Suspect 600,63,Wanted
+20251030-2300,Suspect 783,61,Wanted
+20251030-2300,Suspect 684,29,Suspect
+20251030-2302,Suspect 149,19,Suspect
+20251030-2302,Suspect 566,41,Wanted
+20251030-2304,Suspect 673,19,Wanted
+20251030-2304,Suspect 114,62,Wanted
+20251030-2304,Suspect 243,19,Person of Interest
+20251030-2305,Suspect 504,23,Suspect
+20251030-2305,Suspect 899,33,Arrested
+20251030-2305,Suspect 850,23,Person of Interest
+20251030-2306,Suspect 460,55,Arrested
+20251030-2306,Suspect 149,41,Wanted
+20251030-2307,Suspect 42,19,Suspect
+20251030-2307,Suspect 470,46,Person of Interest
+20251030-2308,Suspect 804,27,Person of Interest
+20251030-2308,Suspect 383,29,Person of Interest
+20251030-2310,Suspect 154,40,Arrested
+20251030-2310,Suspect 625,32,Suspect
+20251030-2313,Suspect 813,26,Arrested
+20251030-2313,Suspect 292,37,Wanted
+20251030-2313,Suspect 787,24,Wanted
+20251030-2314,Suspect 379,46,Arrested
+20251030-2314,Suspect 580,62,Person of Interest
+20251030-2314,Suspect 675,48,Person of Interest
+20251030-2317,Suspect 100,41,Person of Interest
+20251030-2318,Suspect 973,54,Wanted
+20251030-2321,Suspect 695,59,Arrested
+20251030-2325,Suspect 677,38,Wanted
+20251030-2325,Suspect 432,65,Wanted
+20251030-2329,Suspect 733,55,Arrested
+20251030-2329,Suspect 473,59,Arrested
+20251030-2329,Suspect 816,57,Wanted
+20251030-2330,Suspect 310,55,Wanted
+20251030-2330,Suspect 546,38,Person of Interest
+20251030-2334,Suspect 418,42,Arrested
+20251030-2334,Suspect 357,65,Person of Interest
+20251030-2336,Suspect 409,54,Person of Interest
+20251030-2336,Suspect 181,36,Wanted
+20251030-2340,Suspect 334,63,Suspect
+20251030-2342,Suspect 264,30,Wanted
+20251030-2344,Suspect 330,25,Wanted
+20251030-2344,Suspect 992,37,Person of Interest
+20251030-2351,Suspect 767,61,Suspect
+20251030-2354,Suspect 528,37,Suspect
+20251030-2354,Suspect 458,47,Suspect
+20251030-2354,Suspect 922,65,Suspect
+20251030-2356,Suspect 268,42,Suspect
+20251030-2360,Suspect 544,24,Suspect
+20251030-2361,Suspect 402,43,Suspect
+20251030-2361,Suspect 421,39,Suspect
+20251030-2370,Suspect 357,39,Arrested
+20251030-2370,Suspect 565,26,Person of Interest
+20251030-2370,Suspect 162,49,Suspect
+20251030-2371,Suspect 414,31,Suspect
+20251030-2372,Suspect 432,34,Suspect
+20251030-2372,Suspect 918,44,Suspect
+20251030-2372,Suspect 861,36,Suspect
+20251030-2380,Suspect 171,63,Arrested
+20251030-2380,Suspect 897,52,Person of Interest
+20251030-2380,Suspect 694,22,Suspect
+20251030-2381,Suspect 30,32,Suspect
+20251030-2381,Suspect 257,60,Wanted
+20251030-2381,Suspect 389,21,Arrested
+20251030-2386,Suspect 136,40,Person of Interest
+20251030-2386,Suspect 804,26,Suspect
+20251030-2387,Suspect 872,24,Arrested
+20251030-2387,Suspect 767,52,Wanted
+20251030-2387,Suspect 63,22,Wanted
+20251030-2390,Suspect 637,25,Arrested
+20251030-2391,Suspect 221,21,Suspect
+20251030-2391,Suspect 401,32,Person of Interest
+20251030-2397,Suspect 120,20,Suspect
+20251030-2397,Suspect 329,26,Suspect
+20251030-2406,Suspect 558,41,Arrested
+20251030-2410,Suspect 811,55,Arrested
+20251030-2410,Suspect 391,54,Suspect
+20251030-2410,Suspect 219,58,Person of Interest
+20251030-2411,Suspect 535,38,Wanted
+20251030-2411,Suspect 691,19,Arrested
+20251030-2411,Suspect 860,19,Person of Interest
+20251030-2416,Suspect 100,62,Wanted
+20251030-2416,Suspect 546,52,Wanted
+20251030-2416,Suspect 968,46,Person of Interest
+20251030-2417,Suspect 530,65,Person of Interest
+20251030-2417,Suspect 694,19,Suspect
+20251030-2417,Suspect 695,55,Wanted
+20251030-2419,Suspect 737,49,Person of Interest
+20251030-2419,Suspect 350,26,Arrested
+20251030-2419,Suspect 12,44,Person of Interest
+20251030-2420,Suspect 394,28,Person of Interest
+20251030-2420,Suspect 97,36,Arrested
+20251030-2421,Suspect 398,42,Suspect
+20251030-2421,Suspect 299,24,Person of Interest
+20251030-2421,Suspect 784,52,Person of Interest
+20251030-2426,Suspect 375,34,Suspect
+20251030-2426,Suspect 397,62,Wanted
+20251030-2427,Suspect 236,63,Wanted
+20251030-2429,Suspect 888,49,Suspect
+20251030-2429,Suspect 481,30,Wanted
+20251030-2429,Suspect 512,23,Arrested
+20251030-2436,Suspect 453,59,Wanted
+20251030-2436,Suspect 637,56,Arrested
+20251030-2440,Suspect 541,63,Suspect
+20251030-2441,Suspect 272,54,Person of Interest
+20251030-2442,Suspect 253,52,Arrested
+20251030-2444,Suspect 960,38,Person of Interest
+20251030-2444,Suspect 385,47,Wanted
+20251030-2445,Suspect 577,46,Person of Interest
+20251030-2445,Suspect 411,58,Arrested
+20251030-2446,Suspect 97,49,Person of Interest
+20251030-2446,Suspect 851,53,Arrested
+20251030-2446,Suspect 463,33,Wanted
+20251030-2448,Suspect 189,54,Suspect
+20251030-2448,Suspect 633,21,Arrested
+20251030-2448,Suspect 347,55,Person of Interest
+20251030-2451,Suspect 472,57,Wanted
+20251030-2451,Suspect 946,31,Wanted
+20251030-2451,Suspect 450,25,Arrested
+20251030-2453,Suspect 292,34,Wanted
+20251030-2453,Suspect 725,38,Arrested
+20251030-2453,Suspect 989,50,Person of Interest
+20251030-2455,Suspect 104,32,Person of Interest
+20251030-2459,Suspect 55,49,Person of Interest
+20251030-2459,Suspect 674,28,Suspect
+20251030-2462,Suspect 212,30,Suspect
+20251030-2462,Suspect 521,37,Arrested
+20251030-2462,Suspect 146,37,Wanted
+20251030-2463,Suspect 248,35,Suspect
+20251030-2464,Suspect 542,52,Arrested
+20251030-2467,Suspect 944,53,Person of Interest
+20251030-2469,Suspect 272,27,Suspect
+20251030-2470,Suspect 415,29,Person of Interest
+20251030-2470,Suspect 946,18,Arrested
+20251030-2471,Suspect 2,62,Arrested
+20251030-2471,Suspect 410,38,Suspect
+20251030-2471,Suspect 249,21,Wanted
+20251030-2472,Suspect 229,27,Person of Interest
+20251030-2472,Suspect 401,53,Suspect
+20251030-2472,Suspect 140,52,Person of Interest
+20251030-2473,Suspect 529,29,Arrested
+20251030-2473,Suspect 583,27,Wanted
+20251030-2473,Suspect 907,20,Person of Interest
+20251030-2474,Suspect 558,38,Suspect
+20251030-2476,Suspect 927,59,Person of Interest
+20251030-2477,Suspect 916,38,Arrested
+20251030-2477,Suspect 716,45,Person of Interest
+20251030-2481,Suspect 154,35,Person of Interest
+20251030-2486,Suspect 806,51,Wanted
+20251030-2486,Suspect 136,62,Person of Interest
+20251030-2486,Suspect 708,41,Wanted
+20251030-2487,Suspect 321,42,Wanted
+20251030-2487,Suspect 45,41,Wanted
+20251030-2488,Suspect 398,18,Arrested
+20251030-2490,Suspect 13,26,Suspect
+20251030-2490,Suspect 895,59,Suspect
+20251030-2492,Suspect 110,34,Suspect
+20251030-2496,Suspect 451,63,Wanted
+20251030-2498,Suspect 21,62,Suspect
+20251030-2503,Suspect 314,46,Person of Interest
+20251030-2503,Suspect 562,41,Suspect
+20251030-2503,Suspect 512,29,Suspect
+20251030-2504,Suspect 183,28,Wanted
+20251030-2505,Suspect 372,46,Suspect
+20251030-2505,Suspect 292,51,Suspect
+20251030-2511,Suspect 165,48,Wanted
+20251030-2511,Suspect 279,57,Person of Interest
+20251030-2513,Suspect 455,38,Arrested
+20251030-2513,Suspect 146,40,Suspect
+20251030-2513,Suspect 594,62,Wanted
+20251030-2514,Suspect 881,52,Arrested
+20251030-2514,Suspect 458,53,Suspect
+20251030-2514,Suspect 227,27,Arrested
+20251030-2524,Suspect 284,39,Suspect
+20251030-2524,Suspect 566,22,Arrested
+20251030-2524,Suspect 517,50,Person of Interest
+20251030-2528,Suspect 787,50,Suspect
+20251030-2529,Suspect 750,23,Suspect
+20251030-2529,Suspect 412,44,Arrested
+20251030-2529,Suspect 318,51,Wanted
+20251030-2530,Suspect 46,55,Person of Interest
+20251030-2530,Suspect 667,18,Wanted
+20251030-2530,Suspect 308,38,Arrested
+20251030-2532,Suspect 759,33,Person of Interest
+20251030-2533,Suspect 329,28,Arrested
+20251030-2533,Suspect 617,27,Wanted
+20251030-2541,Suspect 921,42,Arrested
+20251030-2541,Suspect 76,36,Person of Interest
+20251030-2542,Suspect 17,24,Suspect
+20251030-2543,Suspect 191,56,Wanted
+20251030-2543,Suspect 203,63,Wanted
+20251030-2547,Suspect 710,30,Suspect
+20251030-2549,Suspect 878,36,Suspect
+20251030-2551,Suspect 523,39,Person of Interest
+20251030-2551,Suspect 222,32,Wanted
+20251030-2551,Suspect 455,23,Arrested
+20251030-2558,Suspect 266,35,Person of Interest
+20251030-2558,Suspect 168,48,Arrested
+20251030-2561,Suspect 392,56,Suspect
+20251030-2563,Suspect 66,62,Arrested
+20251030-2563,Suspect 857,20,Wanted
+20251030-2563,Suspect 737,28,Wanted
+20251030-2566,Suspect 687,31,Arrested
+20251030-2566,Suspect 208,45,Arrested
+20251030-2566,Suspect 436,30,Wanted
+20251030-2567,Suspect 490,39,Person of Interest
+20251030-2569,Suspect 381,48,Wanted
+20251030-2569,Suspect 304,58,Arrested
+20251030-2574,Suspect 492,24,Suspect
+20251030-2575,Suspect 575,43,Arrested
+20251030-2575,Suspect 303,52,Person of Interest
+20251030-2575,Suspect 330,34,Person of Interest
+20251030-2577,Suspect 354,20,Person of Interest
+20251030-2577,Suspect 561,48,Wanted
+20251030-2579,Suspect 892,58,Wanted
+20251030-2579,Suspect 784,37,Person of Interest
+20251030-2579,Suspect 595,65,Suspect
+20251030-2581,Suspect 708,47,Arrested
+20251030-2589,Suspect 323,31,Wanted
+20251030-2589,Suspect 418,65,Wanted
+20251030-2594,Suspect 122,55,Arrested
+20251030-2594,Suspect 810,27,Arrested
+20251030-2594,Suspect 886,25,Suspect
+20251030-2595,Suspect 930,65,Person of Interest
+20251030-2595,Suspect 234,44,Arrested
+20251030-2600,Suspect 181,55,Person of Interest
+20251030-2600,Suspect 753,52,Person of Interest
+20251030-2601,Suspect 37,48,Arrested
+20251030-2601,Suspect 35,33,Person of Interest
+20251030-2603,Suspect 990,41,Wanted
+20251030-2604,Suspect 267,58,Person of Interest
+20251030-2604,Suspect 513,59,Wanted
+20251030-2605,Suspect 899,40,Person of Interest
+20251030-2605,Suspect 579,59,Person of Interest
+20251030-2606,Suspect 544,57,Arrested
+20251030-2606,Suspect 307,60,Suspect
+20251030-2607,Suspect 646,31,Wanted
+20251030-2607,Suspect 822,54,Arrested
+20251030-2608,Suspect 495,48,Arrested
+20251030-2608,Suspect 880,20,Suspect
+20251030-2608,Suspect 626,47,Suspect
+20251030-2609,Suspect 578,49,Suspect
+20251030-2609,Suspect 115,41,Wanted
+20251030-2609,Suspect 972,56,Person of Interest
+20251030-2611,Suspect 416,65,Wanted
+20251030-2612,Suspect 973,40,Wanted
+20251030-2613,Suspect 477,60,Arrested
+20251030-2613,Suspect 24,33,Wanted
+20251030-2616,Suspect 845,58,Person of Interest
+20251030-2616,Suspect 658,50,Wanted
+20251030-2617,Suspect 449,42,Suspect
+20251030-2620,Suspect 478,35,Suspect
+20251030-2620,Suspect 480,54,Wanted
+20251030-2620,Suspect 156,22,Wanted
+20251030-2626,Suspect 239,29,Wanted
+20251030-2626,Suspect 27,46,Person of Interest
+20251030-2627,Suspect 210,53,Person of Interest
+20251030-2627,Suspect 823,43,Arrested
+20251030-2627,Suspect 876,65,Suspect
+20251030-2628,Suspect 499,55,Suspect
+20251030-2628,Suspect 580,48,Person of Interest
+20251030-2628,Suspect 746,50,Wanted
+20251030-2629,Suspect 752,64,Wanted
+20251030-2629,Suspect 622,55,Suspect
+20251030-2631,Suspect 35,30,Wanted
+20251030-2631,Suspect 950,53,Arrested
+20251030-2631,Suspect 565,39,Arrested
+20251030-2634,Suspect 260,38,Arrested
+20251030-2635,Suspect 492,52,Wanted
+20251030-2635,Suspect 546,60,Arrested
+20251030-2636,Suspect 174,65,Arrested
+20251030-2637,Suspect 316,64,Arrested
+20251030-2639,Suspect 360,19,Wanted
+20251030-2639,Suspect 533,64,Wanted
+20251030-2639,Suspect 396,57,Suspect
+20251030-2640,Suspect 242,53,Suspect
+20251030-2640,Suspect 223,41,Wanted
+20251030-2640,Suspect 565,31,Arrested
+20251030-2641,Suspect 845,27,Suspect
+20251030-2642,Suspect 31,62,Wanted
+20251030-2642,Suspect 49,36,Person of Interest
+20251030-2643,Suspect 738,58,Suspect
+20251030-2644,Suspect 957,58,Arrested
+20251030-2645,Suspect 192,35,Person of Interest
+20251030-2645,Suspect 378,23,Arrested
+20251030-2645,Suspect 91,24,Wanted
+20251030-2646,Suspect 527,25,Person of Interest
+20251030-2647,Suspect 403,59,Suspect
+20251030-2647,Suspect 805,58,Person of Interest
+20251030-2649,Suspect 308,60,Suspect
+20251030-2649,Suspect 510,24,Person of Interest
+20251030-2649,Suspect 212,35,Suspect
+20251030-2650,Suspect 556,18,Suspect
+20251030-2650,Suspect 402,61,Suspect
+20251030-2650,Suspect 480,51,Suspect
+20251030-2652,Suspect 324,57,Arrested
+20251030-2652,Suspect 122,52,Person of Interest
+20251030-2656,Suspect 629,19,Arrested
+20251030-2657,Suspect 606,18,Person of Interest
+20251030-2657,Suspect 252,25,Person of Interest
+20251030-2657,Suspect 734,34,Suspect
+20251030-2658,Suspect 84,42,Person of Interest
+20251030-2658,Suspect 315,60,Person of Interest
+20251030-2658,Suspect 404,24,Person of Interest
+20251030-2659,Suspect 358,24,Suspect
+20251030-2662,Suspect 818,30,Arrested
+20251030-2662,Suspect 535,49,Wanted
+20251030-2667,Suspect 286,23,Suspect
+20251030-2667,Suspect 460,28,Arrested
+20251030-2667,Suspect 514,46,Arrested
+20251030-2668,Suspect 924,29,Suspect
+20251030-2668,Suspect 771,56,Person of Interest
+20251030-2670,Suspect 15,56,Person of Interest
+20251030-2671,Suspect 831,52,Arrested
+20251030-2671,Suspect 995,32,Wanted
+20251030-2671,Suspect 343,64,Arrested
+20251030-2675,Suspect 614,63,Wanted
+20251030-2676,Suspect 319,22,Wanted
+20251030-2680,Suspect 930,63,Person of Interest
+20251030-2680,Suspect 838,63,Arrested
+20251030-2680,Suspect 825,50,Wanted
+20251030-2682,Suspect 425,34,Person of Interest
+20251030-2682,Suspect 163,52,Person of Interest
+20251030-2682,Suspect 782,47,Person of Interest
+20251030-2683,Suspect 403,18,Person of Interest
+20251030-2683,Suspect 622,52,Wanted
+20251030-2683,Suspect 38,51,Person of Interest
+20251030-2685,Suspect 492,35,Arrested
+20251030-2685,Suspect 36,55,Arrested
+20251030-2685,Suspect 725,46,Suspect
+20251030-2686,Suspect 971,33,Arrested
+20251030-2686,Suspect 872,56,Wanted
+20251030-2689,Suspect 410,32,Person of Interest
+20251030-2690,Suspect 713,30,Arrested
+20251030-2690,Suspect 818,26,Person of Interest
+20251030-2694,Suspect 728,60,Person of Interest
+20251030-2697,Suspect 719,52,Person of Interest
+20251030-2697,Suspect 467,32,Suspect
+20251030-2697,Suspect 718,43,Person of Interest
+20251030-2698,Suspect 248,65,Person of Interest
+20251030-2698,Suspect 129,53,Arrested
+20251030-2698,Suspect 523,23,Arrested
+20251030-2699,Suspect 107,57,Suspect
+20251030-2703,Suspect 771,23,Suspect
+20251030-2703,Suspect 285,37,Arrested
+20251030-2708,Suspect 568,20,Wanted
+20251030-2709,Suspect 744,49,Wanted
+20251030-2709,Suspect 624,25,Person of Interest
+20251030-2709,Suspect 568,30,Arrested
+20251030-2714,Suspect 812,40,Person of Interest
+20251030-2714,Suspect 900,22,Wanted
+20251030-2714,Suspect 160,27,Suspect
+20251030-2715,Suspect 876,37,Suspect
+20251030-2721,Suspect 379,20,Person of Interest
+20251030-2721,Suspect 802,26,Arrested
+20251030-2721,Suspect 732,47,Suspect
+20251030-2723,Suspect 580,56,Arrested
+20251030-2724,Suspect 69,18,Arrested
+20251030-2724,Suspect 952,42,Person of Interest
+20251030-2727,Suspect 89,21,Arrested
+20251030-2727,Suspect 64,31,Arrested
+20251030-2728,Suspect 113,45,Person of Interest
+20251030-2728,Suspect 609,65,Suspect
+20251030-2728,Suspect 902,38,Wanted
+20251030-2734,Suspect 939,28,Person of Interest
+20251030-2737,Suspect 606,37,Person of Interest
+20251030-2742,Suspect 845,50,Person of Interest
+20251030-2742,Suspect 342,44,Wanted
+20251030-2743,Suspect 772,44,Person of Interest
+20251030-2743,Suspect 468,37,Wanted
+20251030-2743,Suspect 132,43,Suspect
+20251030-2747,Suspect 841,40,Suspect
+20251030-2747,Suspect 712,26,Wanted
+20251030-2748,Suspect 27,24,Suspect
+20251030-2748,Suspect 806,21,Person of Interest
+20251030-2757,Suspect 102,40,Arrested
+20251030-2758,Suspect 408,47,Person of Interest
+20251030-2758,Suspect 109,29,Person of Interest
+20251030-2760,Suspect 462,22,Suspect
+20251030-2762,Suspect 177,35,Arrested
+20251030-2762,Suspect 364,62,Suspect
+20251030-2762,Suspect 339,22,Suspect
+20251030-2763,Suspect 767,60,Person of Interest
+20251030-2764,Suspect 771,27,Wanted
+20251030-2764,Suspect 441,39,Suspect
+20251030-2767,Suspect 669,31,Arrested
+20251030-2769,Suspect 664,47,Arrested
+20251030-2769,Suspect 790,47,Suspect
+20251030-2769,Suspect 767,31,Suspect
+20251030-2770,Suspect 406,20,Arrested
+20251030-2770,Suspect 670,50,Arrested
+20251030-2770,Suspect 390,51,Wanted
+20251030-2773,Suspect 149,35,Arrested
+20251030-2773,Suspect 794,41,Person of Interest
+20251030-2773,Suspect 450,49,Arrested
+20251030-2775,Suspect 693,28,Suspect
+20251030-2776,Suspect 99,63,Suspect
+20251030-2776,Suspect 67,28,Person of Interest
+20251030-2777,Suspect 244,27,Suspect
+20251030-2777,Suspect 302,20,Wanted
+20251030-2777,Suspect 215,23,Arrested
+20251030-2778,Suspect 468,45,Arrested
+20251030-2778,Suspect 304,62,Wanted
+20251030-2778,Suspect 174,56,Arrested
+20251030-2780,Suspect 401,40,Suspect
+20251030-2780,Suspect 68,38,Wanted
+20251030-2784,Suspect 609,36,Wanted
+20251030-2784,Suspect 838,64,Suspect
+20251030-2784,Suspect 269,59,Wanted
+20251030-2787,Suspect 996,62,Wanted
+20251030-2788,Suspect 510,44,Arrested
+20251030-2788,Suspect 970,62,Wanted
+20251030-2788,Suspect 785,43,Person of Interest
+20251030-2789,Suspect 417,20,Suspect
+20251030-2789,Suspect 849,30,Person of Interest
+20251030-2789,Suspect 182,26,Suspect
+20251030-2792,Suspect 79,33,Person of Interest
+20251030-2792,Suspect 602,34,Person of Interest
+20251030-2793,Suspect 101,58,Person of Interest
+20251030-2796,Suspect 107,49,Suspect
+20251030-2796,Suspect 160,65,Person of Interest
+20251030-2797,Suspect 110,64,Suspect
+20251030-2797,Suspect 576,42,Wanted
+20251030-2797,Suspect 789,57,Person of Interest
+20251030-2798,Suspect 533,63,Wanted
+20251030-2798,Suspect 125,26,Wanted
+20251030-2801,Suspect 127,44,Arrested
+20251030-2802,Suspect 391,40,Wanted
+20251030-2809,Suspect 48,59,Suspect
+20251030-2809,Suspect 483,33,Person of Interest
+20251030-2809,Suspect 865,19,Suspect
+20251030-2814,Suspect 164,26,Suspect
+20251030-2817,Suspect 936,52,Person of Interest
+20251030-2820,Suspect 631,51,Suspect
+20251030-2820,Suspect 712,35,Arrested
+20251030-2820,Suspect 975,24,Arrested
+20251030-2821,Suspect 674,36,Person of Interest
+20251030-2821,Suspect 783,53,Wanted
+20251030-2821,Suspect 158,44,Wanted
+20251030-2823,Suspect 347,56,Wanted
+20251030-2827,Suspect 939,33,Wanted
+20251030-2828,Suspect 386,61,Person of Interest
+20251030-2828,Suspect 342,58,Wanted
+20251030-2829,Suspect 72,54,Wanted
+20251030-2830,Suspect 900,53,Wanted
+20251030-2830,Suspect 421,48,Person of Interest
+20251030-2831,Suspect 704,54,Person of Interest
+20251030-2831,Suspect 149,60,Suspect
+20251030-2831,Suspect 623,51,Arrested
+20251030-2833,Suspect 29,32,Person of Interest
+20251030-2835,Suspect 641,57,Person of Interest
+20251030-2839,Suspect 595,62,Wanted
+20251030-2839,Suspect 314,62,Suspect
+20251030-2840,Suspect 513,65,Person of Interest
+20251030-2840,Suspect 167,25,Arrested
+20251030-2841,Suspect 30,57,Suspect
+20251030-2842,Suspect 988,61,Person of Interest
+20251030-2842,Suspect 832,61,Arrested
+20251030-2842,Suspect 893,50,Arrested
+20251030-2844,Suspect 271,33,Suspect
+20251030-2845,Suspect 975,58,Arrested
+20251030-2846,Suspect 436,55,Person of Interest
+20251030-2857,Suspect 360,45,Suspect
+20251030-2857,Suspect 85,51,Person of Interest
+20251030-2857,Suspect 121,19,Arrested
+20251030-2859,Suspect 357,34,Wanted
+20251030-2859,Suspect 899,46,Arrested
+20251030-2861,Suspect 652,49,Wanted
+20251030-2861,Suspect 58,28,Arrested
+20251030-2861,Suspect 59,31,Person of Interest
+20251030-2862,Suspect 709,22,Wanted
+20251030-2865,Suspect 898,31,Wanted
+20251030-2865,Suspect 810,62,Person of Interest
+20251030-2869,Suspect 507,64,Wanted
+20251030-2869,Suspect 192,31,Person of Interest
+20251030-2869,Suspect 172,43,Suspect
+20251030-2876,Suspect 961,64,Wanted
+20251030-2876,Suspect 431,24,Suspect
+20251030-2878,Suspect 635,50,Person of Interest
+20251030-2880,Suspect 296,55,Person of Interest
+20251030-2880,Suspect 255,33,Arrested
+20251030-2880,Suspect 324,59,Person of Interest
+20251030-2884,Suspect 924,64,Suspect
+20251030-2884,Suspect 744,41,Person of Interest
+20251030-2884,Suspect 730,36,Person of Interest
+20251030-2885,Suspect 125,43,Person of Interest
+20251030-2885,Suspect 611,28,Suspect
+20251030-2885,Suspect 905,23,Wanted
+20251030-2886,Suspect 664,63,Suspect
+20251030-2886,Suspect 965,51,Arrested
+20251030-2886,Suspect 328,34,Wanted
+20251030-2888,Suspect 627,52,Person of Interest
+20251030-2888,Suspect 810,46,Person of Interest
+20251030-2888,Suspect 121,50,Suspect
+20251030-2890,Suspect 537,23,Arrested
+20251030-2890,Suspect 353,24,Arrested
+20251030-2892,Suspect 808,43,Arrested
+20251030-2892,Suspect 395,31,Suspect
+20251030-2894,Suspect 889,27,Arrested
+20251030-2894,Suspect 881,62,Arrested
+20251030-2896,Suspect 377,63,Suspect
+20251030-2896,Suspect 351,50,Person of Interest
+20251030-2896,Suspect 26,55,Wanted
+20251030-2899,Suspect 703,57,Arrested
+20251030-2899,Suspect 487,40,Person of Interest
+20251030-2899,Suspect 193,36,Person of Interest
+20251030-2900,Suspect 92,45,Suspect
+20251030-2900,Suspect 488,30,Suspect
+20251030-2900,Suspect 641,32,Wanted
+20251030-2901,Suspect 791,37,Person of Interest
+20251030-2902,Suspect 752,45,Person of Interest
+20251030-2904,Suspect 953,58,Suspect
+20251030-2904,Suspect 591,63,Suspect
+20251030-2904,Suspect 722,23,Arrested
+20251030-2911,Suspect 904,19,Person of Interest
+20251030-2911,Suspect 820,63,Suspect
+20251030-2914,Suspect 520,31,Suspect
+20251030-2914,Suspect 720,27,Arrested
+20251030-2914,Suspect 128,32,Arrested
+20251030-2916,Suspect 596,49,Person of Interest
+20251030-2916,Suspect 973,30,Person of Interest
+20251030-2916,Suspect 631,27,Wanted
+20251030-2917,Suspect 563,32,Wanted
+20251030-2917,Suspect 568,36,Arrested
+20251030-2917,Suspect 984,29,Arrested
+20251030-2919,Suspect 940,28,Person of Interest
+20251030-2921,Suspect 946,54,Wanted
+20251030-2921,Suspect 490,26,Wanted
+20251030-2921,Suspect 207,29,Arrested
+20251030-2922,Suspect 25,44,Suspect
+20251030-2923,Suspect 301,23,Suspect
+20251030-2923,Suspect 312,34,Wanted
+20251030-2927,Suspect 495,42,Wanted
+20251030-2930,Suspect 266,64,Person of Interest
+20251030-2930,Suspect 643,48,Arrested
+20251030-2930,Suspect 577,30,Arrested
+20251030-2931,Suspect 668,50,Person of Interest
+20251030-2935,Suspect 751,45,Arrested
+20251030-2936,Suspect 401,22,Person of Interest
+20251030-2943,Suspect 852,61,Person of Interest
+20251030-2943,Suspect 600,53,Person of Interest
+20251030-2944,Suspect 609,24,Person of Interest
+20251030-2944,Suspect 13,65,Arrested
+20251030-2948,Suspect 158,31,Arrested
+20251030-2948,Suspect 705,31,Wanted
+20251030-2948,Suspect 996,41,Person of Interest
+20251030-2949,Suspect 456,21,Arrested
+20251030-2949,Suspect 492,53,Person of Interest
+20251030-2958,Suspect 6,20,Suspect
+20251030-2962,Suspect 596,38,Suspect
+20251030-2962,Suspect 439,35,Wanted
+20251030-2962,Suspect 88,59,Wanted
+20251030-2967,Suspect 82,60,Arrested
+20251030-2968,Suspect 356,36,Wanted
+20251030-2968,Suspect 203,58,Person of Interest
+20251030-2968,Suspect 766,61,Wanted
+20251030-2969,Suspect 775,33,Person of Interest
+20251030-2974,Suspect 66,42,Wanted
+20251030-2974,Suspect 849,26,Suspect
+20251030-2974,Suspect 196,38,Arrested
+20251030-2976,Suspect 336,25,Suspect
+20251030-2978,Suspect 529,19,Arrested
+20251030-2979,Suspect 762,45,Arrested
+20251030-2979,Suspect 146,30,Wanted
+20251030-2979,Suspect 315,23,Wanted
+20251030-2980,Suspect 46,61,Arrested
+20251030-2980,Suspect 288,54,Wanted
+20251030-2980,Suspect 292,29,Wanted
+20251030-2981,Suspect 284,56,Arrested
+20251030-2984,Suspect 770,32,Arrested
+20251030-2985,Suspect 150,40,Wanted
+20251030-2990,Suspect 78,65,Arrested
+20251030-2990,Suspect 530,46,Arrested
+20251030-2991,Suspect 512,45,Person of Interest
+20251030-2991,Suspect 658,40,Wanted
+20251030-2992,Suspect 863,51,Suspect
+20251030-2992,Suspect 808,25,Arrested
+20251030-2992,Suspect 717,65,Wanted
+20251030-2997,Suspect 321,53,Suspect
+20251030-2997,Suspect 854,60,Person of Interest
+20251030-2997,Suspect 137,36,Wanted
+20251030-2998,Suspect 299,34,Person of Interest
+20251030-2999,Suspect 720,31,Arrested
+20251030-2999,Suspect 507,56,Suspect
+20251030-2999,Suspect 661,65,Suspect
+20251030-3002,Suspect 663,28,Suspect
+20251030-3003,Suspect 884,34,Person of Interest
+20251030-3003,Suspect 651,20,Wanted
+20251030-3005,Suspect 906,22,Suspect
+20251030-3010,Suspect 472,25,Suspect
+20251030-3010,Suspect 934,32,Arrested
+20251030-3015,Suspect 936,42,Arrested
+20251030-3015,Suspect 193,47,Arrested
+20251030-3017,Suspect 267,49,Suspect
+20251030-3021,Suspect 326,26,Wanted
+20251030-3021,Suspect 833,42,Wanted
+20251030-3022,Suspect 332,61,Person of Interest
+20251030-3022,Suspect 258,63,Arrested
+20251030-3022,Suspect 667,46,Person of Interest
+20251030-3027,Suspect 898,63,Arrested
+20251030-3027,Suspect 143,43,Suspect
+20251030-3027,Suspect 506,33,Suspect
+20251030-3028,Suspect 873,22,Suspect
+20251030-3028,Suspect 210,37,Wanted
+20251030-3028,Suspect 211,63,Wanted
+20251030-3030,Suspect 34,24,Arrested
+20251030-3030,Suspect 22,32,Person of Interest
+20251030-3031,Suspect 572,43,Arrested
+20251030-3031,Suspect 333,23,Arrested
+20251030-3032,Suspect 985,27,Person of Interest
+20251030-3032,Suspect 27,26,Arrested
+20251030-3032,Suspect 717,45,Arrested
+20251030-3036,Suspect 189,42,Person of Interest
+20251030-3036,Suspect 384,40,Suspect
+20251030-3038,Suspect 84,35,Person of Interest
+20251030-3040,Suspect 121,36,Suspect
+20251030-3041,Suspect 353,20,Arrested
+20251030-3041,Suspect 408,33,Arrested
+20251030-3042,Suspect 343,44,Wanted
+20251030-3042,Suspect 168,59,Suspect
+20251030-3044,Suspect 639,38,Suspect
+20251030-3044,Suspect 73,56,Suspect
+20251030-3045,Suspect 268,22,Wanted
+20251030-3045,Suspect 253,39,Wanted
+20251030-3045,Suspect 282,35,Arrested
+20251030-3046,Suspect 281,42,Wanted
+20251030-3046,Suspect 566,42,Arrested
+20251030-3046,Suspect 615,62,Arrested
+20251030-3047,Suspect 573,37,Arrested
+20251030-3047,Suspect 138,28,Suspect
+20251030-3047,Suspect 492,59,Wanted
+20251030-3049,Suspect 432,62,Suspect
+20251030-3054,Suspect 449,64,Arrested
+20251030-3054,Suspect 188,35,Arrested
+20251030-3055,Suspect 479,32,Arrested
+20251030-3055,Suspect 296,22,Wanted
+20251030-3055,Suspect 718,48,Wanted
+20251030-3059,Suspect 536,36,Person of Interest
+20251030-3059,Suspect 136,64,Person of Interest
+20251030-3060,Suspect 467,62,Wanted
+20251030-3060,Suspect 694,26,Arrested
+20251030-3061,Suspect 292,50,Person of Interest
+20251030-3065,Suspect 205,49,Suspect
+20251030-3065,Suspect 197,18,Suspect
+20251030-3066,Suspect 495,21,Suspect
+20251030-3069,Suspect 96,63,Arrested
+20251030-3069,Suspect 301,62,Arrested
+20251030-3069,Suspect 25,30,Suspect
+20251030-3070,Suspect 220,28,Wanted
+20251030-3070,Suspect 567,52,Person of Interest
+20251030-3071,Suspect 469,18,Person of Interest
+20251030-3071,Suspect 623,38,Arrested
+20251030-3071,Suspect 204,42,Arrested
+20251030-3074,Suspect 52,20,Wanted
+20251030-3074,Suspect 917,36,Suspect
+20251030-3074,Suspect 365,64,Suspect
+20251030-3076,Suspect 542,38,Suspect
+20251030-3076,Suspect 966,42,Arrested
+20251030-3078,Suspect 256,32,Arrested
+20251030-3078,Suspect 242,62,Person of Interest
+20251030-3080,Suspect 83,59,Suspect
+20251030-3080,Suspect 908,29,Person of Interest
+20251030-3082,Suspect 926,26,Arrested
+20251030-3082,Suspect 132,41,Wanted
+20251030-3083,Suspect 892,36,Wanted
+20251030-3083,Suspect 374,24,Suspect
+20251030-3083,Suspect 164,21,Arrested
+20251030-3085,Suspect 16,61,Person of Interest
+20251030-3085,Suspect 435,55,Wanted
+20251030-3085,Suspect 668,45,Suspect
+20251030-3096,Suspect 633,23,Wanted
+20251030-3099,Suspect 422,54,Person of Interest
+20251030-3105,Suspect 445,18,Wanted
+20251030-3108,Suspect 37,56,Wanted
+20251030-3108,Suspect 878,59,Wanted
+20251030-3110,Suspect 471,21,Suspect
+20251030-3110,Suspect 437,27,Person of Interest
+20251030-3110,Suspect 429,54,Wanted
+20251030-3112,Suspect 38,41,Wanted
+20251030-3112,Suspect 919,51,Person of Interest
+20251030-3122,Suspect 245,57,Suspect
+20251030-3122,Suspect 595,65,Person of Interest
+20251030-3122,Suspect 783,44,Person of Interest
+20251030-3125,Suspect 270,54,Person of Interest
+20251030-3125,Suspect 475,25,Suspect
+20251030-3126,Suspect 729,51,Suspect
+20251030-3127,Suspect 881,19,Wanted
+20251030-3128,Suspect 308,56,Person of Interest
+20251030-3129,Suspect 311,19,Arrested
+20251030-3129,Suspect 12,21,Wanted
+20251030-3129,Suspect 769,28,Suspect
+20251030-3130,Suspect 496,34,Suspect
+20251030-3131,Suspect 166,52,Person of Interest
+20251030-3131,Suspect 56,43,Wanted
+20251030-3132,Suspect 90,19,Suspect
+20251030-3132,Suspect 192,62,Arrested
+20251030-3132,Suspect 608,27,Suspect
+20251030-3134,Suspect 185,55,Arrested
+20251030-3135,Suspect 256,29,Suspect
+20251030-3135,Suspect 231,54,Arrested
+20251030-3137,Suspect 127,21,Person of Interest
+20251030-3137,Suspect 239,36,Arrested
+20251030-3140,Suspect 881,29,Person of Interest
+20251030-3140,Suspect 690,45,Wanted
+20251030-3143,Suspect 578,48,Wanted
+20251030-3143,Suspect 65,62,Wanted
+20251030-3143,Suspect 228,48,Suspect
+20251030-3145,Suspect 310,24,Suspect
+20251030-3145,Suspect 32,55,Suspect
+20251030-3146,Suspect 535,44,Arrested
+20251030-3146,Suspect 864,25,Suspect
+20251030-3148,Suspect 277,38,Person of Interest
+20251030-3148,Suspect 393,48,Suspect
+20251030-3148,Suspect 52,43,Wanted
+20251030-3150,Suspect 130,30,Suspect
+20251030-3150,Suspect 773,57,Suspect
+20251030-3151,Suspect 202,24,Person of Interest
+20251030-3151,Suspect 309,60,Arrested
+20251030-3157,Suspect 186,45,Arrested
+20251030-3158,Suspect 318,59,Wanted
+20251030-3158,Suspect 112,55,Arrested
+20251030-3158,Suspect 650,43,Arrested
+20251030-3160,Suspect 181,46,Wanted
+20251030-3162,Suspect 479,23,Wanted
+20251030-3162,Suspect 212,60,Person of Interest
+20251030-3163,Suspect 733,22,Suspect
+20251030-3164,Suspect 52,54,Person of Interest
+20251030-3167,Suspect 862,29,Arrested
+20251030-3170,Suspect 174,49,Person of Interest
+20251030-3171,Suspect 283,63,Person of Interest
+20251030-3172,Suspect 260,24,Suspect
+20251030-3172,Suspect 540,32,Suspect
+20251030-3178,Suspect 628,32,Wanted
+20251030-3178,Suspect 398,41,Wanted
+20251030-3179,Suspect 113,55,Wanted
+20251030-3180,Suspect 34,56,Wanted
+20251030-3180,Suspect 906,40,Wanted
+20251030-3181,Suspect 661,65,Person of Interest
+20251030-3182,Suspect 235,42,Arrested
+20251030-3182,Suspect 943,34,Arrested
+20251030-3182,Suspect 145,37,Arrested
+20251030-3185,Suspect 913,47,Suspect
+20251030-3189,Suspect 797,21,Person of Interest
+20251030-3193,Suspect 255,41,Wanted
+20251030-3193,Suspect 7,39,Arrested
+20251030-3194,Suspect 887,29,Wanted
+20251030-3194,Suspect 455,27,Arrested
+20251030-3194,Suspect 2,60,Person of Interest
+20251030-3196,Suspect 328,28,Person of Interest
+20251030-3196,Suspect 935,46,Arrested
+20251030-3196,Suspect 642,33,Arrested
+20251030-3197,Suspect 869,43,Person of Interest
+20251030-3197,Suspect 249,54,Suspect
+20251030-3205,Suspect 855,19,Arrested
+20251030-3205,Suspect 88,62,Arrested
+20251030-3206,Suspect 173,63,Person of Interest
+20251030-3206,Suspect 832,51,Arrested
+20251030-3213,Suspect 853,22,Wanted
+20251030-3213,Suspect 472,48,Wanted
+20251030-3213,Suspect 447,61,Suspect
+20251030-3217,Suspect 485,48,Arrested
+20251030-3220,Suspect 366,25,Person of Interest
+20251030-3220,Suspect 889,36,Person of Interest
+20251030-3220,Suspect 473,18,Arrested
+20251030-3221,Suspect 4,65,Person of Interest
+20251030-3223,Suspect 426,51,Arrested
+20251030-3223,Suspect 503,24,Suspect
+20251030-3223,Suspect 90,21,Person of Interest
+20251030-3224,Suspect 570,39,Person of Interest
+20251030-3229,Suspect 37,20,Person of Interest
+20251030-3229,Suspect 944,27,Wanted
+20251030-3230,Suspect 395,64,Suspect
+20251030-3235,Suspect 643,31,Suspect
+20251030-3236,Suspect 121,46,Person of Interest
+20251030-3236,Suspect 518,52,Arrested
+20251030-3239,Suspect 37,26,Suspect
+20251030-3239,Suspect 825,41,Wanted
+20251030-3241,Suspect 730,62,Suspect
+20251030-3241,Suspect 485,34,Suspect
+20251030-3244,Suspect 110,30,Arrested
+20251030-3244,Suspect 252,32,Arrested
+20251030-3248,Suspect 933,37,Person of Interest
+20251030-3248,Suspect 564,35,Wanted
+20251030-3253,Suspect 852,26,Wanted
+20251030-3253,Suspect 567,18,Arrested
+20251030-3253,Suspect 621,27,Arrested
+20251030-3256,Suspect 573,31,Wanted
+20251030-3256,Suspect 667,18,Wanted
+20251030-3257,Suspect 975,40,Person of Interest
+20251030-3257,Suspect 188,19,Wanted
+20251030-3257,Suspect 58,40,Arrested
+20251030-3258,Suspect 347,65,Wanted
+20251030-3260,Suspect 463,49,Suspect
+20251030-3260,Suspect 362,50,Suspect
+20251030-3265,Suspect 482,51,Wanted
+20251030-3266,Suspect 26,43,Suspect
+20251030-3266,Suspect 79,38,Arrested
+20251030-3266,Suspect 514,22,Arrested
+20251030-3267,Suspect 275,33,Arrested
+20251030-3269,Suspect 194,25,Arrested
+20251030-3269,Suspect 501,18,Suspect
+20251030-3269,Suspect 333,25,Person of Interest
+20251030-3273,Suspect 579,42,Arrested
+20251030-3273,Suspect 56,28,Person of Interest
+20251030-3274,Suspect 258,42,Suspect
+20251030-3274,Suspect 382,49,Suspect
+20251030-3274,Suspect 339,55,Suspect
+20251030-3275,Suspect 889,64,Arrested
+20251030-3275,Suspect 747,53,Wanted
+20251030-3276,Suspect 877,48,Arrested
+20251030-3278,Suspect 509,57,Person of Interest
+20251030-3279,Suspect 607,59,Person of Interest
+20251030-3279,Suspect 546,25,Arrested
+20251030-3279,Suspect 817,42,Arrested
+20251030-3280,Suspect 642,49,Wanted
+20251030-3285,Suspect 533,61,Arrested
+20251030-3285,Suspect 990,35,Wanted
+20251030-3285,Suspect 99,57,Wanted
+20251030-3286,Suspect 479,20,Arrested
+20251030-3287,Suspect 872,24,Wanted
+20251030-3290,Suspect 61,62,Person of Interest
+20251030-3290,Suspect 493,32,Wanted
+20251030-3290,Suspect 918,64,Suspect
+20251030-3291,Suspect 714,40,Arrested
+20251030-3291,Suspect 774,55,Arrested
+20251030-3291,Suspect 106,27,Wanted
+20251030-3295,Suspect 296,62,Wanted
+20251030-3295,Suspect 966,54,Person of Interest
+20251030-3296,Suspect 478,50,Suspect
+20251030-3297,Suspect 503,50,Suspect
+20251030-3297,Suspect 569,62,Person of Interest
+20251030-3298,Suspect 973,41,Suspect
+20251030-3298,Suspect 703,61,Wanted
+20251030-3298,Suspect 683,55,Wanted
+20251030-3302,Suspect 286,41,Wanted
+20251030-3302,Suspect 332,63,Wanted
+20251030-3302,Suspect 463,48,Arrested
+20251030-3303,Suspect 981,65,Wanted
+20251030-3303,Suspect 461,39,Suspect
+20251030-3303,Suspect 450,56,Suspect
+20251030-3307,Suspect 705,62,Wanted
+20251030-3307,Suspect 630,29,Wanted
+20251030-3309,Suspect 47,52,Suspect
+20251030-3309,Suspect 718,54,Arrested
+20251030-3321,Suspect 835,41,Wanted
+20251030-3321,Suspect 760,58,Wanted
+20251030-3321,Suspect 475,56,Wanted
+20251030-3323,Suspect 201,46,Suspect
+20251030-3326,Suspect 592,35,Person of Interest
+20251030-3326,Suspect 789,39,Wanted
+20251030-3326,Suspect 96,59,Wanted
+20251030-3329,Suspect 604,61,Arrested
+20251030-3330,Suspect 706,60,Person of Interest
+20251030-3330,Suspect 462,64,Person of Interest
+20251030-3330,Suspect 472,28,Person of Interest
+20251030-3332,Suspect 284,32,Suspect
+20251030-3332,Suspect 554,29,Arrested
+20251030-3332,Suspect 746,46,Arrested
+20251030-3337,Suspect 894,33,Person of Interest
+20251030-3337,Suspect 429,61,Arrested
+20251030-3337,Suspect 483,52,Person of Interest
+20251030-3338,Suspect 361,41,Arrested
+20251030-3341,Suspect 52,50,Person of Interest
+20251030-3341,Suspect 950,38,Person of Interest
+20251030-3341,Suspect 364,61,Arrested
+20251030-3344,Suspect 665,59,Arrested
+20251030-3344,Suspect 962,19,Wanted
+20251030-3345,Suspect 410,38,Person of Interest
+20251030-3346,Suspect 941,48,Suspect
+20251030-3347,Suspect 559,59,Wanted
+20251030-3350,Suspect 528,63,Wanted
+20251030-3350,Suspect 95,34,Wanted
+20251030-3352,Suspect 223,23,Person of Interest
+20251030-3352,Suspect 554,18,Person of Interest
+20251030-3352,Suspect 883,48,Wanted
+20251030-3354,Suspect 119,35,Arrested
+20251030-3354,Suspect 64,65,Suspect
+20251030-3355,Suspect 432,64,Suspect
+20251030-3355,Suspect 660,23,Arrested
+20251030-3357,Suspect 593,26,Arrested
+20251030-3357,Suspect 632,49,Wanted
+20251030-3359,Suspect 667,57,Suspect
+20251030-3359,Suspect 767,47,Wanted
+20251030-3362,Suspect 744,48,Person of Interest
+20251030-3362,Suspect 771,44,Wanted
+20251030-3362,Suspect 868,41,Arrested
+20251030-3365,Suspect 265,24,Wanted
+20251030-3365,Suspect 444,39,Wanted
+20251030-3366,Suspect 81,21,Wanted
+20251030-3366,Suspect 679,39,Suspect
+20251030-3366,Suspect 93,21,Person of Interest
+20251030-3370,Suspect 774,46,Person of Interest
+20251030-3370,Suspect 987,64,Person of Interest
+20251030-3380,Suspect 64,43,Suspect
+20251030-3381,Suspect 816,31,Arrested
+20251030-3387,Suspect 336,55,Person of Interest
+20251030-3390,Suspect 590,65,Wanted
+20251030-3392,Suspect 918,42,Person of Interest
+20251030-3392,Suspect 608,18,Arrested
+20251030-3400,Suspect 480,58,Arrested
+20251030-3400,Suspect 198,39,Wanted
+20251030-3400,Suspect 268,34,Wanted
+20251030-3402,Suspect 82,23,Wanted
+20251030-3402,Suspect 161,29,Arrested
+20251030-3404,Suspect 626,51,Person of Interest
+20251030-3404,Suspect 328,43,Suspect
+20251030-3406,Suspect 664,46,Arrested
+20251030-3406,Suspect 541,48,Wanted
+20251030-3406,Suspect 677,27,Suspect
+20251030-3407,Suspect 778,55,Person of Interest
+20251030-3408,Suspect 973,53,Wanted
+20251030-3408,Suspect 468,62,Person of Interest
+20251030-3412,Suspect 981,57,Wanted
+20251030-3412,Suspect 271,53,Suspect
+20251030-3412,Suspect 312,49,Arrested
+20251030-3413,Suspect 370,29,Person of Interest
+20251030-3413,Suspect 173,53,Person of Interest
+20251030-3413,Suspect 461,27,Suspect
+20251030-3417,Suspect 281,43,Person of Interest
+20251030-3422,Suspect 666,27,Suspect
+20251030-3422,Suspect 957,60,Person of Interest
+20251030-3422,Suspect 185,27,Wanted
+20251030-3423,Suspect 176,27,Suspect
+20251030-3425,Suspect 800,57,Suspect
+20251030-3425,Suspect 859,65,Suspect
+20251030-3425,Suspect 506,32,Suspect
+20251030-3434,Suspect 368,53,Wanted
+20251030-3434,Suspect 874,21,Wanted
+20251030-3434,Suspect 867,38,Suspect
+20251030-3439,Suspect 380,43,Arrested
+20251030-3442,Suspect 62,50,Wanted
+20251030-3446,Suspect 608,61,Person of Interest
+20251030-3447,Suspect 157,25,Suspect
+20251030-3447,Suspect 677,58,Person of Interest
+20251030-3449,Suspect 74,41,Person of Interest
+20251030-3449,Suspect 282,35,Person of Interest
+20251030-3449,Suspect 285,53,Arrested
+20251030-3455,Suspect 820,45,Wanted
+20251030-3455,Suspect 658,31,Person of Interest
+20251030-3455,Suspect 67,64,Arrested
+20251030-3458,Suspect 405,20,Wanted
+20251030-3458,Suspect 497,56,Wanted
+20251030-3458,Suspect 177,63,Person of Interest
+20251030-3469,Suspect 905,52,Arrested
+20251030-3469,Suspect 919,39,Arrested
+20251030-3471,Suspect 812,21,Arrested
+20251030-3472,Suspect 174,64,Wanted
+20251030-3472,Suspect 712,60,Arrested
+20251030-3474,Suspect 144,42,Arrested
+20251030-3478,Suspect 508,33,Person of Interest
+20251030-3478,Suspect 715,38,Suspect
+20251030-3478,Suspect 449,52,Person of Interest
+20251030-3480,Suspect 621,43,Wanted
+20251030-3482,Suspect 236,51,Person of Interest
+20251030-3482,Suspect 444,64,Suspect
+20251030-3485,Suspect 966,18,Arrested
+20251030-3485,Suspect 515,48,Wanted
+20251030-3486,Suspect 394,36,Suspect
+20251030-3486,Suspect 176,29,Wanted
+20251030-3486,Suspect 456,39,Arrested
+20251030-3489,Suspect 670,30,Person of Interest
+20251030-3489,Suspect 456,43,Arrested
+20251030-3491,Suspect 934,46,Person of Interest
+20251030-3492,Suspect 913,62,Suspect
+20251030-3493,Suspect 691,21,Arrested
+20251030-3493,Suspect 735,33,Wanted
+20251030-3493,Suspect 271,47,Arrested
+20251030-3496,Suspect 47,47,Arrested
+20251030-3496,Suspect 593,58,Arrested
+20251030-3496,Suspect 847,50,Arrested
+20251030-3497,Suspect 907,23,Arrested
+20251030-3498,Suspect 150,45,Person of Interest
+20251030-3499,Suspect 769,23,Wanted
+20251030-3499,Suspect 475,26,Person of Interest
+20251030-3503,Suspect 210,32,Wanted
+20251030-3504,Suspect 167,64,Suspect
+20251030-3506,Suspect 173,50,Person of Interest
+20251030-3506,Suspect 553,40,Wanted
+20251030-3506,Suspect 631,56,Suspect
+20251030-3507,Suspect 794,45,Person of Interest
+20251030-3507,Suspect 207,39,Arrested
+20251030-3511,Suspect 286,20,Person of Interest
+20251030-3511,Suspect 454,53,Arrested
+20251030-3511,Suspect 168,39,Person of Interest
+20251030-3512,Suspect 689,51,Person of Interest
+20251030-3512,Suspect 791,41,Wanted
+20251030-3518,Suspect 943,65,Arrested
+20251030-3520,Suspect 172,30,Wanted
+20251030-3521,Suspect 475,27,Wanted
+20251030-3522,Suspect 919,33,Wanted
+20251030-3522,Suspect 146,54,Arrested
+20251030-3522,Suspect 976,62,Suspect
+20251030-3524,Suspect 509,27,Person of Interest
+20251030-3525,Suspect 499,63,Person of Interest
+20251030-3525,Suspect 622,52,Person of Interest
+20251030-3525,Suspect 925,51,Arrested
+20251030-3528,Suspect 973,18,Arrested
+20251030-3528,Suspect 252,55,Person of Interest
+20251030-3529,Suspect 594,55,Person of Interest
+20251030-3529,Suspect 56,61,Wanted
+20251030-3530,Suspect 696,59,Arrested
+20251030-3530,Suspect 62,20,Person of Interest
+20251030-3532,Suspect 283,59,Arrested
+20251030-3532,Suspect 495,25,Suspect
+20251030-3532,Suspect 901,21,Wanted
+20251030-3535,Suspect 395,49,Suspect
+20251030-3541,Suspect 3,36,Arrested
+20251030-3541,Suspect 915,50,Wanted
+20251030-3549,Suspect 205,20,Suspect
+20251030-3552,Suspect 118,20,Suspect
+20251030-3552,Suspect 615,41,Wanted
+20251030-3553,Suspect 30,42,Suspect
+20251030-3554,Suspect 241,64,Person of Interest
+20251030-3554,Suspect 865,33,Wanted
+20251030-3554,Suspect 65,62,Person of Interest
+20251030-3555,Suspect 133,24,Suspect
+20251030-3555,Suspect 718,63,Person of Interest
+20251030-3555,Suspect 879,50,Person of Interest
+20251030-3560,Suspect 85,34,Person of Interest
+20251030-3560,Suspect 749,25,Suspect
+20251030-3560,Suspect 375,52,Arrested
+20251030-3564,Suspect 258,65,Wanted
+20251030-3564,Suspect 557,34,Arrested
+20251030-3564,Suspect 497,65,Wanted
+20251030-3575,Suspect 277,53,Person of Interest
+20251030-3575,Suspect 832,53,Suspect
+20251030-3577,Suspect 678,21,Suspect
+20251030-3577,Suspect 834,19,Person of Interest
+20251030-3579,Suspect 410,41,Arrested
+20251030-3579,Suspect 736,58,Wanted
+20251030-3580,Suspect 428,46,Person of Interest
+20251030-3580,Suspect 439,65,Suspect
+20251030-3580,Suspect 480,48,Person of Interest
+20251030-3582,Suspect 923,65,Arrested
+20251030-3582,Suspect 706,45,Person of Interest
+20251030-3582,Suspect 848,25,Wanted
+20251030-3584,Suspect 468,63,Suspect
+20251030-3584,Suspect 239,27,Arrested
+20251030-3584,Suspect 330,55,Arrested
+20251030-3585,Suspect 550,26,Wanted
+20251030-3586,Suspect 241,49,Wanted
+20251030-3587,Suspect 524,60,Person of Interest
+20251030-3587,Suspect 394,22,Person of Interest
+20251030-3587,Suspect 416,48,Suspect
+20251030-3591,Suspect 844,26,Suspect
+20251030-3591,Suspect 333,18,Suspect
+20251030-3591,Suspect 844,60,Person of Interest
+20251030-3592,Suspect 477,64,Arrested
+20251030-3592,Suspect 389,45,Arrested
+20251030-3593,Suspect 504,64,Suspect
+20251030-3593,Suspect 300,63,Person of Interest
+20251030-3593,Suspect 327,38,Wanted
+20251030-3597,Suspect 961,35,Suspect
+20251030-3598,Suspect 119,48,Wanted
+20251030-3601,Suspect 258,22,Wanted
+20251030-3601,Suspect 805,40,Suspect
+20251030-3605,Suspect 565,50,Suspect
+20251030-3605,Suspect 145,20,Arrested
+20251030-3605,Suspect 496,32,Wanted
+20251030-3607,Suspect 995,49,Person of Interest
+20251030-3608,Suspect 555,52,Wanted
+20251030-3608,Suspect 967,21,Wanted
+20251030-3610,Suspect 353,59,Suspect
+20251030-3615,Suspect 677,56,Arrested
+20251030-3615,Suspect 238,49,Suspect
+20251030-3615,Suspect 415,39,Suspect
+20251030-3616,Suspect 615,58,Person of Interest
+20251030-3616,Suspect 933,23,Suspect
+20251030-3619,Suspect 420,25,Wanted
+20251030-3619,Suspect 14,20,Arrested
+20251030-3619,Suspect 387,26,Wanted
+20251030-3620,Suspect 412,21,Suspect
+20251030-3620,Suspect 638,56,Person of Interest
+20251030-3620,Suspect 789,25,Suspect
+20251030-3622,Suspect 788,18,Arrested
+20251030-3625,Suspect 322,19,Suspect
+20251030-3625,Suspect 99,44,Suspect
+20251030-3626,Suspect 163,42,Wanted
+20251030-3628,Suspect 127,43,Arrested
+20251030-3628,Suspect 199,35,Wanted
+20251030-3630,Suspect 405,50,Suspect
+20251030-3630,Suspect 241,19,Suspect
+20251030-3631,Suspect 623,50,Suspect
+20251030-3631,Suspect 404,20,Wanted
+20251030-3633,Suspect 525,49,Person of Interest
+20251030-3633,Suspect 820,51,Arrested
+20251030-3634,Suspect 444,53,Person of Interest
+20251030-3637,Suspect 363,58,Person of Interest
+20251030-3637,Suspect 8,34,Wanted
+20251030-3637,Suspect 274,34,Arrested
+20251030-3639,Suspect 989,59,Arrested
+20251030-3639,Suspect 14,58,Suspect
+20251030-3640,Suspect 633,33,Person of Interest
+20251030-3645,Suspect 899,27,Suspect
+20251030-3645,Suspect 335,40,Arrested
+20251030-3645,Suspect 708,18,Arrested
+20251030-3648,Suspect 995,26,Wanted
+20251030-3648,Suspect 499,34,Suspect
+20251030-3649,Suspect 86,58,Arrested
+20251030-3649,Suspect 590,56,Arrested
+20251030-3649,Suspect 687,45,Suspect
+20251030-3651,Suspect 870,27,Suspect
+20251030-3651,Suspect 350,42,Wanted
+20251030-3651,Suspect 935,51,Wanted
+20251030-3653,Suspect 624,22,Suspect
+20251030-3655,Suspect 453,42,Person of Interest
+20251030-3655,Suspect 992,31,Suspect
+20251030-3656,Suspect 835,46,Person of Interest
+20251030-3657,Suspect 842,54,Arrested
+20251030-3657,Suspect 128,64,Person of Interest
+20251030-3657,Suspect 164,52,Person of Interest
+20251030-3660,Suspect 655,33,Suspect
+20251030-3663,Suspect 814,30,Arrested
+20251030-3663,Suspect 15,47,Person of Interest
+20251030-3664,Suspect 754,30,Person of Interest
+20251030-3664,Suspect 515,61,Arrested
+20251030-3664,Suspect 253,47,Person of Interest
+20251030-3667,Suspect 762,32,Person of Interest
+20251030-3672,Suspect 425,63,Person of Interest
+20251030-3672,Suspect 252,36,Person of Interest
+20251030-3673,Suspect 33,38,Arrested
+20251030-3674,Suspect 162,45,Person of Interest
+20251030-3674,Suspect 447,32,Suspect
+20251030-3674,Suspect 272,45,Suspect
+20251030-3676,Suspect 513,24,Arrested
+20251030-3677,Suspect 422,20,Person of Interest
+20251030-3688,Suspect 282,18,Wanted
+20251030-3689,Suspect 180,42,Arrested
+20251030-3689,Suspect 912,55,Arrested
+20251030-3689,Suspect 857,45,Arrested
+20251030-3696,Suspect 414,65,Person of Interest
+20251030-3696,Suspect 898,47,Suspect
+20251030-3696,Suspect 987,32,Wanted
+20251030-3702,Suspect 901,53,Arrested
+20251030-3702,Suspect 698,34,Person of Interest
+20251030-3702,Suspect 106,50,Suspect
+20251030-3703,Suspect 527,58,Person of Interest
+20251030-3703,Suspect 595,65,Arrested
+20251030-3710,Suspect 821,38,Wanted
+20251030-3715,Suspect 82,45,Wanted
+20251030-3715,Suspect 161,20,Person of Interest
+20251030-3716,Suspect 16,47,Arrested
+20251030-3716,Suspect 403,41,Suspect
+20251030-3716,Suspect 568,48,Person of Interest
+20251030-3717,Suspect 137,38,Wanted
+20251030-3718,Suspect 227,59,Arrested
+20251030-3718,Suspect 547,31,Wanted
+20251030-3720,Suspect 303,64,Wanted
+20251030-3720,Suspect 729,20,Person of Interest
+20251030-3720,Suspect 904,57,Person of Interest
+20251030-3721,Suspect 351,27,Person of Interest
+20251030-3721,Suspect 2,64,Arrested
+20251030-3721,Suspect 813,54,Suspect
+20251030-3727,Suspect 904,30,Person of Interest
+20251030-3727,Suspect 409,43,Person of Interest
+20251030-3727,Suspect 597,59,Person of Interest
+20251030-3730,Suspect 793,49,Arrested
+20251030-3730,Suspect 542,45,Wanted
+20251030-3730,Suspect 835,45,Person of Interest
+20251030-3732,Suspect 975,62,Suspect
+20251030-3733,Suspect 933,39,Wanted
+20251030-3733,Suspect 607,44,Suspect
+20251030-3733,Suspect 199,57,Arrested
+20251030-3735,Suspect 481,28,Person of Interest
+20251030-3738,Suspect 251,55,Suspect
+20251030-3740,Suspect 823,58,Person of Interest
+20251030-3740,Suspect 52,30,Wanted
+20251030-3740,Suspect 402,35,Wanted
+20251030-3741,Suspect 12,19,Wanted
+20251030-3741,Suspect 43,60,Wanted
+20251030-3745,Suspect 699,44,Person of Interest
+20251030-3745,Suspect 386,40,Person of Interest
+20251030-3745,Suspect 220,32,Wanted
+20251030-3748,Suspect 791,56,Person of Interest
+20251030-3748,Suspect 508,50,Suspect
+20251030-3750,Suspect 191,45,Arrested
+20251030-3750,Suspect 155,62,Wanted
+20251030-3750,Suspect 152,45,Suspect
+20251030-3751,Suspect 147,27,Suspect
+20251030-3751,Suspect 132,38,Arrested
+20251030-3751,Suspect 410,36,Arrested
+20251030-3755,Suspect 825,59,Person of Interest
+20251030-3756,Suspect 940,20,Arrested
+20251030-3756,Suspect 837,52,Arrested
+20251030-3756,Suspect 876,26,Wanted
+20251030-3758,Suspect 444,55,Arrested
+20251030-3758,Suspect 166,58,Arrested
+20251030-3758,Suspect 79,53,Person of Interest
+20251030-3759,Suspect 537,55,Suspect
+20251030-3760,Suspect 698,32,Wanted
+20251030-3760,Suspect 391,44,Wanted
+20251030-3760,Suspect 721,36,Wanted
+20251030-3763,Suspect 850,56,Arrested
+20251030-3765,Suspect 894,54,Wanted
+20251030-3765,Suspect 339,46,Person of Interest
+20251030-3765,Suspect 520,41,Suspect
+20251030-3767,Suspect 566,53,Suspect
+20251030-3767,Suspect 917,25,Arrested
+20251030-3770,Suspect 787,47,Arrested
+20251030-3773,Suspect 933,65,Suspect
+20251030-3773,Suspect 263,52,Arrested
+20251030-3774,Suspect 840,29,Person of Interest
+20251030-3774,Suspect 690,48,Suspect
+20251030-3774,Suspect 614,61,Wanted
+20251030-3777,Suspect 688,36,Suspect
+20251030-3777,Suspect 146,44,Suspect
+20251030-3779,Suspect 998,20,Suspect
+20251030-3779,Suspect 545,25,Arrested
+20251030-3779,Suspect 518,18,Wanted
+20251030-3784,Suspect 185,32,Arrested
+20251030-3784,Suspect 590,63,Arrested
+20251030-3784,Suspect 206,42,Person of Interest
+20251030-3792,Suspect 586,23,Arrested
+20251030-3793,Suspect 434,41,Suspect
+20251030-3793,Suspect 29,53,Wanted
+20251030-3794,Suspect 817,56,Wanted
+20251030-3794,Suspect 732,24,Person of Interest
+20251030-3794,Suspect 394,22,Arrested
+20251030-3796,Suspect 125,60,Wanted
+20251030-3797,Suspect 167,58,Person of Interest
+20251030-3797,Suspect 882,36,Suspect
+20251030-3797,Suspect 572,21,Person of Interest
+20251030-3798,Suspect 637,21,Person of Interest
+20251030-3798,Suspect 864,63,Arrested
+20251030-3803,Suspect 512,37,Suspect
+20251030-3803,Suspect 711,37,Arrested
+20251030-3806,Suspect 367,39,Person of Interest
+20251030-3806,Suspect 51,37,Person of Interest
+20251030-3809,Suspect 335,35,Wanted
+20251030-3809,Suspect 772,22,Person of Interest
+20251030-3810,Suspect 593,52,Arrested
+20251030-3810,Suspect 947,61,Wanted
+20251030-3812,Suspect 781,21,Suspect
+20251030-3812,Suspect 265,63,Arrested
+20251030-3812,Suspect 316,58,Suspect
+20251030-3815,Suspect 738,34,Person of Interest
+20251030-3821,Suspect 720,54,Person of Interest
+20251030-3821,Suspect 395,44,Arrested
+20251030-3825,Suspect 18,54,Suspect
+20251030-3825,Suspect 555,18,Person of Interest
+20251030-3825,Suspect 988,62,Person of Interest
+20251030-3826,Suspect 877,52,Person of Interest
+20251030-3826,Suspect 367,57,Wanted
+20251030-3826,Suspect 744,25,Wanted
+20251030-3827,Suspect 125,50,Person of Interest
+20251030-3827,Suspect 90,34,Suspect
+20251030-3827,Suspect 239,20,Person of Interest
+20251030-3828,Suspect 76,41,Suspect
+20251030-3828,Suspect 786,31,Suspect
+20251030-3829,Suspect 486,32,Suspect
+20251030-3829,Suspect 516,42,Person of Interest
+20251030-3829,Suspect 992,61,Arrested
+20251030-3832,Suspect 642,21,Arrested
+20251030-3834,Suspect 698,56,Person of Interest
+20251030-3835,Suspect 118,28,Wanted
+20251030-3836,Suspect 680,30,Arrested
+20251030-3837,Suspect 747,38,Wanted
+20251030-3837,Suspect 766,31,Suspect
+20251030-3837,Suspect 894,26,Arrested
+20251030-3838,Suspect 327,54,Suspect
+20251030-3838,Suspect 28,30,Wanted
+20251030-3838,Suspect 619,43,Person of Interest
+20251030-3840,Suspect 435,31,Person of Interest
+20251030-3840,Suspect 657,62,Suspect
+20251030-3843,Suspect 332,46,Wanted
+20251030-3844,Suspect 846,22,Suspect
+20251030-3844,Suspect 466,56,Arrested
+20251030-3844,Suspect 258,27,Wanted
+20251030-3845,Suspect 548,42,Arrested
+20251030-3846,Suspect 713,56,Arrested
+20251030-3846,Suspect 264,33,Person of Interest
+20251030-3847,Suspect 863,64,Arrested
+20251030-3847,Suspect 229,39,Arrested
+20251030-3849,Suspect 896,39,Person of Interest
+20251030-3849,Suspect 428,49,Wanted
+20251030-3849,Suspect 66,41,Arrested
+20251030-3851,Suspect 718,57,Wanted
+20251030-3851,Suspect 719,52,Person of Interest
+20251030-3852,Suspect 902,57,Wanted
+20251030-3852,Suspect 105,36,Person of Interest
+20251030-3854,Suspect 722,28,Suspect
+20251030-3855,Suspect 445,59,Suspect
+20251030-3855,Suspect 712,38,Person of Interest
+20251030-3855,Suspect 98,53,Suspect
+20251030-3858,Suspect 108,58,Wanted
+20251030-3860,Suspect 21,54,Arrested
+20251030-3860,Suspect 306,53,Arrested
+20251030-3860,Suspect 632,54,Suspect
+20251030-3861,Suspect 267,44,Suspect
+20251030-3861,Suspect 28,26,Person of Interest
+20251030-3861,Suspect 2,32,Arrested
+20251030-3862,Suspect 360,36,Suspect
+20251030-3862,Suspect 788,63,Person of Interest
+20251030-3862,Suspect 402,51,Arrested
+20251030-3863,Suspect 876,33,Wanted
+20251030-3865,Suspect 913,40,Arrested
+20251030-3865,Suspect 66,23,Wanted
+20251030-3867,Suspect 413,53,Person of Interest
+20251030-3867,Suspect 240,52,Wanted
+20251030-3868,Suspect 522,27,Arrested
+20251030-3870,Suspect 882,32,Arrested
+20251030-3870,Suspect 467,31,Arrested
+20251030-3871,Suspect 348,28,Wanted
+20251030-3871,Suspect 564,27,Person of Interest
+20251030-3871,Suspect 9,20,Arrested
+20251030-3875,Suspect 735,51,Wanted
+20251030-3875,Suspect 795,38,Suspect
+20251030-3879,Suspect 645,64,Person of Interest
+20251030-3879,Suspect 507,64,Arrested
+20251030-3880,Suspect 715,40,Suspect
+20251030-3880,Suspect 347,34,Arrested
+20251030-3881,Suspect 373,57,Person of Interest
+20251030-3881,Suspect 860,61,Suspect
+20251030-3886,Suspect 436,41,Arrested
+20251030-3886,Suspect 548,56,Person of Interest
+20251030-3886,Suspect 712,65,Person of Interest
+20251030-3887,Suspect 47,42,Arrested
+20251030-3896,Suspect 32,36,Wanted
+20251030-3896,Suspect 506,36,Wanted
+20251030-3896,Suspect 834,20,Wanted
+20251030-3898,Suspect 787,46,Person of Interest
+20251030-3898,Suspect 280,22,Suspect
+20251030-3898,Suspect 285,35,Person of Interest
+20251030-3900,Suspect 638,58,Suspect
+20251030-3900,Suspect 604,31,Suspect
+20251030-3900,Suspect 943,33,Suspect
+20251030-3902,Suspect 569,54,Arrested
+20251030-3902,Suspect 491,37,Arrested
+20251030-3902,Suspect 976,52,Wanted
+20251030-3904,Suspect 653,28,Wanted
+20251030-3909,Suspect 234,65,Person of Interest
+20251030-3910,Suspect 682,24,Person of Interest
+20251030-3910,Suspect 627,64,Suspect
+20251030-3910,Suspect 53,61,Arrested
+20251030-3911,Suspect 269,34,Arrested
+20251030-3911,Suspect 806,50,Person of Interest
+20251030-3912,Suspect 490,59,Suspect
+20251030-3912,Suspect 886,40,Suspect
+20251030-3912,Suspect 525,37,Arrested
+20251030-3914,Suspect 473,35,Suspect
+20251030-3914,Suspect 468,63,Wanted
+20251030-3914,Suspect 622,64,Person of Interest
+20251030-3920,Suspect 634,57,Arrested
+20251030-3920,Suspect 631,32,Wanted
+20251030-3924,Suspect 276,33,Person of Interest
+20251030-3924,Suspect 835,64,Wanted
+20251030-3927,Suspect 243,23,Wanted
+20251030-3928,Suspect 797,33,Arrested
+20251030-3928,Suspect 556,60,Person of Interest
+20251030-3930,Suspect 576,40,Arrested
+20251030-3930,Suspect 573,45,Wanted
+20251030-3931,Suspect 506,27,Suspect
+20251030-3931,Suspect 1,64,Arrested
+20251030-3934,Suspect 714,40,Arrested
+20251030-3934,Suspect 539,36,Suspect
+20251030-3934,Suspect 450,37,Person of Interest
+20251030-3937,Suspect 257,36,Wanted
+20251030-3937,Suspect 562,47,Suspect
+20251030-3940,Suspect 735,25,Suspect
+20251030-3940,Suspect 840,23,Wanted
+20251030-3941,Suspect 35,56,Suspect
+20251030-3941,Suspect 386,32,Suspect
+20251030-3941,Suspect 156,41,Wanted
+20251030-3942,Suspect 196,64,Arrested
+20251030-3942,Suspect 488,23,Wanted
+20251030-3942,Suspect 208,34,Wanted
+20251030-3943,Suspect 329,40,Person of Interest
+20251030-3946,Suspect 509,65,Suspect
+20251030-3946,Suspect 38,19,Person of Interest
+20251030-3948,Suspect 662,33,Wanted
+20251030-3948,Suspect 304,43,Arrested
+20251030-3948,Suspect 407,33,Arrested
+20251030-3951,Suspect 741,21,Wanted
+20251030-3951,Suspect 399,39,Person of Interest
+20251030-3951,Suspect 402,22,Suspect
+20251030-3952,Suspect 120,28,Arrested
+20251030-3954,Suspect 262,23,Person of Interest
+20251030-3954,Suspect 291,31,Suspect
+20251030-3957,Suspect 719,42,Arrested
+20251030-3957,Suspect 393,43,Suspect
+20251030-3957,Suspect 606,39,Arrested
+20251030-3961,Suspect 120,52,Person of Interest
+20251030-3961,Suspect 259,46,Arrested
+20251030-3961,Suspect 481,54,Suspect
+20251030-3962,Suspect 200,60,Wanted
+20251030-3968,Suspect 365,43,Wanted
+20251030-3968,Suspect 808,54,Suspect
+20251030-3970,Suspect 425,27,Wanted
+20251030-3971,Suspect 716,22,Suspect
+20251030-3973,Suspect 933,23,Arrested
+20251030-3973,Suspect 960,40,Suspect
+20251030-3973,Suspect 765,20,Arrested
+20251030-3977,Suspect 923,22,Wanted
+20251030-3977,Suspect 971,34,Wanted
+20251030-3980,Suspect 546,25,Wanted
+20251030-3980,Suspect 649,30,Wanted
+20251030-3983,Suspect 912,58,Arrested
+20251030-3983,Suspect 143,20,Person of Interest
+20251030-3984,Suspect 629,42,Wanted
+20251030-3984,Suspect 294,51,Person of Interest
+20251030-3987,Suspect 12,46,Person of Interest
+20251030-3993,Suspect 959,22,Person of Interest
+20251030-3993,Suspect 192,35,Arrested
+20251030-3995,Suspect 796,65,Wanted
+20251030-3995,Suspect 604,61,Arrested
+20251030-3996,Suspect 751,62,Arrested
+20251030-3998,Suspect 696,46,Wanted
+20251030-3998,Suspect 178,21,Person of Interest
+20251030-4001,Suspect 750,22,Wanted
+20251030-4001,Suspect 313,38,Suspect
+20251030-4001,Suspect 166,30,Person of Interest
+20251030-4004,Suspect 511,40,Arrested
+20251030-4013,Suspect 440,19,Wanted
+20251030-4015,Suspect 74,46,Suspect
+20251030-4015,Suspect 765,52,Suspect
+20251030-4015,Suspect 892,41,Person of Interest
+20251030-4016,Suspect 318,56,Suspect
+20251030-4020,Suspect 353,59,Person of Interest
+20251030-4021,Suspect 136,32,Suspect
+20251030-4023,Suspect 287,19,Person of Interest
+20251030-4025,Suspect 763,49,Arrested
+20251030-4026,Suspect 885,56,Wanted
+20251030-4026,Suspect 45,32,Person of Interest
+20251030-4026,Suspect 39,63,Suspect
+20251030-4033,Suspect 564,29,Suspect
+20251030-4034,Suspect 646,58,Suspect
+20251030-4034,Suspect 713,23,Suspect
+20251030-4037,Suspect 144,26,Person of Interest
+20251030-4037,Suspect 554,54,Person of Interest
+20251030-4039,Suspect 25,53,Person of Interest
+20251030-4039,Suspect 38,46,Suspect
+20251030-4039,Suspect 648,26,Person of Interest
+20251030-4043,Suspect 951,28,Suspect
+20251030-4043,Suspect 956,20,Wanted
+20251030-4043,Suspect 51,23,Suspect
+20251030-4046,Suspect 529,46,Arrested
+20251030-4056,Suspect 126,53,Wanted
+20251030-4056,Suspect 83,64,Arrested
+20251030-4060,Suspect 505,26,Wanted
+20251030-4061,Suspect 216,56,Person of Interest
+20251030-4061,Suspect 213,44,Wanted
+20251030-4062,Suspect 118,35,Person of Interest
+20251030-4063,Suspect 893,33,Person of Interest
+20251030-4063,Suspect 733,64,Suspect
+20251030-4073,Suspect 628,26,Wanted
+20251030-4073,Suspect 416,62,Person of Interest
+20251030-4073,Suspect 594,43,Person of Interest
+20251030-4074,Suspect 317,58,Wanted
+20251030-4074,Suspect 868,55,Arrested
+20251030-4074,Suspect 792,51,Suspect
+20251030-4075,Suspect 539,32,Person of Interest
+20251030-4077,Suspect 834,28,Wanted
+20251030-4077,Suspect 645,57,Arrested
+20251030-4077,Suspect 149,61,Wanted
+20251030-4078,Suspect 566,28,Arrested
+20251030-4078,Suspect 831,30,Person of Interest
+20251030-4078,Suspect 885,34,Suspect
+20251030-4080,Suspect 456,62,Wanted
+20251030-4081,Suspect 870,59,Suspect
+20251030-4083,Suspect 408,62,Suspect
+20251030-4083,Suspect 30,45,Suspect
+20251030-4083,Suspect 864,50,Arrested
+20251030-4084,Suspect 731,18,Suspect
+20251030-4084,Suspect 316,45,Wanted
+20251030-4084,Suspect 237,39,Arrested
+20251030-4087,Suspect 933,26,Suspect
+20251030-4087,Suspect 160,32,Suspect
+20251030-4087,Suspect 748,29,Person of Interest
+20251030-4088,Suspect 388,30,Suspect
+20251030-4089,Suspect 888,18,Person of Interest
+20251030-4091,Suspect 470,60,Person of Interest
+20251030-4091,Suspect 947,21,Wanted
+20251030-4091,Suspect 638,19,Arrested
+20251030-4093,Suspect 505,53,Wanted
+20251030-4093,Suspect 117,25,Suspect
+20251030-4094,Suspect 247,39,Arrested
+20251030-4094,Suspect 760,18,Person of Interest
+20251030-4094,Suspect 908,42,Wanted
+20251030-4095,Suspect 585,52,Wanted
+20251030-4097,Suspect 892,54,Person of Interest
+20251030-4097,Suspect 16,59,Arrested
+20251030-4097,Suspect 277,35,Arrested
+20251030-4099,Suspect 44,25,Arrested
+20251030-4100,Suspect 706,45,Person of Interest
+20251030-4102,Suspect 220,59,Suspect
+20251030-4105,Suspect 908,39,Person of Interest
+20251030-4105,Suspect 140,49,Arrested
+20251030-4105,Suspect 327,23,Suspect
+20251030-4109,Suspect 798,49,Suspect
+20251030-4109,Suspect 455,20,Suspect
+20251030-4109,Suspect 501,32,Arrested
+20251030-4111,Suspect 572,20,Wanted
+20251030-4112,Suspect 456,64,Wanted
+20251030-4112,Suspect 219,42,Suspect
+20251030-4115,Suspect 528,45,Arrested
+20251030-4115,Suspect 678,63,Arrested
+20251030-4115,Suspect 941,50,Suspect
+20251030-4117,Suspect 535,62,Wanted
+20251030-4117,Suspect 3,65,Person of Interest
+20251030-4117,Suspect 59,46,Wanted
+20251030-4119,Suspect 889,24,Wanted
+20251030-4121,Suspect 177,50,Wanted
+20251030-4121,Suspect 524,49,Suspect
+20251030-4121,Suspect 940,36,Arrested
+20251030-4123,Suspect 760,37,Person of Interest
+20251030-4123,Suspect 360,60,Wanted
+20251030-4123,Suspect 701,20,Arrested
+20251030-4129,Suspect 176,21,Arrested
+20251030-4129,Suspect 92,48,Arrested
+20251030-4129,Suspect 239,33,Arrested
+20251030-4130,Suspect 707,65,Person of Interest
+20251030-4131,Suspect 289,65,Suspect
+20251030-4131,Suspect 358,36,Arrested
+20251030-4131,Suspect 61,47,Wanted
+20251030-4132,Suspect 891,64,Person of Interest
+20251030-4132,Suspect 586,45,Suspect
+20251030-4133,Suspect 958,65,Arrested
+20251030-4134,Suspect 326,61,Person of Interest
+20251030-4134,Suspect 584,45,Arrested
+20251030-4134,Suspect 402,28,Suspect
+20251030-4135,Suspect 81,18,Person of Interest
+20251030-4135,Suspect 425,40,Person of Interest
+20251030-4135,Suspect 801,23,Suspect
+20251030-4136,Suspect 79,55,Wanted
+20251030-4136,Suspect 747,24,Wanted
+20251030-4136,Suspect 159,27,Arrested
+20251030-4137,Suspect 283,43,Arrested
+20251030-4137,Suspect 599,51,Arrested
+20251030-4137,Suspect 938,40,Arrested
+20251030-4138,Suspect 801,39,Person of Interest
+20251030-4138,Suspect 586,33,Suspect
+20251030-4138,Suspect 963,35,Suspect
+20251030-4139,Suspect 98,41,Person of Interest
+20251030-4141,Suspect 635,63,Arrested
+20251030-4141,Suspect 410,57,Person of Interest
+20251030-4142,Suspect 811,36,Suspect
+20251030-4142,Suspect 342,52,Arrested
+20251030-4142,Suspect 69,25,Wanted
+20251030-4143,Suspect 659,28,Person of Interest
+20251030-4148,Suspect 840,42,Wanted
+20251030-4154,Suspect 288,52,Suspect
+20251030-4154,Suspect 728,35,Arrested
+20251030-4154,Suspect 700,25,Arrested
+20251030-4155,Suspect 636,65,Wanted
+20251030-4156,Suspect 723,40,Arrested
+20251030-4156,Suspect 302,59,Suspect
+20251030-4156,Suspect 149,18,Arrested
+20251030-4158,Suspect 182,31,Wanted
+20251030-4158,Suspect 649,42,Wanted
+20251030-4158,Suspect 761,47,Suspect
+20251030-4159,Suspect 451,63,Person of Interest
+20251030-4160,Suspect 171,24,Wanted
+20251030-4160,Suspect 22,44,Wanted
+20251030-4160,Suspect 698,33,Person of Interest
+20251030-4163,Suspect 326,53,Arrested
+20251030-4163,Suspect 197,41,Person of Interest
+20251030-4163,Suspect 28,38,Suspect
+20251030-4166,Suspect 461,21,Wanted
+20251030-4166,Suspect 641,65,Person of Interest
+20251030-4166,Suspect 644,48,Suspect
+20251030-4169,Suspect 327,25,Suspect
+20251030-4169,Suspect 616,37,Wanted
+20251030-4172,Suspect 551,20,Arrested
+20251030-4172,Suspect 678,38,Person of Interest
+20251030-4174,Suspect 339,40,Wanted
+20251030-4174,Suspect 142,20,Suspect
+20251030-4175,Suspect 505,50,Arrested
+20251030-4175,Suspect 975,39,Person of Interest
+20251030-4176,Suspect 815,64,Arrested
+20251030-4176,Suspect 977,28,Suspect
+20251030-4176,Suspect 798,36,Arrested
+20251030-4180,Suspect 432,58,Wanted
+20251030-4181,Suspect 926,58,Person of Interest
+20251030-4183,Suspect 89,65,Suspect
+20251030-4183,Suspect 45,20,Suspect
+20251030-4184,Suspect 183,55,Wanted
+20251030-4184,Suspect 907,23,Arrested
+20251030-4184,Suspect 165,43,Wanted
+20251030-4191,Suspect 936,33,Arrested
+20251030-4191,Suspect 369,43,Person of Interest
+20251030-4197,Suspect 613,60,Suspect
+20251030-4200,Suspect 90,28,Person of Interest
+20251030-4200,Suspect 221,44,Person of Interest
+20251030-4200,Suspect 539,27,Suspect
+20251030-4204,Suspect 115,35,Arrested
+20251030-4204,Suspect 242,38,Wanted
+20251030-4204,Suspect 417,41,Person of Interest
+20251030-4205,Suspect 707,41,Wanted
+20251030-4209,Suspect 980,50,Wanted
+20251030-4209,Suspect 461,47,Wanted
+20251030-4211,Suspect 57,60,Suspect
+20251030-4211,Suspect 128,44,Person of Interest
+20251030-4211,Suspect 88,54,Person of Interest
+20251030-4215,Suspect 254,57,Wanted
+20251030-4217,Suspect 378,20,Wanted
+20251030-4219,Suspect 952,62,Arrested
+20251030-4219,Suspect 998,37,Wanted
+20251030-4222,Suspect 749,57,Person of Interest
+20251030-4222,Suspect 479,24,Arrested
+20251030-4225,Suspect 223,61,Wanted
+20251030-4225,Suspect 569,58,Suspect
+20251030-4226,Suspect 454,42,Suspect
+20251030-4226,Suspect 271,36,Suspect
+20251030-4227,Suspect 698,24,Arrested
+20251030-4227,Suspect 670,38,Person of Interest
+20251030-4229,Suspect 87,49,Arrested
+20251030-4234,Suspect 515,24,Suspect
+20251030-4234,Suspect 387,19,Wanted
+20251030-4235,Suspect 674,39,Person of Interest
+20251030-4235,Suspect 385,25,Person of Interest
+20251030-4238,Suspect 11,49,Wanted
+20251030-4238,Suspect 134,25,Suspect
+20251030-4238,Suspect 49,24,Arrested
+20251030-4240,Suspect 747,58,Wanted
+20251030-4243,Suspect 914,43,Person of Interest
+20251030-4248,Suspect 950,43,Person of Interest
+20251030-4248,Suspect 808,24,Person of Interest
+20251030-4248,Suspect 636,59,Arrested
+20251030-4250,Suspect 50,18,Person of Interest
+20251030-4250,Suspect 518,50,Wanted
+20251030-4253,Suspect 632,22,Arrested
+20251030-4253,Suspect 394,38,Suspect
+20251030-4253,Suspect 430,38,Suspect
+20251030-4255,Suspect 232,27,Suspect
+20251030-4255,Suspect 337,51,Arrested
+20251030-4257,Suspect 496,40,Arrested
+20251030-4260,Suspect 559,18,Wanted
+20251030-4260,Suspect 887,46,Wanted
+20251030-4260,Suspect 362,36,Person of Interest
+20251030-4274,Suspect 614,43,Arrested
+20251030-4276,Suspect 361,31,Wanted
+20251030-4276,Suspect 837,59,Suspect
+20251030-4277,Suspect 781,49,Arrested
+20251030-4279,Suspect 995,39,Wanted
+20251030-4279,Suspect 218,19,Suspect
+20251030-4285,Suspect 102,30,Suspect
+20251030-4285,Suspect 16,59,Wanted
+20251030-4286,Suspect 413,50,Wanted
+20251030-4287,Suspect 721,48,Arrested
+20251030-4288,Suspect 135,42,Person of Interest
+20251030-4289,Suspect 892,52,Suspect
+20251030-4292,Suspect 453,40,Wanted
+20251030-4292,Suspect 432,50,Wanted
+20251030-4292,Suspect 842,49,Person of Interest
+20251030-4293,Suspect 240,24,Suspect
+20251030-4295,Suspect 415,39,Arrested
+20251030-4296,Suspect 413,19,Wanted
+20251030-4296,Suspect 209,50,Wanted
+20251030-4297,Suspect 744,55,Person of Interest
+20251030-4297,Suspect 150,21,Person of Interest
+20251030-4300,Suspect 198,53,Arrested
+20251030-4300,Suspect 285,34,Arrested
+20251030-4300,Suspect 595,63,Arrested
+20251030-4301,Suspect 861,41,Wanted
+20251030-4303,Suspect 789,47,Wanted
+20251030-4303,Suspect 370,61,Wanted
+20251030-4303,Suspect 986,44,Wanted
+20251030-4305,Suspect 727,34,Suspect
+20251030-4305,Suspect 58,46,Person of Interest
+20251030-4307,Suspect 278,45,Wanted
+20251030-4307,Suspect 400,57,Suspect
+20251030-4309,Suspect 109,62,Arrested
+20251030-4312,Suspect 304,42,Person of Interest
+20251030-4312,Suspect 805,49,Suspect
+20251030-4312,Suspect 440,28,Suspect
+20251030-4314,Suspect 776,53,Wanted
+20251030-4315,Suspect 349,40,Wanted
+20251030-4315,Suspect 194,57,Arrested
+20251030-4316,Suspect 141,26,Wanted
+20251030-4316,Suspect 36,18,Person of Interest
+20251030-4316,Suspect 574,60,Wanted
+20251030-4320,Suspect 685,56,Wanted
+20251030-4320,Suspect 305,25,Suspect
+20251030-4322,Suspect 349,46,Wanted
+20251030-4323,Suspect 34,37,Suspect
+20251030-4323,Suspect 560,42,Suspect
+20251030-4326,Suspect 775,50,Person of Interest
+20251030-4330,Suspect 127,36,Arrested
+20251030-4330,Suspect 599,33,Arrested
+20251030-4330,Suspect 245,35,Person of Interest
+20251030-4332,Suspect 188,54,Wanted
+20251030-4332,Suspect 21,40,Suspect
+20251030-4333,Suspect 448,34,Person of Interest
+20251030-4340,Suspect 783,59,Person of Interest
+20251030-4340,Suspect 387,56,Suspect
+20251030-4340,Suspect 253,32,Arrested
+20251030-4345,Suspect 442,34,Person of Interest
+20251030-4345,Suspect 176,57,Arrested
+20251030-4348,Suspect 324,18,Wanted
+20251030-4350,Suspect 870,35,Person of Interest
+20251030-4351,Suspect 41,41,Suspect
+20251030-4351,Suspect 347,53,Suspect
+20251030-4352,Suspect 420,28,Arrested
+20251030-4352,Suspect 22,38,Person of Interest
+20251030-4355,Suspect 52,19,Person of Interest
+20251030-4355,Suspect 728,61,Arrested
+20251030-4360,Suspect 881,51,Person of Interest
+20251030-4373,Suspect 780,50,Arrested
+20251030-4379,Suspect 793,63,Person of Interest
+20251030-4379,Suspect 452,29,Suspect
+20251030-4382,Suspect 282,45,Person of Interest
+20251030-4383,Suspect 334,61,Arrested
+20251030-4383,Suspect 70,60,Suspect
+20251030-4384,Suspect 938,51,Person of Interest
+20251030-4384,Suspect 288,46,Person of Interest
+20251030-4385,Suspect 640,30,Person of Interest
+20251030-4388,Suspect 941,18,Wanted
+20251030-4392,Suspect 706,22,Arrested
+20251030-4392,Suspect 497,61,Arrested
+20251030-4392,Suspect 409,45,Wanted
+20251030-4402,Suspect 713,43,Wanted
+20251030-4404,Suspect 584,20,Wanted
+20251030-4404,Suspect 537,46,Suspect
+20251030-4404,Suspect 929,40,Person of Interest
+20251030-4414,Suspect 359,43,Person of Interest
+20251030-4416,Suspect 826,64,Wanted
+20251030-4416,Suspect 382,51,Arrested
+20251030-4419,Suspect 962,31,Person of Interest
+20251030-4420,Suspect 527,38,Suspect
+20251030-4420,Suspect 927,59,Wanted
+20251030-4420,Suspect 922,18,Person of Interest
+20251030-4424,Suspect 43,25,Suspect
+20251030-4424,Suspect 780,27,Suspect
+20251030-4426,Suspect 6,37,Person of Interest
+20251030-4426,Suspect 176,37,Person of Interest
+20251030-4426,Suspect 79,63,Person of Interest
+20251030-4430,Suspect 594,51,Arrested
+20251030-4439,Suspect 594,57,Person of Interest
+20251030-4439,Suspect 153,24,Arrested
+20251030-4440,Suspect 734,37,Wanted
+20251030-4440,Suspect 996,20,Arrested
+20251030-4440,Suspect 334,26,Person of Interest
+20251030-4441,Suspect 241,57,Person of Interest
+20251030-4450,Suspect 653,40,Person of Interest
+20251030-4452,Suspect 161,25,Wanted
+20251030-4452,Suspect 651,18,Suspect
+20251030-4453,Suspect 431,36,Arrested
+20251030-4453,Suspect 865,50,Suspect
+20251030-4458,Suspect 836,21,Wanted
+20251030-4458,Suspect 765,62,Person of Interest
+20251030-4458,Suspect 843,24,Person of Interest
+20251030-4463,Suspect 207,36,Person of Interest
+20251030-4464,Suspect 276,63,Suspect
+20251030-4464,Suspect 976,59,Suspect
+20251030-4469,Suspect 913,35,Wanted
+20251030-4469,Suspect 487,53,Suspect
+20251030-4469,Suspect 924,48,Wanted
+20251030-4471,Suspect 600,63,Suspect
+20251030-4471,Suspect 191,60,Suspect
+20251030-4473,Suspect 910,39,Wanted
+20251030-4473,Suspect 737,62,Wanted
+20251030-4473,Suspect 464,43,Arrested
+20251030-4475,Suspect 514,31,Person of Interest
+20251030-4475,Suspect 834,62,Suspect
+20251030-4477,Suspect 27,27,Wanted
+20251030-4477,Suspect 298,53,Wanted
+20251030-4478,Suspect 348,27,Arrested
+20251030-4478,Suspect 443,25,Arrested
+20251030-4478,Suspect 952,56,Suspect
+20251030-4480,Suspect 974,61,Suspect
+20251030-4480,Suspect 456,64,Person of Interest
+20251030-4481,Suspect 457,59,Suspect
+20251030-4481,Suspect 547,59,Person of Interest
+20251030-4481,Suspect 805,36,Person of Interest
+20251030-4483,Suspect 298,27,Arrested
+20251030-4483,Suspect 972,48,Person of Interest
+20251030-4483,Suspect 164,31,Suspect
+20251030-4484,Suspect 713,38,Suspect
+20251030-4484,Suspect 736,22,Suspect
+20251030-4485,Suspect 968,65,Wanted
+20251030-4486,Suspect 177,56,Person of Interest
+20251030-4486,Suspect 629,32,Person of Interest
+20251030-4496,Suspect 174,44,Person of Interest
+20251030-4496,Suspect 52,25,Person of Interest
+20251030-4498,Suspect 775,52,Wanted
+20251030-4498,Suspect 89,20,Arrested
+20251030-4498,Suspect 819,19,Wanted
+20251030-4500,Suspect 173,29,Wanted
+20251030-4502,Suspect 368,57,Arrested
+20251030-4502,Suspect 572,49,Wanted
+20251030-4504,Suspect 50,45,Arrested
+20251030-4504,Suspect 701,62,Person of Interest
+20251030-4504,Suspect 781,49,Suspect
+20251030-4506,Suspect 498,39,Suspect
+20251030-4506,Suspect 548,44,Wanted
+20251030-4506,Suspect 405,41,Wanted
+20251030-4507,Suspect 929,45,Person of Interest
+20251030-4510,Suspect 59,46,Wanted
+20251030-4510,Suspect 123,45,Suspect
+20251030-4510,Suspect 350,20,Wanted
+20251030-4515,Suspect 360,30,Suspect
+20251030-4516,Suspect 968,21,Arrested
+20251030-4516,Suspect 173,18,Person of Interest
+20251030-4516,Suspect 908,33,Wanted
+20251030-4519,Suspect 939,63,Arrested
+20251030-4520,Suspect 295,24,Person of Interest
+20251030-4520,Suspect 678,54,Wanted
+20251030-4520,Suspect 453,31,Person of Interest
+20251030-4522,Suspect 847,38,Person of Interest
+20251030-4526,Suspect 185,50,Wanted
+20251030-4526,Suspect 887,45,Suspect
+20251030-4527,Suspect 409,48,Suspect
+20251030-4527,Suspect 639,59,Wanted
+20251030-4527,Suspect 368,38,Suspect
+20251030-4529,Suspect 460,26,Wanted
+20251030-4529,Suspect 701,49,Arrested
+20251030-4529,Suspect 347,49,Arrested
+20251030-4530,Suspect 349,61,Suspect
+20251030-4530,Suspect 233,46,Wanted
+20251030-4530,Suspect 84,26,Wanted
+20251030-4532,Suspect 384,28,Person of Interest
+20251030-4532,Suspect 150,50,Arrested
+20251030-4532,Suspect 461,26,Person of Interest
+20251030-4534,Suspect 160,23,Suspect
+20251030-4534,Suspect 649,64,Suspect
+20251030-4535,Suspect 967,21,Suspect
+20251030-4535,Suspect 422,31,Wanted
+20251030-4537,Suspect 654,32,Suspect
+20251030-4537,Suspect 767,56,Suspect
+20251030-4545,Suspect 698,22,Suspect
+20251030-4548,Suspect 512,53,Suspect
+20251030-4548,Suspect 964,21,Wanted
+20251030-4548,Suspect 772,34,Suspect
+20251030-4549,Suspect 960,35,Suspect
+20251030-4549,Suspect 238,19,Person of Interest
+20251030-4549,Suspect 458,45,Arrested
+20251030-4551,Suspect 137,48,Person of Interest
+20251030-4555,Suspect 832,59,Suspect
+20251030-4555,Suspect 566,32,Arrested
+20251030-4555,Suspect 40,30,Suspect
+20251030-4560,Suspect 586,18,Arrested
+20251030-4572,Suspect 240,52,Person of Interest
+20251030-4572,Suspect 700,37,Suspect
+20251030-4572,Suspect 458,23,Arrested
+20251030-4575,Suspect 630,35,Arrested
+20251030-4575,Suspect 188,39,Person of Interest
+20251030-4584,Suspect 451,51,Person of Interest
+20251030-4584,Suspect 404,33,Arrested
+20251030-4584,Suspect 171,20,Suspect
+20251030-4586,Suspect 15,32,Arrested
+20251030-4590,Suspect 174,43,Person of Interest
+20251030-4591,Suspect 356,36,Person of Interest
+20251030-4591,Suspect 455,55,Person of Interest
+20251030-4595,Suspect 621,42,Arrested
+20251030-4595,Suspect 896,40,Suspect
+20251030-4595,Suspect 137,52,Arrested
+20251030-4599,Suspect 273,64,Wanted
+20251030-4599,Suspect 28,60,Wanted
+20251030-4599,Suspect 151,22,Suspect
+20251030-4600,Suspect 250,23,Suspect
+20251030-4601,Suspect 190,21,Arrested
+20251030-4601,Suspect 396,43,Suspect
+20251030-4601,Suspect 332,36,Wanted
+20251030-4603,Suspect 964,44,Wanted
+20251030-4603,Suspect 356,43,Wanted
+20251030-4603,Suspect 193,42,Wanted
+20251030-4606,Suspect 467,23,Suspect
+20251030-4608,Suspect 877,41,Person of Interest
+20251030-4610,Suspect 846,49,Wanted
+20251030-4610,Suspect 927,61,Wanted
+20251030-4610,Suspect 565,21,Arrested
+20251030-4613,Suspect 837,55,Person of Interest
+20251030-4617,Suspect 488,20,Arrested
+20251030-4617,Suspect 821,53,Suspect
+20251030-4618,Suspect 963,44,Wanted
+20251030-4618,Suspect 945,50,Wanted
+20251030-4618,Suspect 905,60,Wanted
+20251030-4623,Suspect 776,37,Person of Interest
+20251030-4623,Suspect 340,45,Suspect
+20251030-4623,Suspect 490,63,Person of Interest
+20251030-4627,Suspect 535,21,Wanted
+20251030-4627,Suspect 419,22,Arrested
+20251030-4628,Suspect 762,48,Person of Interest
+20251030-4629,Suspect 184,46,Person of Interest
+20251030-4629,Suspect 411,48,Wanted
+20251030-4629,Suspect 984,57,Wanted
+20251030-4631,Suspect 624,22,Person of Interest
+20251030-4631,Suspect 759,42,Suspect
+20251030-4632,Suspect 650,32,Arrested
+20251030-4632,Suspect 165,65,Person of Interest
+20251030-4634,Suspect 934,53,Arrested
+20251030-4634,Suspect 697,31,Person of Interest
+20251030-4636,Suspect 949,50,Person of Interest
+20251030-4638,Suspect 631,65,Suspect
+20251030-4641,Suspect 31,45,Person of Interest
+20251030-4641,Suspect 135,65,Wanted
+20251030-4641,Suspect 954,30,Suspect
+20251030-4644,Suspect 49,32,Suspect
+20251030-4644,Suspect 338,23,Wanted
+20251030-4649,Suspect 412,63,Person of Interest
+20251030-4651,Suspect 546,54,Wanted
+20251030-4651,Suspect 954,25,Person of Interest
+20251030-4651,Suspect 179,34,Person of Interest
+20251030-4652,Suspect 844,58,Wanted
+20251030-4652,Suspect 810,19,Wanted
+20251030-4654,Suspect 385,57,Person of Interest
+20251030-4654,Suspect 86,60,Suspect
+20251030-4656,Suspect 514,59,Wanted
+20251030-4656,Suspect 610,36,Person of Interest
+20251030-4659,Suspect 485,51,Person of Interest
+20251030-4659,Suspect 201,35,Suspect
+20251030-4659,Suspect 509,45,Wanted
+20251030-4661,Suspect 551,50,Arrested
+20251030-4661,Suspect 427,51,Person of Interest
+20251030-4662,Suspect 898,54,Suspect
+20251030-4662,Suspect 63,37,Person of Interest
+20251030-4664,Suspect 386,50,Wanted
+20251030-4664,Suspect 916,31,Person of Interest
+20251030-4667,Suspect 765,24,Arrested
+20251030-4668,Suspect 347,45,Person of Interest
+20251030-4668,Suspect 831,46,Suspect
+20251030-4668,Suspect 630,48,Suspect
+20251030-4671,Suspect 214,46,Arrested
+20251030-4671,Suspect 12,38,Person of Interest
+20251030-4673,Suspect 258,53,Suspect
+20251030-4673,Suspect 178,40,Person of Interest
+20251030-4674,Suspect 911,52,Arrested
+20251030-4674,Suspect 518,18,Arrested
+20251030-4675,Suspect 24,36,Person of Interest
+20251030-4675,Suspect 154,46,Arrested
+20251030-4675,Suspect 187,47,Person of Interest
+20251030-4679,Suspect 716,41,Person of Interest
+20251030-4679,Suspect 732,51,Suspect
+20251030-4681,Suspect 725,39,Arrested
+20251030-4684,Suspect 271,22,Person of Interest
+20251030-4689,Suspect 685,37,Person of Interest
+20251030-4689,Suspect 894,27,Suspect
+20251030-4689,Suspect 461,21,Person of Interest
+20251030-4690,Suspect 682,65,Arrested
+20251030-4690,Suspect 267,49,Suspect
+20251030-4695,Suspect 630,45,Suspect
+20251030-4695,Suspect 647,48,Arrested
+20251030-4695,Suspect 463,53,Suspect
+20251030-4696,Suspect 791,41,Suspect
+20251030-4696,Suspect 535,32,Person of Interest
+20251030-4696,Suspect 41,26,Person of Interest
+20251030-4698,Suspect 173,25,Wanted
+20251030-4703,Suspect 834,41,Wanted
+20251030-4703,Suspect 186,48,Suspect
+20251030-4703,Suspect 539,40,Wanted
+20251030-4706,Suspect 328,61,Wanted
+20251030-4707,Suspect 510,63,Arrested
+20251030-4709,Suspect 461,63,Person of Interest
+20251030-4709,Suspect 280,37,Arrested
+20251030-4709,Suspect 52,60,Suspect
+20251030-4714,Suspect 214,24,Suspect
+20251030-4714,Suspect 942,64,Suspect
+20251030-4714,Suspect 900,65,Suspect
+20251030-4716,Suspect 996,58,Suspect
+20251030-4716,Suspect 313,38,Person of Interest
+20251030-4718,Suspect 134,31,Suspect
+20251030-4718,Suspect 894,18,Wanted
+20251030-4718,Suspect 72,20,Wanted
+20251030-4720,Suspect 947,50,Person of Interest
+20251030-4720,Suspect 493,45,Wanted
+20251030-4720,Suspect 158,18,Suspect
+20251030-4721,Suspect 638,21,Person of Interest
+20251030-4721,Suspect 398,37,Suspect
+20251030-4721,Suspect 780,46,Person of Interest
+20251030-4722,Suspect 74,59,Arrested
+20251030-4722,Suspect 227,40,Wanted
+20251030-4722,Suspect 26,45,Wanted
+20251030-4723,Suspect 787,30,Arrested
+20251030-4723,Suspect 989,55,Wanted
+20251030-4723,Suspect 330,48,Person of Interest
+20251030-4724,Suspect 842,41,Person of Interest
+20251030-4724,Suspect 946,29,Wanted
+20251030-4724,Suspect 963,20,Person of Interest
+20251030-4729,Suspect 800,27,Arrested
+20251030-4729,Suspect 448,35,Arrested
+20251030-4729,Suspect 464,63,Suspect
+20251030-4731,Suspect 527,49,Person of Interest
+20251030-4732,Suspect 430,58,Arrested
+20251030-4733,Suspect 782,59,Wanted
+20251030-4734,Suspect 606,33,Arrested
+20251030-4735,Suspect 136,52,Arrested
+20251030-4735,Suspect 405,42,Arrested
+20251030-4735,Suspect 111,23,Person of Interest
+20251030-4736,Suspect 349,26,Person of Interest
+20251030-4737,Suspect 48,29,Wanted
+20251030-4739,Suspect 792,47,Person of Interest
+20251030-4739,Suspect 945,61,Arrested
+20251030-4740,Suspect 601,38,Wanted
+20251030-4741,Suspect 290,37,Wanted
+20251030-4741,Suspect 135,40,Person of Interest
+20251030-4741,Suspect 314,50,Person of Interest
+20251030-4744,Suspect 188,51,Suspect
+20251030-4746,Suspect 720,24,Person of Interest
+20251030-4749,Suspect 975,31,Person of Interest
+20251030-4749,Suspect 785,34,Arrested
+20251030-4749,Suspect 259,59,Suspect
+20251030-4750,Suspect 822,25,Person of Interest
+20251030-4750,Suspect 145,38,Suspect
+20251030-4750,Suspect 471,55,Person of Interest
+20251030-4754,Suspect 902,56,Suspect
+20251030-4754,Suspect 993,31,Arrested
+20251030-4754,Suspect 838,54,Arrested
+20251030-4759,Suspect 605,39,Arrested
+20251030-4764,Suspect 582,59,Person of Interest
+20251030-4764,Suspect 941,65,Wanted
+20251030-4764,Suspect 279,24,Person of Interest
+20251030-4769,Suspect 392,25,Person of Interest
+20251030-4769,Suspect 213,61,Person of Interest
+20251030-4769,Suspect 52,49,Person of Interest
+20251030-4774,Suspect 802,23,Suspect
+20251030-4779,Suspect 187,37,Arrested
+20251030-4783,Suspect 607,19,Arrested
+20251030-4783,Suspect 211,30,Person of Interest
+20251030-4783,Suspect 711,32,Person of Interest
+20251030-4784,Suspect 946,42,Suspect
+20251030-4786,Suspect 64,45,Wanted
+20251030-4786,Suspect 146,19,Wanted
+20251030-4786,Suspect 125,46,Arrested
+20251030-4787,Suspect 725,29,Suspect
+20251030-4787,Suspect 676,31,Wanted
+20251030-4791,Suspect 339,36,Wanted
+20251030-4791,Suspect 992,45,Wanted
+20251030-4793,Suspect 620,35,Person of Interest
+20251030-4793,Suspect 473,59,Suspect
+20251030-4794,Suspect 884,62,Wanted
+20251030-4795,Suspect 713,23,Wanted
+20251030-4796,Suspect 182,38,Suspect
+20251030-4796,Suspect 519,41,Person of Interest
+20251030-4797,Suspect 310,51,Wanted
+20251030-4797,Suspect 416,24,Person of Interest
+20251030-4799,Suspect 522,47,Suspect
+20251030-4802,Suspect 551,19,Wanted
+20251030-4802,Suspect 624,31,Suspect
+20251030-4802,Suspect 735,36,Person of Interest
+20251030-4803,Suspect 404,49,Person of Interest
+20251030-4804,Suspect 79,60,Arrested
+20251030-4804,Suspect 275,50,Arrested
+20251030-4804,Suspect 877,19,Suspect
+20251030-4807,Suspect 642,40,Wanted
+20251030-4810,Suspect 547,48,Wanted
+20251030-4811,Suspect 362,60,Suspect
+20251030-4813,Suspect 960,27,Suspect
+20251030-4817,Suspect 346,39,Person of Interest
+20251030-4817,Suspect 142,44,Suspect
+20251030-4817,Suspect 470,41,Arrested
+20251030-4818,Suspect 424,60,Suspect
+20251030-4818,Suspect 873,65,Wanted
+20251030-4819,Suspect 777,61,Suspect
+20251030-4819,Suspect 202,51,Suspect
+20251030-4820,Suspect 544,51,Wanted
+20251030-4823,Suspect 874,43,Wanted
+20251030-4823,Suspect 983,53,Person of Interest
+20251030-4823,Suspect 764,62,Person of Interest
+20251030-4824,Suspect 566,21,Wanted
+20251030-4827,Suspect 414,34,Wanted
+20251030-4829,Suspect 224,23,Wanted
+20251030-4829,Suspect 986,18,Arrested
+20251030-4829,Suspect 666,42,Person of Interest
+20251030-4841,Suspect 781,62,Wanted
+20251030-4841,Suspect 86,20,Person of Interest
+20251030-4848,Suspect 152,36,Wanted
+20251030-4848,Suspect 489,49,Suspect
+20251030-4848,Suspect 45,40,Suspect
+20251030-4849,Suspect 116,35,Arrested
+20251030-4849,Suspect 149,31,Wanted
+20251030-4849,Suspect 652,42,Wanted
+20251030-4850,Suspect 865,18,Arrested
+20251030-4850,Suspect 302,41,Person of Interest
+20251030-4852,Suspect 953,65,Wanted
+20251030-4854,Suspect 146,25,Person of Interest
+20251030-4854,Suspect 180,26,Arrested
+20251030-4856,Suspect 193,43,Person of Interest
+20251030-4858,Suspect 168,23,Wanted
+20251030-4858,Suspect 603,25,Arrested
+20251030-4858,Suspect 476,43,Person of Interest
+20251030-4860,Suspect 599,32,Person of Interest
+20251030-4866,Suspect 765,64,Person of Interest
+20251030-4870,Suspect 573,41,Suspect
+20251030-4870,Suspect 104,61,Wanted
+20251030-4874,Suspect 133,54,Arrested
+20251030-4874,Suspect 7,49,Person of Interest
+20251030-4877,Suspect 917,44,Arrested
+20251030-4878,Suspect 186,55,Person of Interest
+20251030-4878,Suspect 281,53,Wanted
+20251030-4878,Suspect 963,53,Suspect
+20251030-4881,Suspect 679,22,Wanted
+20251030-4881,Suspect 937,28,Suspect
+20251030-4881,Suspect 382,54,Suspect
+20251030-4883,Suspect 612,23,Wanted
+20251030-4883,Suspect 637,30,Suspect
+20251030-4883,Suspect 717,40,Suspect
+20251030-4884,Suspect 822,31,Wanted
+20251030-4884,Suspect 2,33,Person of Interest
+20251030-4887,Suspect 572,51,Suspect
+20251030-4888,Suspect 990,45,Arrested
+20251030-4897,Suspect 345,57,Suspect
+20251030-4898,Suspect 381,62,Arrested
+20251030-4898,Suspect 408,51,Person of Interest
+20251030-4906,Suspect 808,46,Suspect
+20251030-4912,Suspect 23,20,Wanted
+20251030-4912,Suspect 234,38,Suspect
+20251030-4916,Suspect 656,65,Person of Interest
+20251030-4916,Suspect 715,31,Arrested
+20251030-4916,Suspect 388,22,Arrested
+20251030-4921,Suspect 567,24,Suspect
+20251030-4921,Suspect 82,22,Arrested
+20251030-4921,Suspect 516,20,Wanted
+20251030-4922,Suspect 304,30,Arrested
+20251030-4924,Suspect 355,30,Suspect
+20251030-4924,Suspect 944,65,Arrested
+20251030-4926,Suspect 140,39,Arrested
+20251030-4926,Suspect 11,23,Arrested
+20251030-4927,Suspect 750,41,Wanted
+20251030-4928,Suspect 244,24,Arrested
+20251030-4929,Suspect 689,55,Suspect
+20251030-4929,Suspect 537,26,Wanted
+20251030-4931,Suspect 617,33,Arrested
+20251030-4932,Suspect 175,45,Suspect
+20251030-4938,Suspect 841,49,Wanted
+20251030-4939,Suspect 545,24,Wanted
+20251030-4939,Suspect 440,25,Wanted
+20251030-4942,Suspect 318,61,Suspect
+20251030-4942,Suspect 385,32,Suspect
+20251030-4949,Suspect 932,59,Arrested
+20251030-4952,Suspect 514,61,Arrested
+20251030-4953,Suspect 995,46,Suspect
+20251030-4953,Suspect 127,30,Person of Interest
+20251030-4953,Suspect 669,35,Arrested
+20251030-4956,Suspect 117,54,Wanted
+20251030-4956,Suspect 545,26,Arrested
+20251030-4956,Suspect 885,35,Arrested
+20251030-4958,Suspect 187,44,Wanted
+20251030-4958,Suspect 917,58,Person of Interest
+20251030-4959,Suspect 898,31,Person of Interest
+20251030-4959,Suspect 194,18,Wanted
+20251030-4959,Suspect 68,47,Wanted
+20251030-4961,Suspect 325,33,Arrested
+20251030-4963,Suspect 628,42,Wanted
+20251030-4966,Suspect 797,38,Arrested
+20251030-4971,Suspect 184,23,Person of Interest
+20251030-4971,Suspect 272,64,Suspect
+20251030-4974,Suspect 377,51,Person of Interest
+20251030-4974,Suspect 83,46,Arrested
+20251030-4975,Suspect 142,23,Arrested
+20251030-4975,Suspect 504,20,Person of Interest
+20251030-4979,Suspect 213,46,Arrested
+20251030-4979,Suspect 603,57,Suspect
+20251030-4979,Suspect 918,47,Wanted
+20251030-4980,Suspect 990,42,Suspect
+20251030-4980,Suspect 341,55,Arrested
+20251030-4981,Suspect 540,31,Suspect
+20251030-4982,Suspect 437,60,Suspect
+20251030-4983,Suspect 630,37,Arrested
+20251030-4984,Suspect 255,22,Person of Interest
+20251030-4984,Suspect 175,57,Suspect
+20251030-4985,Suspect 446,29,Person of Interest
+20251030-4985,Suspect 776,28,Suspect
+20251030-4986,Suspect 195,65,Person of Interest
+20251030-4986,Suspect 968,21,Arrested
+20251030-4986,Suspect 586,29,Suspect
+20251030-4989,Suspect 207,42,Wanted
+20251030-4989,Suspect 518,47,Arrested
+20251030-4989,Suspect 243,59,Person of Interest
+20251030-4992,Suspect 698,60,Wanted
+20251030-4992,Suspect 892,19,Person of Interest
+20251030-4992,Suspect 138,56,Wanted
+20251030-4993,Suspect 124,23,Person of Interest
+20251030-4993,Suspect 936,21,Suspect
+20251030-4994,Suspect 966,18,Person of Interest
+20251030-4994,Suspect 564,58,Wanted
+20251030-4995,Suspect 708,36,Arrested
+20251030-4995,Suspect 505,25,Wanted
+20251030-4995,Suspect 685,42,Suspect
+20251030-4997,Suspect 368,42,Arrested
+20251030-5000,Suspect 554,47,Arrested
+20251030-5000,Suspect 273,40,Arrested

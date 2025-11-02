@@ -1,0 +1,19 @@
+{
+  "crime_prediction": {
+    "train_score": 0.8583333333333333,
+    "test_score": 0.05
+  },
+  "severity_prediction": {
+    "train_rmse": 0.41460393218538166,
+    "test_rmse": 1.0778707975034112
+  },
+  "hotspot_clustering": {
+    "optimal_k": 2,
+    "silhouette_score": 0.16077102476871133
+  },
+  "anomaly_detection": {
+    "n_anomalies": 15,
+    "anomaly_rate": 5.0
+  },
+  "kernel_density": {}
+}

@@ -1,0 +1,12 @@
+streamlit
+streamlit-option-menu
+pandas
+mysql-connector-python
+Pillow
+plotly
+matplotlib
+numpy
+folium
+opencv-python
+python-dotenv
+oracledb

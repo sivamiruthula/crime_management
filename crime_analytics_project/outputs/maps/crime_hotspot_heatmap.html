@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ce05a4407ca1d00b3187b02f6ec9eb44 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+    <script src="https://cdn.jsdelivr.net/gh/python-visualization/folium@main/folium/templates/leaflet_heat.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_ce05a4407ca1d00b3187b02f6ec9eb44" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_ce05a4407ca1d00b3187b02f6ec9eb44 = L.map(
+                "map_ce05a4407ca1d00b3187b02f6ec9eb44",
+                {
+                    center: [13.052571, 80.23287133333334],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 12,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_a7b3f3fdbcd32cd4f0ee13f359392ff6 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_a7b3f3fdbcd32cd4f0ee13f359392ff6.addTo(map_ce05a4407ca1d00b3187b02f6ec9eb44);
+        
+    
+            var heat_map_f5d73d65a8c30b0aae3c60eab1616f5e = L.heatLayer(
+                [[13.0404, 80.2824, 124.91110735393494], [12.9716, 80.2215, 84.79809277933008], [13.0404, 80.2824, 125.31110735393491], [12.9716, 80.2215, 85.19809277933007], [13.1134, 80.1603, 99.1348836686576], [13.1134, 80.1603, 99.1348836686576], [13.1134, 80.1603, 99.5348836686576], [12.9716, 80.2215, 84.39809277933007], [13.0418, 80.2337, 123.85045958746193], [13.0418, 80.2337, 123.45045958746194], [13.0827, 80.2707, 204.8], [13.0418, 80.2337, 123.05045958746192], [13.1134, 80.1603, 99.9348836686576], [13.0418, 80.2337, 123.05045958746192], [13.0404, 80.2824, 125.31110735393491], [13.0827, 80.2707, 205.2], [13.1134, 80.1603, 99.9348836686576], [13.0404, 80.2824, 125.71110735393492], [13.0404, 80.2824, 126.11110735393493], [12.9716, 80.2215, 84.79809277933008], [13.0404, 80.2824, 124.91110735393494], [13.0418, 80.2337, 123.85045958746193], [13.0418, 80.2337, 123.05045958746192], [13.0827, 80.2707, 205.2], [13.0418, 80.2337, 123.85045958746193], [12.9716, 80.2215, 85.19809277933007], [13.0827, 80.2707, 204.8], [13.0404, 80.2824, 125.31110735393491], [13.0404, 80.2824, 125.31110735393491], [13.1134, 80.1603, 99.1348836686576], [13.0418, 80.2337, 123.45045958746194], [12.9716, 80.2215, 85.19809277933007], [13.0404, 80.2824, 125.71110735393492], [12.9716, 80.2215, 85.19809277933007], [12.9716, 80.2215, 84.39809277933007], [13.0418, 80.2337, 123.45045958746194], [13.1134, 80.1603, 99.1348836686576], [13.1134, 80.1603, 99.5348836686576], [13.0418, 80.2337, 123.05045958746192], [13.0827, 80.2707, 205.6], [13.0827, 80.2707, 204.4], [13.0827, 80.2707, 204.4], [13.0827, 80.2707, 204.8], [12.9716, 80.2215, 83.99809277933008], [13.1134, 80.1603, 99.1348836686576], [12.9716, 80.2215, 84.39809277933007], [13.0418, 80.2337, 123.05045958746192], [13.0404, 80.2824, 125.31110735393491], [13.0418, 80.2337, 123.85045958746193], [13.0404, 80.2824, 126.11110735393493], [13.0404, 80.2824, 125.71110735393492], [13.1134, 80.1603, 99.5348836686576], [13.0827, 80.2707, 205.2], [13.1134, 80.1603, 99.9348836686576], [13.0418, 80.2337, 123.45045958746194], [13.0827, 80.2707, 205.2], [13.1134, 80.1603, 99.9348836686576], [13.0418, 80.2337, 123.85045958746193], [13.0827, 80.2707, 205.6], [13.0827, 80.2707, 204.8], [12.9716, 80.2215, 84.39809277933007], [13.1134, 80.1603, 99.5348836686576], [13.0418, 80.2337, 123.45045958746194], [13.0827, 80.2707, 204.4], [13.0418, 80.2337, 123.45045958746194], [13.0418, 80.2337, 123.05045958746192], [13.0404, 80.2824, 125.31110735393491], [12.9716, 80.2215, 84.39809277933007], [13.0827, 80.2707, 204.8], [13.0418, 80.2337, 123.85045958746193], [13.0418, 80.2337, 123.85045958746193], [13.0827, 80.2707, 204.4], [13.1134, 80.1603, 99.5348836686576], [13.0404, 80.2824, 126.11110735393493], [13.0404, 80.2824, 126.11110735393493], [13.1134, 80.1603, 98.7348836686576], [13.0418, 80.2337, 123.05045958746192], [13.0827, 80.2707, 205.6], [13.0404, 80.2824, 125.71110735393492], [13.0404, 80.2824, 126.11110735393493], [13.0404, 80.2824, 125.31110735393491], [13.0404, 80.2824, 125.31110735393491], [13.1134, 80.1603, 99.9348836686576], [13.0418, 80.2337, 123.85045958746193], [13.0404, 80.2824, 126.11110735393493], [13.0404, 80.2824, 125.31110735393491], [13.0404, 80.2824, 126.11110735393493], [12.9716, 80.2215, 83.99809277933008], [13.1134, 80.1603, 99.5348836686576], [13.0827, 80.2707, 204.4], [13.0404, 80.2824, 126.11110735393493], [13.0418, 80.2337, 123.05045958746192], [13.0404, 80.2824, 125.71110735393492], [12.9716, 80.2215, 85.19809277933007], [13.0418, 80.2337, 123.05045958746192], [12.9716, 80.2215, 85.19809277933007], [13.0827, 80.2707, 204.8], [13.0827, 80.2707, 205.2], [13.0827, 80.2707, 205.6], [12.9716, 80.2215, 85.19809277933007], [12.9716, 80.2215, 84.79809277933008], [13.0827, 80.2707, 205.6], [12.9716, 80.2215, 84.39809277933007], [13.1134, 80.1603, 99.5348836686576], [13.0827, 80.2707, 205.6], [13.0827, 80.2707, 205.2], [13.0827, 80.2707, 205.2], [13.0418, 80.2337, 123.45045958746194], [12.9716, 80.2215, 84.39809277933007], [13.0827, 80.2707, 204.8], [13.0418, 80.2337, 123.05045958746192], [13.0827, 80.2707, 205.2], [13.0418, 80.2337, 122.65045958746194], [12.9716, 80.2215, 83.99809277933008], [13.0827, 80.2707, 204.8], [13.0404, 80.2824, 126.11110735393493], [13.0404, 80.2824, 124.91110735393494], [13.1134, 80.1603, 99.9348836686576], [12.9716, 80.2215, 85.19809277933007], [13.0827, 80.2707, 205.6], [13.1134, 80.1603, 99.5348836686576], [13.0404, 80.2824, 125.71110735393492], [13.0827, 80.2707, 204.8], [13.0404, 80.2824, 124.91110735393494], [13.0404, 80.2824, 124.91110735393494], [13.0418, 80.2337, 122.65045958746194], [13.1134, 80.1603, 98.7348836686576], [12.9716, 80.2215, 84.39809277933007], [12.9716, 80.2215, 84.39809277933007], [13.0404, 80.2824, 125.31110735393491], [13.0404, 80.2824, 126.11110735393493], [13.0404, 80.2824, 126.11110735393493], [13.0418, 80.2337, 123.45045958746194], [12.9716, 80.2215, 85.19809277933007], [13.0827, 80.2707, 205.6], [12.9716, 80.2215, 84.39809277933007], [13.1134, 80.1603, 99.1348836686576], [12.9716, 80.2215, 85.19809277933007], [13.0404, 80.2824, 124.91110735393494], [13.0418, 80.2337, 123.45045958746194], [13.0418, 80.2337, 123.85045958746193], [13.1134, 80.1603, 99.5348836686576], [13.0827, 80.2707, 205.6], [13.0418, 80.2337, 123.85045958746193], [12.9716, 80.2215, 84.39809277933007], [13.0418, 80.2337, 122.65045958746194], [13.0418, 80.2337, 123.45045958746194], [13.0404, 80.2824, 125.31110735393491], [13.0418, 80.2337, 123.05045958746192], [13.0404, 80.2824, 124.91110735393494], [13.1134, 80.1603, 99.1348836686576], [13.0418, 80.2337, 123.45045958746194], [13.1134, 80.1603, 99.9348836686576], [13.0827, 80.2707, 204.8], [13.1134, 80.1603, 99.9348836686576], [13.1134, 80.1603, 99.9348836686576], [13.0827, 80.2707, 205.6], [13.1134, 80.1603, 99.1348836686576], [12.9716, 80.2215, 85.19809277933007], [13.0418, 80.2337, 123.45045958746194], [13.0827, 80.2707, 205.2], [13.0404, 80.2824, 126.11110735393493], [13.0418, 80.2337, 123.85045958746193], [13.0404, 80.2824, 125.71110735393492], [12.9716, 80.2215, 85.19809277933007], [13.0827, 80.2707, 205.6], [12.9716, 80.2215, 84.79809277933008], [13.0418, 80.2337, 123.05045958746192], [13.0827, 80.2707, 204.8], [13.1134, 80.1603, 98.7348836686576], [13.0404, 80.2824, 125.71110735393492], [13.0418, 80.2337, 123.85045958746193], [13.0827, 80.2707, 204.8], [12.9716, 80.2215, 83.99809277933008], [13.1134, 80.1603, 99.1348836686576], [13.0827, 80.2707, 204.8], [13.0827, 80.2707, 204.8], [13.0418, 80.2337, 123.45045958746194], [12.9716, 80.2215, 85.19809277933007], [13.0827, 80.2707, 204.8], [12.9716, 80.2215, 83.99809277933008], [13.1134, 80.1603, 99.5348836686576], [13.0418, 80.2337, 123.45045958746194], [13.0418, 80.2337, 123.85045958746193], [12.9716, 80.2215, 84.39809277933007], [13.1134, 80.1603, 99.5348836686576], [12.9716, 80.2215, 84.39809277933007], [13.0827, 80.2707, 204.8], [13.1134, 80.1603, 99.9348836686576], [13.0404, 80.2824, 125.71110735393492], [12.9716, 80.2215, 85.19809277933007], [13.0827, 80.2707, 205.2], [13.0404, 80.2824, 125.71110735393492], [13.1134, 80.1603, 98.7348836686576], [13.1134, 80.1603, 99.1348836686576], [13.0418, 80.2337, 123.85045958746193], [13.0827, 80.2707, 205.6], [13.1134, 80.1603, 98.7348836686576], [13.0404, 80.2824, 125.71110735393492], [13.0404, 80.2824, 125.31110735393491], [13.0418, 80.2337, 123.05045958746192], [13.0418, 80.2337, 123.85045958746193], [12.9716, 80.2215, 85.19809277933007], [12.9716, 80.2215, 85.19809277933007], [13.1134, 80.1603, 99.1348836686576], [13.0827, 80.2707, 205.6], [13.0827, 80.2707, 204.8], [13.1134, 80.1603, 99.1348836686576], [12.9716, 80.2215, 84.79809277933008], [13.0827, 80.2707, 204.4], [12.9716, 80.2215, 84.39809277933007], [13.1134, 80.1603, 99.1348836686576], [13.0404, 80.2824, 125.31110735393491], [12.9716, 80.2215, 83.99809277933008], [13.0827, 80.2707, 204.8], [13.0418, 80.2337, 123.05045958746192], [13.1134, 80.1603, 99.9348836686576], [13.0404, 80.2824, 125.71110735393492], [13.1134, 80.1603, 99.1348836686576], [12.9716, 80.2215, 83.99809277933008], [12.9716, 80.2215, 84.39809277933007], [13.0418, 80.2337, 123.05045958746192], [12.9716, 80.2215, 84.79809277933008], [13.0418, 80.2337, 123.05045958746192], [13.0827, 80.2707, 205.6], [13.0827, 80.2707, 205.6], [13.0418, 80.2337, 122.65045958746194], [12.9716, 80.2215, 85.19809277933007], [13.1134, 80.1603, 99.5348836686576], [13.0404, 80.2824, 124.91110735393494], [13.0404, 80.2824, 125.71110735393492], [13.1134, 80.1603, 99.5348836686576], [13.0418, 80.2337, 123.85045958746193], [13.0418, 80.2337, 123.45045958746194], [13.1134, 80.1603, 99.9348836686576], [13.0827, 80.2707, 204.8], [13.0404, 80.2824, 126.11110735393493], [13.0404, 80.2824, 125.31110735393491], [13.1134, 80.1603, 99.1348836686576], [13.1134, 80.1603, 99.1348836686576], [13.0827, 80.2707, 205.6], [13.1134, 80.1603, 99.1348836686576], [13.0827, 80.2707, 205.6], [13.0827, 80.2707, 205.6], [13.0404, 80.2824, 125.71110735393492], [13.0418, 80.2337, 123.05045958746192], [12.9716, 80.2215, 84.79809277933008], [13.0827, 80.2707, 205.2], [13.0404, 80.2824, 126.11110735393493], [13.1134, 80.1603, 99.5348836686576], [13.1134, 80.1603, 98.7348836686576], [12.9716, 80.2215, 84.39809277933007], [13.1134, 80.1603, 99.9348836686576], [13.0827, 80.2707, 204.4], [13.1134, 80.1603, 99.1348836686576], [13.0418, 80.2337, 123.85045958746193], [13.1134, 80.1603, 99.5348836686576], [12.9716, 80.2215, 83.99809277933008], [13.0418, 80.2337, 123.85045958746193], [13.0827, 80.2707, 205.6], [13.1134, 80.1603, 99.5348836686576], [13.0418, 80.2337, 123.45045958746194], [13.0827, 80.2707, 205.6], [13.0827, 80.2707, 205.6], [12.9716, 80.2215, 84.79809277933008], [13.1134, 80.1603, 99.1348836686576], [13.0404, 80.2824, 125.71110735393492], [13.0418, 80.2337, 123.45045958746194], [13.1134, 80.1603, 99.9348836686576], [13.0418, 80.2337, 123.05045958746192], [13.0404, 80.2824, 125.31110735393491], [13.1134, 80.1603, 99.9348836686576], [13.0827, 80.2707, 204.8], [12.9716, 80.2215, 84.39809277933007], [13.0827, 80.2707, 204.8], [13.0827, 80.2707, 205.2], [13.1134, 80.1603, 99.5348836686576], [13.1134, 80.1603, 99.5348836686576], [12.9716, 80.2215, 84.39809277933007], [13.0827, 80.2707, 205.2], [13.0404, 80.2824, 126.11110735393493], [13.1134, 80.1603, 98.7348836686576], [12.9716, 80.2215, 84.79809277933008], [13.0827, 80.2707, 204.8], [13.1134, 80.1603, 99.9348836686576], [13.1134, 80.1603, 98.7348836686576], [13.0404, 80.2824, 125.71110735393492], [12.9716, 80.2215, 84.79809277933008], [13.1134, 80.1603, 99.5348836686576], [13.0418, 80.2337, 123.05045958746192], [13.0404, 80.2824, 125.31110735393491], [13.0418, 80.2337, 123.85045958746193], [13.1134, 80.1603, 99.9348836686576], [13.0827, 80.2707, 205.2], [12.9716, 80.2215, 84.39809277933007], [13.1134, 80.1603, 99.1348836686576], [12.9716, 80.2215, 84.39809277933007], [13.0827, 80.2707, 205.6], [13.0404, 80.2824, 125.71110735393492], [12.9716, 80.2215, 84.79809277933008]],
+                {
+  "minOpacity": 0.3,
+  "maxZoom": 18,
+  "radius": 15,
+  "blur": 20,
+  "gradient": {
+  0.4: "blue",
+  0.6: "yellow",
+  0.8: "orange",
+  1: "red",
+},
+  "maxOpacity": 0.8,
+}
+            );
+        
+    
+            heat_map_f5d73d65a8c30b0aae3c60eab1616f5e.addTo(map_ce05a4407ca1d00b3187b02f6ec9eb44);
+        
+    
+            var marker_cluster_4662b96f127ae06ea5204b558b2764ef = L.markerClusterGroup(
+                {
+}
+            );
+        
+    
+            var marker_3ad185d6c80af028a431f2e9ac85d049 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_cb8094be25d67cc22604a6f8ecd72f8c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_732fe7c97b31820829a1fdf0f8ab76fa = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_83b3cacda1163b4e7d4804b8cdf8f5cb = $(`<div id="html_83b3cacda1163b4e7d4804b8cdf8f5cb" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9196<br>                     <b>Crime:</b> Drug Related<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-03-11 15:26:52                 </div>`)[0];
+                popup_732fe7c97b31820829a1fdf0f8ab76fa.setContent(html_83b3cacda1163b4e7d4804b8cdf8f5cb);
+            
+        
+
+        marker_3ad185d6c80af028a431f2e9ac85d049.bindPopup(popup_732fe7c97b31820829a1fdf0f8ab76fa)
+        ;
+
+        
+    
+    
+                marker_3ad185d6c80af028a431f2e9ac85d049.setIcon(icon_cb8094be25d67cc22604a6f8ecd72f8c);
+            
+    
+            var marker_2b541fa66a4a1eeca893ec1196507cde = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_dfe2e46a72ff4544f366dfe7bee1f30d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1b875b7cc93aa0d3572abce6429b7cbf = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6ca66012d15b1ebac9b8b610efd72c9d = $(`<div id="html_6ca66012d15b1ebac9b8b610efd72c9d" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9215<br>                     <b>Crime:</b> Robbery<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-10-13 20:37:00                 </div>`)[0];
+                popup_1b875b7cc93aa0d3572abce6429b7cbf.setContent(html_6ca66012d15b1ebac9b8b610efd72c9d);
+            
+        
+
+        marker_2b541fa66a4a1eeca893ec1196507cde.bindPopup(popup_1b875b7cc93aa0d3572abce6429b7cbf)
+        ;
+
+        
+    
+    
+                marker_2b541fa66a4a1eeca893ec1196507cde.setIcon(icon_dfe2e46a72ff4544f366dfe7bee1f30d);
+            
+    
+            var marker_2d1de97a950a0c6fc59ce5d505f72562 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_7a49443e9b615a85110fe3a58fe59393 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3beb771b87e63b2858af409d3c631b7a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7d9cdb7d435ba84c243cb67e83ec85b1 = $(`<div id="html_7d9cdb7d435ba84c243cb67e83ec85b1" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9234<br>                     <b>Crime:</b> Robbery<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-03-14 16:40:06                 </div>`)[0];
+                popup_3beb771b87e63b2858af409d3c631b7a.setContent(html_7d9cdb7d435ba84c243cb67e83ec85b1);
+            
+        
+
+        marker_2d1de97a950a0c6fc59ce5d505f72562.bindPopup(popup_3beb771b87e63b2858af409d3c631b7a)
+        ;
+
+        
+    
+    
+                marker_2d1de97a950a0c6fc59ce5d505f72562.setIcon(icon_7a49443e9b615a85110fe3a58fe59393);
+            
+    
+            var marker_207f36af8d0001b4279eaa8ee1fc20b4 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_985462d32b1f88cddf39108aa09d18fb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_66f3db647f14b45396b63b74e07dedc2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_419ef4ce2b772221e10aa7a31967f781 = $(`<div id="html_419ef4ce2b772221e10aa7a31967f781" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9255<br>                     <b>Crime:</b> Homicide<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-11-28 07:21:17                 </div>`)[0];
+                popup_66f3db647f14b45396b63b74e07dedc2.setContent(html_419ef4ce2b772221e10aa7a31967f781);
+            
+        
+
+        marker_207f36af8d0001b4279eaa8ee1fc20b4.bindPopup(popup_66f3db647f14b45396b63b74e07dedc2)
+        ;
+
+        
+    
+    
+                marker_207f36af8d0001b4279eaa8ee1fc20b4.setIcon(icon_985462d32b1f88cddf39108aa09d18fb);
+            
+    
+            var marker_ce7f371df3088280833ba77cdca8eb18 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_168d2cd75d03f3f8575f6ae5720d9a37 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_b420590e04b38986754b0f3fd1f624df = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3bb6a73e6997efcdf7052d5edb0008c6 = $(`<div id="html_3bb6a73e6997efcdf7052d5edb0008c6" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9258<br>                     <b>Crime:</b> Robbery<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2023-04-30 14:24:57                 </div>`)[0];
+                popup_b420590e04b38986754b0f3fd1f624df.setContent(html_3bb6a73e6997efcdf7052d5edb0008c6);
+            
+        
+
+        marker_ce7f371df3088280833ba77cdca8eb18.bindPopup(popup_b420590e04b38986754b0f3fd1f624df)
+        ;
+
+        
+    
+    
+                marker_ce7f371df3088280833ba77cdca8eb18.setIcon(icon_168d2cd75d03f3f8575f6ae5720d9a37);
+            
+    
+            var marker_d1b2f0b370740d85acebb597cc64e803 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_b16896c5bcf6adedcb274951f1af4e26 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ebc84fe06408bbb2b412150df9b9ea70 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_666cfa806517bcbcbc9bb6ad385d0a08 = $(`<div id="html_666cfa806517bcbcbc9bb6ad385d0a08" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9005<br>                     <b>Crime:</b> Homicide<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-07-02 22:59:56                 </div>`)[0];
+                popup_ebc84fe06408bbb2b412150df9b9ea70.setContent(html_666cfa806517bcbcbc9bb6ad385d0a08);
+            
+        
+
+        marker_d1b2f0b370740d85acebb597cc64e803.bindPopup(popup_ebc84fe06408bbb2b412150df9b9ea70)
+        ;
+
+        
+    
+    
+                marker_d1b2f0b370740d85acebb597cc64e803.setIcon(icon_b16896c5bcf6adedcb274951f1af4e26);
+            
+    
+            var marker_33e69d800cda0e8fcaafe074e7786b7c = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_5508c2f4d800db947a50ea9d407c8f45 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0dc40ce4609904031eddc914f3f52b50 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ba59f3faf80d693a1e236f8e216a6a80 = $(`<div id="html_ba59f3faf80d693a1e236f8e216a6a80" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9020<br>                     <b>Crime:</b> Homicide<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2023-01-01 22:32:18                 </div>`)[0];
+                popup_0dc40ce4609904031eddc914f3f52b50.setContent(html_ba59f3faf80d693a1e236f8e216a6a80);
+            
+        
+
+        marker_33e69d800cda0e8fcaafe074e7786b7c.bindPopup(popup_0dc40ce4609904031eddc914f3f52b50)
+        ;
+
+        
+    
+    
+                marker_33e69d800cda0e8fcaafe074e7786b7c.setIcon(icon_5508c2f4d800db947a50ea9d407c8f45);
+            
+    
+            var marker_00c5733bcae3c4a733f04583e9bdb9ce = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_0585308d900e40bb4e45c3d205249907 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_12f6efe7cbe681e58646d88c540e5900 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f5f8cbbda81f5a2aacd8cabfd4e201d1 = $(`<div id="html_f5f8cbbda81f5a2aacd8cabfd4e201d1" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9035<br>                     <b>Crime:</b> Drug Related<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-01-01 17:05:56                 </div>`)[0];
+                popup_12f6efe7cbe681e58646d88c540e5900.setContent(html_f5f8cbbda81f5a2aacd8cabfd4e201d1);
+            
+        
+
+        marker_00c5733bcae3c4a733f04583e9bdb9ce.bindPopup(popup_12f6efe7cbe681e58646d88c540e5900)
+        ;
+
+        
+    
+    
+                marker_00c5733bcae3c4a733f04583e9bdb9ce.setIcon(icon_0585308d900e40bb4e45c3d205249907);
+            
+    
+            var marker_2f702d740384be56168647d07262b404 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_58b12752bf863b7e0091c04119c97f8a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_ea88af487c4732ea8eaf9e98557726d9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_67a13092ee66c17128331acb26f58f96 = $(`<div id="html_67a13092ee66c17128331acb26f58f96" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9043<br>                     <b>Crime:</b> Robbery<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-01-09 07:54:19                 </div>`)[0];
+                popup_ea88af487c4732ea8eaf9e98557726d9.setContent(html_67a13092ee66c17128331acb26f58f96);
+            
+        
+
+        marker_2f702d740384be56168647d07262b404.bindPopup(popup_ea88af487c4732ea8eaf9e98557726d9)
+        ;
+
+        
+    
+    
+                marker_2f702d740384be56168647d07262b404.setIcon(icon_58b12752bf863b7e0091c04119c97f8a);
+            
+    
+            var marker_566bf9fb118a26398581b9d4a1dc4560 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_26c67a5c71b374c4752450cb8dd4499f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_93ee753cff6dfebc9be859616fabcfa5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0f526e8a567c964eded423dcbe210891 = $(`<div id="html_0f526e8a567c964eded423dcbe210891" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9057<br>                     <b>Crime:</b> Drug Related<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2023-09-25 16:55:23                 </div>`)[0];
+                popup_93ee753cff6dfebc9be859616fabcfa5.setContent(html_0f526e8a567c964eded423dcbe210891);
+            
+        
+
+        marker_566bf9fb118a26398581b9d4a1dc4560.bindPopup(popup_93ee753cff6dfebc9be859616fabcfa5)
+        ;
+
+        
+    
+    
+                marker_566bf9fb118a26398581b9d4a1dc4560.setIcon(icon_26c67a5c71b374c4752450cb8dd4499f);
+            
+    
+            var marker_e173c618e431864eb84be20755f1b0ad = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_3e3ba4919b64054e2b181253c724f7f6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f30390c1a5264c5e8539994161490da1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_469d854366bd69d64b7d961dc874ebf9 = $(`<div id="html_469d854366bd69d64b7d961dc874ebf9" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9066<br>                     <b>Crime:</b> Homicide<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-03-02 12:23:22                 </div>`)[0];
+                popup_f30390c1a5264c5e8539994161490da1.setContent(html_469d854366bd69d64b7d961dc874ebf9);
+            
+        
+
+        marker_e173c618e431864eb84be20755f1b0ad.bindPopup(popup_f30390c1a5264c5e8539994161490da1)
+        ;
+
+        
+    
+    
+                marker_e173c618e431864eb84be20755f1b0ad.setIcon(icon_3e3ba4919b64054e2b181253c724f7f6);
+            
+    
+            var marker_94514965dc488e88a62864ee4309e0ab = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_09c4e45dbbab2c6e3bff900fe85542d4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_206d68f33ad3633bdc7173222c278eca = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7e932b72bf924b2aa6fd99124eab9d30 = $(`<div id="html_7e932b72bf924b2aa6fd99124eab9d30" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9097<br>                     <b>Crime:</b> Robbery<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-08-10 15:43:46                 </div>`)[0];
+                popup_206d68f33ad3633bdc7173222c278eca.setContent(html_7e932b72bf924b2aa6fd99124eab9d30);
+            
+        
+
+        marker_94514965dc488e88a62864ee4309e0ab.bindPopup(popup_206d68f33ad3633bdc7173222c278eca)
+        ;
+
+        
+    
+    
+                marker_94514965dc488e88a62864ee4309e0ab.setIcon(icon_09c4e45dbbab2c6e3bff900fe85542d4);
+            
+    
+            var marker_39d1d6ba4a9b6bd99193026b0fd19a38 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_97dc442add4089165849e6ac65844f5d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5ed4377cacdccb253fb2c5899c2e65e6 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a228d4a7c9c67a5df68b34c109fbc835 = $(`<div id="html_a228d4a7c9c67a5df68b34c109fbc835" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9106<br>                     <b>Crime:</b> Robbery<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2023-11-14 22:06:32                 </div>`)[0];
+                popup_5ed4377cacdccb253fb2c5899c2e65e6.setContent(html_a228d4a7c9c67a5df68b34c109fbc835);
+            
+        
+
+        marker_39d1d6ba4a9b6bd99193026b0fd19a38.bindPopup(popup_5ed4377cacdccb253fb2c5899c2e65e6)
+        ;
+
+        
+    
+    
+                marker_39d1d6ba4a9b6bd99193026b0fd19a38.setIcon(icon_97dc442add4089165849e6ac65844f5d);
+            
+    
+            var marker_142a960c393773a77f810ab86fd090a6 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_79b5cf2ddc8b779f2dbbbc82e696da36 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_c7431a50d6a553c0af9857c52337f1d5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_28059eeae386a045690f512b410129f6 = $(`<div id="html_28059eeae386a045690f512b410129f6" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9125<br>                     <b>Crime:</b> Drug Related<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-03-13 21:33:46                 </div>`)[0];
+                popup_c7431a50d6a553c0af9857c52337f1d5.setContent(html_28059eeae386a045690f512b410129f6);
+            
+        
+
+        marker_142a960c393773a77f810ab86fd090a6.bindPopup(popup_c7431a50d6a553c0af9857c52337f1d5)
+        ;
+
+        
+    
+    
+                marker_142a960c393773a77f810ab86fd090a6.setIcon(icon_79b5cf2ddc8b779f2dbbbc82e696da36);
+            
+    
+            var marker_5f0f78b7152e21d9442dbd86444f4665 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_4c35e935b0389853cbe9f00ba2814435 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_430dce5ac7009adac690e900a341eb6e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c9b3796b2b14649a57acbef6f4049142 = $(`<div id="html_c9b3796b2b14649a57acbef6f4049142" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9126<br>                     <b>Crime:</b> Homicide<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-02-08 18:23:08                 </div>`)[0];
+                popup_430dce5ac7009adac690e900a341eb6e.setContent(html_c9b3796b2b14649a57acbef6f4049142);
+            
+        
+
+        marker_5f0f78b7152e21d9442dbd86444f4665.bindPopup(popup_430dce5ac7009adac690e900a341eb6e)
+        ;
+
+        
+    
+    
+                marker_5f0f78b7152e21d9442dbd86444f4665.setIcon(icon_4c35e935b0389853cbe9f00ba2814435);
+            
+    
+            var marker_b6b510c65c6f1df683db9d02fefef877 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_715d1b92cc9d71a1549c1d76544259a9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_85707edacdfbbfd710d63e5a9c960332 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5199abb2f8c894831dc6aaa5f8025e99 = $(`<div id="html_5199abb2f8c894831dc6aaa5f8025e99" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9141<br>                     <b>Crime:</b> Homicide<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-10-16 01:35:49                 </div>`)[0];
+                popup_85707edacdfbbfd710d63e5a9c960332.setContent(html_5199abb2f8c894831dc6aaa5f8025e99);
+            
+        
+
+        marker_b6b510c65c6f1df683db9d02fefef877.bindPopup(popup_85707edacdfbbfd710d63e5a9c960332)
+        ;
+
+        
+    
+    
+                marker_b6b510c65c6f1df683db9d02fefef877.setIcon(icon_715d1b92cc9d71a1549c1d76544259a9);
+            
+    
+            var marker_253480a7dfb54810cfe19af7b122f43b = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_dc49e0c182a40cb80acfecdc82bd7d1d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_39066c76897ee0009cd99b655bf28ef4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b9e39cb6d09b1255fb86eade350a4140 = $(`<div id="html_b9e39cb6d09b1255fb86eade350a4140" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9143<br>                     <b>Crime:</b> Robbery<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2023-05-06 20:39:02                 </div>`)[0];
+                popup_39066c76897ee0009cd99b655bf28ef4.setContent(html_b9e39cb6d09b1255fb86eade350a4140);
+            
+        
+
+        marker_253480a7dfb54810cfe19af7b122f43b.bindPopup(popup_39066c76897ee0009cd99b655bf28ef4)
+        ;
+
+        
+    
+    
+                marker_253480a7dfb54810cfe19af7b122f43b.setIcon(icon_dc49e0c182a40cb80acfecdc82bd7d1d);
+            
+    
+            var marker_f0ae565fed92b71f1aad96208299a810 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_5f5755f370a6555a327882d599ac2ea9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3fb2dbd80b18c511fc20ece7d2b6c662 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d07987ef9f5721c1770ffa4d2a86fab4 = $(`<div id="html_d07987ef9f5721c1770ffa4d2a86fab4" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9144<br>                     <b>Crime:</b> Drug Related<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2023-06-24 14:53:05                 </div>`)[0];
+                popup_3fb2dbd80b18c511fc20ece7d2b6c662.setContent(html_d07987ef9f5721c1770ffa4d2a86fab4);
+            
+        
+
+        marker_f0ae565fed92b71f1aad96208299a810.bindPopup(popup_3fb2dbd80b18c511fc20ece7d2b6c662)
+        ;
+
+        
+    
+    
+                marker_f0ae565fed92b71f1aad96208299a810.setIcon(icon_5f5755f370a6555a327882d599ac2ea9);
+            
+    
+            var marker_5a08fc639906b7fbc7d7266c12e27860 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_5ab8775644941d54dd982c56e8d27ec5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2b715d279f22e25d13e55e220d0640be = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ac7d5051959dba54f1a58af57b10a088 = $(`<div id="html_ac7d5051959dba54f1a58af57b10a088" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9262<br>                     <b>Crime:</b> Drug Related<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-03-11 18:05:42                 </div>`)[0];
+                popup_2b715d279f22e25d13e55e220d0640be.setContent(html_ac7d5051959dba54f1a58af57b10a088);
+            
+        
+
+        marker_5a08fc639906b7fbc7d7266c12e27860.bindPopup(popup_2b715d279f22e25d13e55e220d0640be)
+        ;
+
+        
+    
+    
+                marker_5a08fc639906b7fbc7d7266c12e27860.setIcon(icon_5ab8775644941d54dd982c56e8d27ec5);
+            
+    
+            var marker_840db22cbd81ac1d6cf5893478bb76fb = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_fbc8702592ef8b343a126228807713b3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_843a5e8a1f26b33d5bc79b488b8c288b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bc514204c2c6184a5d41a4affa8b7734 = $(`<div id="html_bc514204c2c6184a5d41a4affa8b7734" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9265<br>                     <b>Crime:</b> Robbery<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2024-01-29 14:22:11                 </div>`)[0];
+                popup_843a5e8a1f26b33d5bc79b488b8c288b.setContent(html_bc514204c2c6184a5d41a4affa8b7734);
+            
+        
+
+        marker_840db22cbd81ac1d6cf5893478bb76fb.bindPopup(popup_843a5e8a1f26b33d5bc79b488b8c288b)
+        ;
+
+        
+    
+    
+                marker_840db22cbd81ac1d6cf5893478bb76fb.setIcon(icon_fbc8702592ef8b343a126228807713b3);
+            
+    
+            var marker_54655ba3737d1d92ae950b29fe764879 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_65a9583d33662a262152553328be046c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d32b2b71d8b761000b2cae3f12840357 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4e85d98a853c720ea7444d61260f245d = $(`<div id="html_4e85d98a853c720ea7444d61260f245d" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9266<br>                     <b>Crime:</b> Homicide<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2023-01-03 22:45:52                 </div>`)[0];
+                popup_d32b2b71d8b761000b2cae3f12840357.setContent(html_4e85d98a853c720ea7444d61260f245d);
+            
+        
+
+        marker_54655ba3737d1d92ae950b29fe764879.bindPopup(popup_d32b2b71d8b761000b2cae3f12840357)
+        ;
+
+        
+    
+    
+                marker_54655ba3737d1d92ae950b29fe764879.setIcon(icon_65a9583d33662a262152553328be046c);
+            
+    
+            var marker_20615981a4c4f51244c25c96c2cb5774 = L.marker(
+                [13.0827, 80.2707],
+                {
+}
+            ).addTo(marker_cluster_4662b96f127ae06ea5204b558b2764ef);
+        
+    
+            var icon_bd9baf7fdffd0d16c3e1d30d34ad848d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_edf9787a40836e7273e8859ebe45b927 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_856ff9502afa42f2cd21648c7a886a1f = $(`<div id="html_856ff9502afa42f2cd21648c7a886a1f" style="width: 100.0%; height: 100.0%;">                     <b>Case ID:</b> 9300<br>                     <b>Crime:</b> Robbery<br>                     <b>Severity:</b> Critical<br>                     <b>Risk Score:</b> 205.60<br>                     <b>Time:</b> 2023-12-09 21:04:06                 </div>`)[0];
+                popup_edf9787a40836e7273e8859ebe45b927.setContent(html_856ff9502afa42f2cd21648c7a886a1f);
+            
+        
+
+        marker_20615981a4c4f51244c25c96c2cb5774.bindPopup(popup_edf9787a40836e7273e8859ebe45b927)
+        ;
+
+        
+    
+    
+                marker_20615981a4c4f51244c25c96c2cb5774.setIcon(icon_bd9baf7fdffd0d16c3e1d30d34ad848d);
+            
+    
+            marker_cluster_4662b96f127ae06ea5204b558b2764ef.addTo(map_ce05a4407ca1d00b3187b02f6ec9eb44);
+        
+</script>
+</html>
