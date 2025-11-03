@@ -1,32 +1,38 @@
 import psycopg2
 import streamlit as st
 
-# --- PostgreSQL Connection Configuration ---
-DB_USER = "postgres"         # your PostgreSQL username
-DB_PASSWORD = "1"  # replace with your PostgreSQL password
-DB_NAME = "crime_db"         # name of the database you created
-DB_HOST = "localhost"
-DB_PORT = "5432"
+# -----------------------------------------------------
+# PostgreSQL Database Configuration
+# -----------------------------------------------------
+DB_NAME = "crime_db"          # database name in pgAdmin
+DB_USER = "postgres"          # your PostgreSQL username
+DB_PASSWORD = "1"             # your PostgreSQL password
+DB_HOST = "localhost"         # usually localhost
+DB_PORT = "5432"              # default PostgreSQL port
 
-# --- 1️⃣ Persistent Connection via Streamlit Session ---
+
+# -----------------------------------------------------
+# 1️⃣ Persistent Connection (Streamlit Session)
+# -----------------------------------------------------
 def get_connection():
     """Return a persistent PostgreSQL connection stored in Streamlit session."""
     if "db_conn" in st.session_state:
         try:
-            # test the connection
+            # Test connection
             with st.session_state.db_conn.cursor() as cur:
                 cur.execute("SELECT 1;")
             return st.session_state.db_conn
         except Exception:
+            # Reset if connection lost
             st.session_state.db_conn = None
 
     try:
         conn = psycopg2.connect(
+            dbname=DB_NAME,
             user=DB_USER,
             password=DB_PASSWORD,
             host=DB_HOST,
-            port=DB_PORT,
-            dbname=DB_NAME
+            port=DB_PORT
         )
         st.session_state.db_conn = conn
         st.toast("✅ Connected to PostgreSQL Database.")
@@ -37,24 +43,30 @@ def get_connection():
         return None
 
 
-# --- 2️⃣ Safe Query Executor ---
+# -----------------------------------------------------
+# 2️⃣ Safe Query Executor (INSERT/UPDATE/DELETE)
+# -----------------------------------------------------
 def execute_query(query, params=None):
+    """Execute INSERT/UPDATE/DELETE queries safely with rollback support."""
     conn = get_connection()
     if not conn:
         return False
     try:
         with conn.cursor() as cur:
             cur.execute(query, params or ())
-            conn.commit()
+        conn.commit()
         return True
     except Exception as e:
-        st.error(f"❌ Query execution error: {e}")
         conn.rollback()
+        st.error(f"❌ Query execution error: {e}")
         return False
 
 
-# --- 3️⃣ Fetch Data ---
+# -----------------------------------------------------
+# 3️⃣ Data Fetch Utility (SELECT)
+# -----------------------------------------------------
 def fetch_data(query, params=None):
+    """Execute SELECT queries and return results as a list of dicts."""
     conn = get_connection()
     if not conn:
         return []
@@ -69,9 +81,11 @@ def fetch_data(query, params=None):
         return []
 
 
-# --- 4️⃣ Check tables exist ---
+# -----------------------------------------------------
+# 4️⃣ Check Table Existence
+# -----------------------------------------------------
 def check_tables_exist():
-    """Check if required tables exist and are accessible"""
+    """Check if required tables exist in PostgreSQL."""
     conn = get_connection()
     if not conn:
         return False
@@ -98,22 +112,25 @@ def check_tables_exist():
         if missing:
             st.error(f"❌ Missing required tables: {', '.join(missing)}")
             return False
+
         return True
     except Exception as e:
         st.error(f"❌ Error checking tables: {e}")
         return False
 
 
-# --- 5️⃣ Streamlit entrypoint ---
+# -----------------------------------------------------
+# 5️⃣ Streamlit Test Page
+# -----------------------------------------------------
 if __name__ == "__main__":
     st.title("🚓 Crime Management System - PostgreSQL Connectivity Test")
 
-    connected = get_connection()
-    if connected:
-        st.success("✅ Connected to PostgreSQL Database!")
+    conn = get_connection()
+    if conn:
+        st.success("✅ Connected to PostgreSQL Database successfully!")
         if check_tables_exist():
-            st.success("✅ All required tables exist!")
+            st.success("✅ All required tables exist and are accessible!")
         else:
             st.warning("⚠️ Some required tables are missing.")
     else:
-        st.error("❌ Could not connect to database.")
+        st.error("❌ Could not connect to PostgreSQL. Check credentials and server.")
