@@ -10,3 +10,6 @@ folium
 opencv-python
 python-dotenv
 oracledb
+streamlit
+psycopg2-binary
+pandas
