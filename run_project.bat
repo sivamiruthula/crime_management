@@ -1,23 +1,21 @@
-@echo off
-title Crime Management System - Auto Runner
+import os
+import subprocess
 
-echo ==================================================
-echo   🚓 Starting Crime Management System
-echo ==================================================
-echo.
+def start_backend():
+    """
+    Launch Streamlit backend for the Crime Management System.
+    """
+    print("🚀 Starting Crime Management System Backend...")
 
-REM --- Activate Python environment ---
-call frontend_env\Scripts\activate
+    # Activate your Python environment if needed
+    venv_path = r"D:\Crime-Management-System-main\frontend_env\Scripts\activate"
+    project_path = r"D:\Crime-Management-System-main"
 
-REM --- Start Streamlit backend in new window ---
-echo Starting Backend (Streamlit)...
-start cmd /k "cd /d D:\Crime-Management-System-main && call frontend_env\Scripts\activate && python -m streamlit run main_backend.py"
+    # Run Streamlit backend
+    command = f'cmd /k "cd /d {project_path} && call {venv_path} && streamlit run main_backend.py"'
+    subprocess.Popen(command, shell=True)
 
-REM --- Start React frontend in new window ---
-echo Starting Frontend (React)...
-start cmd /k "cd /d D:\Crime-Management-System-main\frontend && npm start"
+    print("✅ Backend is running! Visit http://localhost:8501 in your browser.")
 
-echo.
-echo ✅ Both Backend and Frontend are starting...
-echo Close this window after use.
-pause
+if __name__ == "__main__":
+    start_backend()
